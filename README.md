@@ -1,4 +1,4 @@
-# demosthenes
+# Demosthenes
 
 If you use this repository, dataset or code, please cite as:
 
