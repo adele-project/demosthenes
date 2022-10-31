@@ -2,7 +2,30 @@
 
 If you use this repository, dataset or code, please cite as:
 
-*Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.*
+*Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. URL: https://aclanthology.org/2022.argmining-1.14.*
+
+```
+@inproceedings{grundler-etal-2022-detecting,
+    title = "Detecting Arguments in {CJEU} Decisions on Fiscal State Aid",
+    author = "Grundler, Giulia  and
+      Santin, Piera  and
+      Galassi, Andrea  and
+      Galli, Federico  and
+      Godano, Francesco  and
+      Lagioia, Francesca  and
+      Palmieri, Elena  and
+      Ruggeri, Federico  and
+      Sartor, Giovanni  and
+      Torroni, Paolo",
+    booktitle = "Proceedings of the 9th Workshop on Argument Mining",
+    month = oct,
+    year = "2022",
+    address = "Online and in Gyeongju, Republic of Korea",
+    publisher = "International Conference on Computational Linguistics",
+    url = "https://aclanthology.org/2022.argmining-1.14",
+    pages = "143--157",
+}
+```
 
 
 ## Repository structure
