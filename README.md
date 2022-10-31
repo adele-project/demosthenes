@@ -8,7 +8,7 @@ The corpus is annotated at three hierarchical levels: the argumentative elements
 
 If you use this repository, dataset, or code, please cite our work as:
 
-*Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. URL: https://aclanthology.org/2022.argmining-1.14.*
+*Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. URL: [https://aclanthology.org/2022.argmining-1.14.](https://aclanthology.org/2022.argmining-1.14)*
 
 ```
 @inproceedings{grundler-etal-2022-detecting,
