@@ -1,6 +1,12 @@
 # Demosthenes
 
-If you use this repository, dataset or code, please cite as:
+Repository of the Demosthenes corpus, a novel corpus for argument mining in legal documents composed of 40 decisions of the Court of Justice of the European Union on matters of fiscal state aid.
+The corpus is annotated at three hierarchical levels: the argumentative elements, their types, and their argument schemes.
+
+
+## Citation
+
+If you use this repository, dataset, or code, please cite our work as:
 
 *Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. URL: https://aclanthology.org/2022.argmining-1.14.*
 
