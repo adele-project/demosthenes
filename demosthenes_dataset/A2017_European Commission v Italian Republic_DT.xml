@@ -211,7 +211,7 @@ Findings of the Court
 
 19
 
-<prem ID="A9" T="F"> Therefore, contrary to what the Commission submits, the Italian Republic argued in its application at first instance that the Commission had infringed Article 1(c) of Regulation No 659/1999 by classifying, in the decision at issue, the staggering of payments as new and unlawful aid, and by wrongly requiring that Member State to recover that aid.</prem>
+<prem ID="A9" T="F" SUP="A3|A4|A5|A6|A7|A8"> Therefore, contrary to what the Commission submits, the Italian Republic argued in its application at first instance that the Commission had infringed Article 1(c) of Regulation No 659/1999 by classifying, in the decision at issue, the staggering of payments as new and unlawful aid, and by wrongly requiring that Member State to recover that aid.</prem>
 
 20
 
@@ -219,11 +219,11 @@ Findings of the Court
 
 21
 
-<prem ID="A11" T="F"> It follows that the General Court, contrary to what the Commission argues, did not raise of its own motion a plea relating to the substantive legality of the decision at issue by ruling on the second plea in law of the application before it.</prem> 
+<prem ID="A11" T="F" SUP="A1|A2|A9|A10"> It follows that the General Court, contrary to what the Commission argues, did not raise of its own motion a plea relating to the substantive legality of the decision at issue by ruling on the second plea in law of the application before it.</prem> 
 
 22
 
-<conc ID="A12"> In the light of the foregoing, the first ground of appeal must be rejected as unfounded.</conc>
+<conc ID="A12" SUP="A11"> In the light of the foregoing, the first ground of appeal must be rejected as unfounded.</conc>
 
 
 Second ground of appeal: infringement of Article 108 TFEU and of Article 1 of Regulation No 659/1999 concerning the definitions of ‘new aid’ and ‘existing aid’ 
@@ -286,11 +286,11 @@ Findings of the Court
 
 35
 
-<prem ID="B7" T="F"> The General Court thus concluded, in paragraphs 81 and 82 of that judgment, that the Commission not only ‘misconstrued the concept of “new aid” by reclassifying an existing aid scheme as new unlawful aid without complying with the substantive conditions laid down in Regulation No 659/1999’, but also wrongly ordered the recovery of the aid granted under the existing aid scheme.</prem> <prem ID="B8" T="F"> In doing so, it rejected, in paragraphs 83 to 91 of that judgment, the arguments put forward by the Commission to show that the failure by the Italian authorities to comply with one of the conditions in the declaration of compatibility adopted by the Council entailed, in essence, the reclassification of the existing aid scheme as new and unlawful aid.</prem>
+<prem ID="B7" T="F" SUP="B2|B3|B4|B5|B6" ATT="B26"> The General Court thus concluded, in paragraphs 81 and 82 of that judgment, that the Commission not only ‘misconstrued the concept of “new aid” by reclassifying an existing aid scheme as new unlawful aid without complying with the substantive conditions laid down in Regulation No 659/1999’, but also wrongly ordered the recovery of the aid granted under the existing aid scheme.</prem> <prem ID="B8" T="F"> In doing so, it rejected, in paragraphs 83 to 91 of that judgment, the arguments put forward by the Commission to show that the failure by the Italian authorities to comply with one of the conditions in the declaration of compatibility adopted by the Council entailed, in essence, the reclassification of the existing aid scheme as new and unlawful aid.</prem>
 
 36
 
-<prem ID="B9" T="F"> The Court must therefore ascertain whether, as the Commission claims, the General Court’s reasoning is vitiated by an error of law.</prem>
+<prem ID="B9" T="F" SUP="B1|B7"> The Court must therefore ascertain whether, as the Commission claims, the General Court’s reasoning is vitiated by an error of law.</prem>
 
 37
 
@@ -306,12 +306,12 @@ Findings of the Court
 
 40
 
-<prem ID="B14" T="F"> It thus follows from Article 1 of the Council decision, read in the light of recital 8 of that decision, that the Council made the grant of that exceptional aid expressly dependent on the milk producers complying with two conditions, that is to say, first, the producers are required to repay the aid granted in full by yearly instalments of equal size, and secondly, the repayment period will be limited by an instalment plan beginning on 1 January 2004 and must not go beyond 14 years.</prem>
+<prem ID="B14" T="F" REPH="B15" SUP="B12|B13"> It thus follows from Article 1 of the Council decision, read in the light of recital 8 of that decision, that the Council made the grant of that exceptional aid expressly dependent on the milk producers complying with two conditions, that is to say, first, the producers are required to repay the aid granted in full by yearly instalments of equal size, and secondly, the repayment period will be limited by an instalment plan beginning on 1 January 2004 and must not go beyond 14 years.</prem>
 
 41
 
 
-<prem ID="B15" T="F"> Thus, it follows from that decision that, in the opinion of the Council, the compatibility of that scheme with the internal market and ultimately the authorisation of that scheme are subject to compliance with the conditions laid down in Article 1 of that decision.</prem>
+<prem ID="B15" T="F" REPH="B14" SUP="B12|B13"> Thus, it follows from that decision that, in the opinion of the Council, the compatibility of that scheme with the internal market and ultimately the authorisation of that scheme are subject to compliance with the conditions laid down in Article 1 of that decision.</prem>
 
 42
 
@@ -323,7 +323,7 @@ Findings of the Court
 
 44
 
-<prem ID="B18" T="F"> Consequently, it must be observed that the legislative alteration referred to in paragraph 42 above had the effect of transforming the aid scheme authorised by the Council decision into new and unlawful aid.</prem>
+<prem ID="B18" T="F" SUP="B1|B9|B10|B11|B14|B15|B16|B17|B19|B21|B23|B24|B25|B28|B29"> Consequently, it must be observed that the legislative alteration referred to in paragraph 42 above had the effect of transforming the aid scheme authorised by the Council decision into new and unlawful aid.</prem>
 
 45
 
@@ -331,28 +331,28 @@ Findings of the Court
 
 46
 
-<prem ID="B20" T="L" S="Rule"> Thus, by virtue of Article 1(c) of that regulation, ‘new aid’ is defined as ‘all aid, that is to say, aid schemes and individual aid, which is not existing aid, including alterations to existing aid’.</prem> <prem ID="B21" T="L" S="Itpr"> Since that provision is established in broad terms, it is capable of covering not only the alteration itself, but also the aid concerned by that alteration.</prem>
+<prem ID="B20" T="L" S="Rule"> Thus, by virtue of Article 1(c) of that regulation, ‘new aid’ is defined as ‘all aid, that is to say, aid schemes and individual aid, which is not existing aid, including alterations to existing aid’.</prem> <prem ID="B21" T="L" S="Itpr" SUP="B20"> Since that provision is established in broad terms, it is capable of covering not only the alteration itself, but also the aid concerned by that alteration.</prem>
 
 47
 
-<prem ID="B22" T="L" S="Rule"> In addition, it must be pointed out that, according to Article 1(b)(ii) of that regulation, ‘existing aid’ is understood as being, inter alia, ‘authorised aid, that is to say, aid schemes and individual aid which have been authorised by the Commission or by the Council’.</prem> <prem ID="B23" T="L" S="Itpr">Thus, aid which was the subject of an authorisation decision and which, as a result of an alteration that did not satisfy a condition laid down by that decision in order to ensure the compatibility of that aid with the internal market, is no longer covered by the decision which authorised it, may constitute new aid.</prem>
+<prem ID="B22" T="L" S="Rule"> In addition, it must be pointed out that, according to Article 1(b)(ii) of that regulation, ‘existing aid’ is understood as being, inter alia, ‘authorised aid, that is to say, aid schemes and individual aid which have been authorised by the Commission or by the Council’.</prem> <prem ID="B23" T="L" S="Itpr" SUP="B22">Thus, aid which was the subject of an authorisation decision and which, as a result of an alteration that did not satisfy a condition laid down by that decision in order to ensure the compatibility of that aid with the internal market, is no longer covered by the decision which authorised it, may constitute new aid.</prem>
 
 48
 
 
-<prem ID="B24" T="L" S="Rule|Itpr"> The deferral of payment does not constitute an alteration of a purely formal or administrative nature, nor can it be qualified as an increase in the original budget of an aid scheme within the meaning of Article 4(1) of Regulation No 794/2004.</prem> <prem ID="B25" T="F"> That measure was taken in breach of an authorisation condition governing the repayment of aid authorised exceptionally by the Council under the third subparagraph of Article 108(2) TFEU, a condition which the Council decided would ensure the compatibility of the aid scheme at issue with the internal market.</prem> <prem ID="B26" T="F">Thus, contrary to what the Italian Republic maintains, the Commission was correct in concluding that new aid had been granted, relying solely on the failure to satisfy that condition.</prem>
+<prem ID="B24" T="L" S="Rule|Itpr"> The deferral of payment does not constitute an alteration of a purely formal or administrative nature, nor can it be qualified as an increase in the original budget of an aid scheme within the meaning of Article 4(1) of Regulation No 794/2004.</prem> <prem ID="B25" T="F"> That measure was taken in breach of an authorisation condition governing the repayment of aid authorised exceptionally by the Council under the third subparagraph of Article 108(2) TFEU, a condition which the Council decided would ensure the compatibility of the aid scheme at issue with the internal market.</prem> <prem ID="B26" T="F" SUP="B24|B25">Thus, contrary to what the Italian Republic maintains, the Commission was correct in concluding that new aid had been granted, relying solely on the failure to satisfy that condition.</prem>
 
 49
 
-<prem ID="B27" T="L" S="Rule|Itpr"> It must be added that a sufficiently broad interpretation of the concept of ‘new aid’, within the meaning of Article 1(c) of Regulation No 659/1999, covering not only the alteration made by the Member State concerned to an existing aid scheme, in breach of the authorisation conditions for that scheme, but also the entire aid scheme as altered, makes it possible to ensure the effectiveness of the system of review of State aid in the European Union by promoting compliance by the Member State concerned with the authorisation conditions for the aid scheme.</prem> <prem ID="B28" T="L" S="Itpr"> Thus, if a Member State makes an alteration to an existing aid scheme in breach of an authorisation condition for that scheme, that Member State will have no guarantee that the authorised aid scheme is not affected by that alteration and that the advantages granted on the basis of that scheme will therefore be retained.</prem>
+<prem ID="B27" T="L" S="Rule|Itpr"> It must be added that a sufficiently broad interpretation of the concept of ‘new aid’, within the meaning of Article 1(c) of Regulation No 659/1999, covering not only the alteration made by the Member State concerned to an existing aid scheme, in breach of the authorisation conditions for that scheme, but also the entire aid scheme as altered, makes it possible to ensure the effectiveness of the system of review of State aid in the European Union by promoting compliance by the Member State concerned with the authorisation conditions for the aid scheme.</prem> <prem ID="B28" T="L" S="Itpr" SUP="B27"> Thus, if a Member State makes an alteration to an existing aid scheme in breach of an authorisation condition for that scheme, that Member State will have no guarantee that the authorised aid scheme is not affected by that alteration and that the advantages granted on the basis of that scheme will therefore be retained.</prem>
 
 50
 
-<prem ID="B29" T="F"> The case-law of the Court of Justice relied on by the Italian Republic in support of its arguments, set out in paragraph 26 above, is not relevant to the present case.</prem>
+<prem ID="B29" T="F" SUP="B30|B31|B31bis|B32|B33|B34"> The case-law of the Court of Justice relied on by the Italian Republic in support of its arguments, set out in paragraph 26 above, is not relevant to the present case.</prem>
 
 51
 
-<prem ID="B30" T="L" S="Prec|Rule|Itpr"> First, it is apparent from paragraph 21 of the judgment of 9 October 1984, Heineken Brouwerijen (91/83 and 127/83, EU:C:1984:307), that, if a plan initially notified has in the meantime undergone an alteration of which the Commission has not been informed, the prohibition on implementation in Article 108(3) TFEU applies to the plan as altered in its entirety.</prem> <prem ID="B31" T="L" S="Itpr"> The position would be different only if that alteration in fact constituted a separate aid measure which should be assessed separately and which would therefore not be such as to influence the assessment which the Commission already made of the original aid plan;</prem> <prem ID="B31bis" T="L" S="Itpr">in that case, the prohibition applies only to the aid measure introduced by the alteration.</prem> <prem ID="B32" T="F"> In the light of the finding in paragraph 43 above, that scenario does not concern the alteration at issue, in that it affects a condition to which the declaration of compatibility of the original aid plan was subject.</prem>
+<prem ID="B30" T="L" S="Prec|Rule|Itpr"> First, it is apparent from paragraph 21 of the judgment of 9 October 1984, Heineken Brouwerijen (91/83 and 127/83, EU:C:1984:307), that, if a plan initially notified has in the meantime undergone an alteration of which the Commission has not been informed, the prohibition on implementation in Article 108(3) TFEU applies to the plan as altered in its entirety.</prem> <prem ID="B31" T="L" S="Itpr"> The position would be different only if that alteration in fact constituted a separate aid measure which should be assessed separately and which would therefore not be such as to influence the assessment which the Commission already made of the original aid plan;</prem> <prem ID="B31bis" T="L" S="Itpr">in that case, the prohibition applies only to the aid measure introduced by the alteration.</prem> <prem ID="B32" T="F" SUP="B17"> In the light of the finding in paragraph 43 above, that scenario does not concern the alteration at issue, in that it affects a condition to which the declaration of compatibility of the original aid plan was subject.</prem>
 
 52
 
@@ -365,16 +365,16 @@ Findings of the Court
 54
 
 
-<prem ID="B36" T="L|F" S="Rule|Itpr"> In doing so, the General Court misconstrued the concept of ‘new aid’, within the meaning of Article 1(c) of Regulation No 659/1999, and therefore committed an error of law.</prem> <prem ID="B37" T="L" S="Aut|Itpr"> As is apparent from paragraphs 46 to 52 above and as was observed, in essence, by the Advocate General in point 76 of his Opinion, existing aid which has been altered in breach of the compatibility conditions imposed by the Commission or the Council can no longer be regarded as authorised and, as a result, loses the status of existing aid in its entirety.</prem>
+<prem ID="B36" T="L|F" S="Rule|Itpr" SUP="B35|B37"> In doing so, the General Court misconstrued the concept of ‘new aid’, within the meaning of Article 1(c) of Regulation No 659/1999, and therefore committed an error of law.</prem> <prem ID="B37" T="L" S="Aut|Itpr" SUP="B29|B28|B26"> As is apparent from paragraphs 46 to 52 above and as was observed, in essence, by the Advocate General in point 76 of his Opinion, existing aid which has been altered in breach of the compatibility conditions imposed by the Commission or the Council can no longer be regarded as authorised and, as a result, loses the status of existing aid in its entirety.</prem>
 
 55
 
-<prem ID="B38" T="F">Therefore, the General Court, having held, in paragraphs 81 and 82 of the judgment under appeal, after examining the grounds of the decision at issue in paragraphs 77 to 80 of that judgment, that ‘the Commission [had] not only misconstrued the concept of “new aid” by reclassifying an existing aid scheme as new unlawful aid without complying with the substantive conditions laid down in Regulation No 659/1999 and the case-law on that subject’, but ‘also, and consequently, wrongly ordered the recovery, from the milk producers who benefited from the deferral of payment, … the individual aid granted … under that existing aid scheme’ committed another error of law.</prem> 
+<prem ID="B38" T="F" SUP="B35|B37">Therefore, the General Court, having held, in paragraphs 81 and 82 of the judgment under appeal, after examining the grounds of the decision at issue in paragraphs 77 to 80 of that judgment, that ‘the Commission [had] not only misconstrued the concept of “new aid” by reclassifying an existing aid scheme as new unlawful aid without complying with the substantive conditions laid down in Regulation No 659/1999 and the case-law on that subject’, but ‘also, and consequently, wrongly ordered the recovery, from the milk producers who benefited from the deferral of payment, … the individual aid granted … under that existing aid scheme’ committed another error of law.</prem> 
 
 56
 
 
-<conc ID="B39">In view of the foregoing considerations, the second ground of appeal should be upheld and paragraphs 1 and 2 of the operative part of the judgment under appeal should be set aside, without it being necessary to examine either the second part of the second ground of appeal or the third ground of appeal.</conc>
+<conc ID="B39" SUP="B26|B36|B38">In view of the foregoing considerations, the second ground of appeal should be upheld and paragraphs 1 and 2 of the operative part of the judgment under appeal should be set aside, without it being necessary to examine either the second part of the second ground of appeal or the third ground of appeal.</conc>
 
 57
 

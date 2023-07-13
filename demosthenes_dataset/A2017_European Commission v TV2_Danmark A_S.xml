@@ -345,22 +345,22 @@ Findings of the Court
 
 44
 
-<prem ID="A5" T="L" S="Prec">Accordingly, the concept of intervention ‘through State resources’, within the meaning of that provision, is intended to cover, in addition to advantages granted directly by the State, those granted through a public or private body appointed or established by that State to administer the aid (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 58; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 26; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 20).</prem>
+<prem ID="A5" T="L" SUP="A4" S="Prec">Accordingly, the concept of intervention ‘through State resources’, within the meaning of that provision, is intended to cover, in addition to advantages granted directly by the State, those granted through a public or private body appointed or established by that State to administer the aid (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 58; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 26; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 20).</prem>
 
 45
 
 
-<prem ID="A6" T="L" S="Prec">EU law cannot permit the rules on State aid to be circumvented merely through the creation of autonomous institutions charged with allocating aid (see judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 23).</prem>
+<prem ID="A6" T="L" SUP="A5" S="Prec">EU law cannot permit the rules on State aid to be circumvented merely through the creation of autonomous institutions charged with allocating aid (see judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 23).</prem>
 
 46
 
 
- <prem ID="A7" T="L" S="Prec|Rule">Further, it must be recalled that, in accordance with the Court’s settled case-law, Article 107(1) TFEU covers all the financial means by which the public authorities may actually support undertakings, irrespective of whether or not those means are permanent assets of the State.</prem> <prem ID="A8" T="L" S="Prec">Therefore, even if the sums corresponding to the measure in question are not permanently held by the Treasury, the fact that they constantly remain under public control, and therefore available to the competent national authorities, is sufficient for them to be categorised as ‘State resources’ (see judgments of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 37; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 70; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 35; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 21).</prem>
+ <prem ID="A7" T="L" S="Prec|Rule">Further, it must be recalled that, in accordance with the Court’s settled case-law, Article 107(1) TFEU covers all the financial means by which the public authorities may actually support undertakings, irrespective of whether or not those means are permanent assets of the State.</prem> <prem ID="A8" T="L" SUP="A7" S="Prec">Therefore, even if the sums corresponding to the measure in question are not permanently held by the Treasury, the fact that they constantly remain under public control, and therefore available to the competent national authorities, is sufficient for them to be categorised as ‘State resources’ (see judgments of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 37; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 70; of 30 May 2013, Doux Élevage and Coopérative agricole UKL-ARREE, C‑677/11, EU:C:2013:348, paragraph 35; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 21).</prem>
 
 47
 
 
-<prem ID="A9" T="L" S="Rule|Itpr">It follows that, since the resources of public undertakings are subject to the control of the State and are therefore at its disposal, those resources fall within the scope of the concept of ‘State resources’, within the meaning of Article 107(1) TFEU.</prem> <prem ID="A10" T="L" S="Prec">The State is perfectly capable, by exercising its dominant influence over such undertakings, of directing the use of their resources in order, as the occasion arises, to finance specific advantages in favour of other undertakings (see, to that effect, judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 38).</prem>
+<prem ID="A9" T="L" SUP="A8|A10|A11" S="Rule|Itpr">It follows that, since the resources of public undertakings are subject to the control of the State and are therefore at its disposal, those resources fall within the scope of the concept of ‘State resources’, within the meaning of Article 107(1) TFEU.</prem> <prem ID="A10" T="L" S="Prec">The State is perfectly capable, by exercising its dominant influence over such undertakings, of directing the use of their resources in order, as the occasion arises, to finance specific advantages in favour of other undertakings (see, to that effect, judgment of 16 May 2002, France v Commission, C‑482/99, EU:C:2002:294, paragraph 38).</prem>
 
 48
 
@@ -380,32 +380,32 @@ Findings of the Court
 51
 
 
-<prem ID="A14" T="F">Accordingly, the entire distribution channel of that revenue ending with its transfer to TV2/Danmark was governed by Danish legislation, under which public undertakings specially appointed by the State had the task of administering that revenue.</prem>
+<prem ID="A14" T="F" SUP="A12|A13">Accordingly, the entire distribution channel of that revenue ending with its transfer to TV2/Danmark was governed by Danish legislation, under which public undertakings specially appointed by the State had the task of administering that revenue.</prem>
 
 52
 
 
- <prem ID="A15" T="F">The revenue in question was, accordingly, under public control and at the disposal of the State, which could decide how it was to be used.</prem>
+ <prem ID="A15" T="F" SUP="A14">The revenue in question was, accordingly, under public control and at the disposal of the State, which could decide how it was to be used.</prem>
 
 53
 
 
- <prem ID="A16" T="F">Consequently, in accordance with the Court’s case-law cited in paragraphs 43 to 48 of the present judgment, the revenue at issue constitutes ‘State resources’, within the meaning of Article 107(1) TFEU.</prem>
+ <prem ID="A16" T="F" SUP="A1|A2|A2bis|A2ter|A2quater|A2quinquies|A3|A6|A9|A15">Consequently, in accordance with the Court’s case-law cited in paragraphs 43 to 48 of the present judgment, the revenue at issue constitutes ‘State resources’, within the meaning of Article 107(1) TFEU.</prem>
 
 54
 
 
-<prem ID="A17" T="F">It follows that the General Court erred in law in holding, in paragraph 220 of the judgment under appeal, that the revenue for the years 1995 and 1996, derived from the sale, by TV2 Reklame, of advertising space on TV2/Danmark, and transferred to TV2/Danmark through the TV2 Fund, did not constitute State resources and that, therefore, the Commission had wrongly classified that revenue as ‘State aid’.</prem>
+<prem ID="A17" T="F" SUP="A16">It follows that the General Court erred in law in holding, in paragraph 220 of the judgment under appeal, that the revenue for the years 1995 and 1996, derived from the sale, by TV2 Reklame, of advertising space on TV2/Danmark, and transferred to TV2/Danmark through the TV2 Fund, did not constitute State resources and that, therefore, the Commission had wrongly classified that revenue as ‘State aid’.</prem>
 
 55
 
 
-<prem ID="A18" T="F">As stated above in paragraph 48 of the present judgment, and contrary to what is stated in paragraph 211 of the judgment under appeal, the fact that the source of that revenue, which came from advertisers, was private is of no significance in that regard and is irrelevant to the question whether that revenue was controlled by the Danish authorities.</prem>
+<prem ID="A18" T="F" SFF="A20">As stated above in paragraph 48 of the present judgment, and contrary to what is stated in paragraph 211 of the judgment under appeal, the fact that the source of that revenue, which came from advertisers, was private is of no significance in that regard and is irrelevant to the question whether that revenue was controlled by the Danish authorities.</prem>
 
 56
 
 
-<prem ID="A19" T="F">Moreover, the General Court was wrong to hold, in paragraphs 208 and 212 of the judgment under appeal, that resources originating with third parties that are managed by public undertakings can constitute State resources only when they are voluntarily placed at the disposal of the State by their owners or abandoned by their owners and when the State has assumed the management of those resources.</prem>
+<prem ID="A19" T="F" ATT="A18">Moreover, the General Court was wrong to hold, in paragraphs 208 and 212 of the judgment under appeal, that resources originating with third parties that are managed by public undertakings can constitute State resources only when they are voluntarily placed at the disposal of the State by their owners or abandoned by their owners and when the State has assumed the management of those resources.</prem>
 
 57
 
@@ -415,7 +415,7 @@ Findings of the Court
 58
 
 
-<prem ID="A21" T="F">The same is true of the arguments, in paragraphs 214, 215 and 217 of the judgment under appeal, that only the part of that revenue which, by a decision of the Minister for Culture, was not transferred to TV2/Danmark was capable of constituting a State resource and that the fact that there was no obligation to transfer that revenue each year from the TV2 Fund to TV2/Danmark could not permit a different finding.</prem>
+<prem ID="A21" T="F" SUP="A22|A23">The same is true of the arguments, in paragraphs 214, 215 and 217 of the judgment under appeal, that only the part of that revenue which, by a decision of the Minister for Culture, was not transferred to TV2/Danmark was capable of constituting a State resource and that the fact that there was no obligation to transfer that revenue each year from the TV2 Fund to TV2/Danmark could not permit a different finding.</prem>
 
 59
 
@@ -425,7 +425,7 @@ Findings of the Court
 60
 
 
-<prem ID="A24" T="L|F" S="Prec">Last, the situation at issue in the present case is not comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra (C‑379/98, EU:C:2001:160), in which the Court held that the obligation imposed on private electricity supply undertakings to purchase electricity produced from renewable energy sources at fixed minimum prices did not involve any direct or indirect transfer of State resources to undertakings which produced that type of electricity (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 59; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 74; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 34).</prem>
+<prem ID="A24" T="L|F" SUP="A25|A26|A27" S="Prec">Last, the situation at issue in the present case is not comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra (C‑379/98, EU:C:2001:160), in which the Court held that the obligation imposed on private electricity supply undertakings to purchase electricity produced from renewable energy sources at fixed minimum prices did not involve any direct or indirect transfer of State resources to undertakings which produced that type of electricity (see judgments of 13 March 2001, PreussenElektra, C‑379/98, EU:C:2001:160, paragraph 59; of 17 July 2008, Essent Netwerk Noord and Others, C‑206/06, EU:C:2008:413, paragraph 74; and of 19 December 2013, Association Vent De Colère! and Others, C‑262/12, EU:C:2013:851, paragraph 34).</prem>
 
 61
 
@@ -445,12 +445,12 @@ Findings of the Court
 64
 
 
-<prem ID="A28" T="F">Consequently, the General Court erred in law in holding, in paragraph 213 of the judgment under appeal, that the situation at issue in the present case was comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra (C‑379/98, EU:C:2001:160).</prem>
+<prem ID="A28" T="F" SUP="A24">Consequently, the General Court erred in law in holding, in paragraph 213 of the judgment under appeal, that the situation at issue in the present case was comparable to the situation in the case that gave rise to the judgment of 13 March 2001, PreussenElektra (C‑379/98, EU:C:2001:160).</prem>
 
 65
 
 
- <conc ID="A29">That being the case, the single ground of appeal relied on by the Commission in support of its appeal must be upheld and the judgment under appeal must be set aside, to the extent that it annulled the contested decision in so far as the Commission had held that the advertising revenue for 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid.</conc>
+ <conc ID="A29" SUP="A17|A18|A21|A28">That being the case, the single ground of appeal relied on by the Commission in support of its appeal must be upheld and the judgment under appeal must be set aside, to the extent that it annulled the contested decision in so far as the Commission had held that the advertising revenue for 1995 and 1996 paid to TV2/Danmark through the TV2 Fund constituted State aid.</conc>
 
 The action before the General Court
 

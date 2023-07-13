@@ -260,7 +260,7 @@ Findings of the Court of Justice
 
 21      
 
-<prem ID="A1" T="F"> It should be noted that the decision-making nature of the 2004 letter, even if that were established, has no bearing on the lawfulness of the decision at issue.</prem>
+<prem ID="A1" T="F" SUP="A2" SFF="A3"> It should be noted that the decision-making nature of the 2004 letter, even if that were established, has no bearing on the lawfulness of the decision at issue.</prem>
 
 22      
 
@@ -272,7 +272,7 @@ Findings of the Court of Justice
 
 24      
 
-<conc ID="A4"> Consequently, the first ground of appeal must be rejected.</conc>
+<conc ID="A4" SUP="A1"> Consequently, the first ground of appeal must be rejected.</conc>
 
 
  The second ground of appeal
@@ -296,11 +296,11 @@ Findings of the Court of Justice
 
 30      
 
-<prem ID="B2" T="F"> It is common ground that that plea was only put forward for the first time in the reply.</prem> <prem ID="B3" T="L|F" S="Class"> Furthermore, contrary to what the appellants claim, it cannot be regarded as the extension of the first plea in the action before the General Court, which alleged that the 2004 letter, by which the Commission had adopted a position on the proposed scheme for the promotion of electricity production from RES, was a decision.</prem> <prem ID="B4" T="F"> Moreover, the appellants were not in a position, either before the Court of Justice or the General Court, to provide reasons why that plea could not have been put forward earlier.</prem> <prem ID="B5" T="L|F" S="Rule"> Consequently, the General Court correctly applied Article 84(1) of its Rules of Procedure by rejecting that plea on the ground that it was out of time.</prem>
+<prem ID="B2" T="F"> It is common ground that that plea was only put forward for the first time in the reply.</prem> <prem ID="B3" T="L|F" S="Class"> Furthermore, contrary to what the appellants claim, it cannot be regarded as the extension of the first plea in the action before the General Court, which alleged that the 2004 letter, by which the Commission had adopted a position on the proposed scheme for the promotion of electricity production from RES, was a decision.</prem> <prem ID="B4" T="F"> Moreover, the appellants were not in a position, either before the Court of Justice or the General Court, to provide reasons why that plea could not have been put forward earlier.</prem> <prem ID="B5" T="L|F" S="Rule" SUP="B1|B2|B3|B4"> Consequently, the General Court correctly applied Article 84(1) of its Rules of Procedure by rejecting that plea on the ground that it was out of time.</prem>
 
 31      
 
-<conc ID="B6"> It follows that the second ground of appeal must be rejected.</conc>
+<conc ID="B6" SUP="B5"> It follows that the second ground of appeal must be rejected.</conc>
 
  The third ground of appeal
 
@@ -319,11 +319,11 @@ Findings of the Court of Justice
 
 35      
 
-<prem ID="C3" T="F"> In that regard, in its 2004 letter, the Commission merely expressed a preliminary opinion on a draft of the promotion scheme which was adopted only the following year, the precise conditions of which were not then fully known.</prem> <prem ID="C4" T="F"> Consequently, that letter did not give precise assurances that the initial scheme was not in the nature of State aid.</prem> <prem ID="C5" T="F"> Therefore, the General Court did not err in its legal characterisation by holding in paragraph 70 of the judgment under appeal that that letter could not give rise to any legitimate expectation.</prem>
+<prem ID="C3" T="F"> In that regard, in its 2004 letter, the Commission merely expressed a preliminary opinion on a draft of the promotion scheme which was adopted only the following year, the precise conditions of which were not then fully known.</prem> <prem ID="C4" T="F" SUP="C3"> Consequently, that letter did not give precise assurances that the initial scheme was not in the nature of State aid.</prem> <prem ID="C5" T="F" SUP="C1|C2|C4"> Therefore, the General Court did not err in its legal characterisation by holding in paragraph 70 of the judgment under appeal that that letter could not give rise to any legitimate expectation.</prem>
 
 36      
 
-<prem ID="C6" T="F"> Nor can the General Court be criticised for not taking the view that such an expectation could result from the alleged ‘2006 decision’.</prem> <prem ID="C7" T="F"> As the General Court pointed out in paragraph 60 of the judgment under appeal, that decision had not been placed on the file, nor even specifically identified by the appellants.</prem>
+<prem ID="C6" T="F" SUP="C7"> Nor can the General Court be criticised for not taking the view that such an expectation could result from the alleged ‘2006 decision’.</prem> <prem ID="C7" T="F"> As the General Court pointed out in paragraph 60 of the judgment under appeal, that decision had not been placed on the file, nor even specifically identified by the appellants.</prem>
 
 37      
 
@@ -331,7 +331,7 @@ Findings of the Court of Justice
 
 38      
 
-<prem ID="C9" T="L|F"> Moreover, the appellants may criticise the General Court for failing to take into account certain other factors, which they claim to have submitted to it, only if that evidence proves that they could rely on a legitimate expectation that the initial scheme for the promotion of electricity production from RES would be maintained.</prem> <prem ID="C10" T="F"> The appellants have not shown that that evidence was sufficient to justify the legitimate expectation alleged.</prem>
+<prem ID="C9" T="L|F"> Moreover, the appellants may criticise the General Court for failing to take into account certain other factors, which they claim to have submitted to it, only if that evidence proves that they could rely on a legitimate expectation that the initial scheme for the promotion of electricity production from RES would be maintained.</prem> <prem ID="C10" T="F" SUP="C11"> The appellants have not shown that that evidence was sufficient to justify the legitimate expectation alleged.</prem>
 
 39      
 
@@ -339,7 +339,7 @@ Findings of the Court of Justice
 
 40      
 
-<conc ID="C12">It follows from the foregoing that the third ground of appeal must be rejected.</conc>
+<conc ID="C12" SUP="C5|C6|C7|C9" SFF="C8|C10">It follows from the foregoing that the third ground of appeal must be rejected.</conc>
 
  The fourth ground of appeal
 
@@ -359,19 +359,19 @@ Findings of the Court of Justice
 
 46      
 
-<prem ID="D1" T="F"> By the first part of their fourth ground of appeal, the appellants, referring to the judgment of 28 March 2019, Germany v Commission (C‑405/16 P, EU:C:2019:268, paragraphs 83 to 85), submit that it is not sufficient that the initial promotion scheme was financed by a compulsory levy to enable it to be regarded as being financed through State resources.</prem> <prem ID="D2" T="F"> However, it must be pointed out that that argument is based on a misreading of that judgment.</prem> <prem ID="D3" T="L" S="Prec"> It is apparent from that judgment that the fact of coming from a compulsory levy is, on the contrary, sufficient to identify State resources (see, to that effect, judgment of 28 March 2019, Germany v Commission, C‑405/16 P, EU:C:2019:268, paragraphs 65 to 72).</prem> <prem ID="D3bis" T="L" S="Prec|Itpr"> On the other hand, it is irrelevant that the financing mechanism at issue does not, strictly speaking, fall within the category of fiscal levies under national law (see, to that effect, order of 22 October 2014, Elcogás, C‑275/13, not published, EU:C:2014:2314, paragraph 31).</prem> <prem ID="D4" T="F">The first part of the fourth ground of appeal must therefore be rejected as unfounded.</prem>
+<prem ID="D1" T="F" ATT="D2"> By the first part of their fourth ground of appeal, the appellants, referring to the judgment of 28 March 2019, Germany v Commission (C‑405/16 P, EU:C:2019:268, paragraphs 83 to 85), submit that it is not sufficient that the initial promotion scheme was financed by a compulsory levy to enable it to be regarded as being financed through State resources.</prem> <prem ID="D2" T="F" SUP="D3|D3bis|D4"> However, it must be pointed out that that argument is based on a misreading of that judgment.</prem> <prem ID="D3" T="L" S="Prec"> It is apparent from that judgment that the fact of coming from a compulsory levy is, on the contrary, sufficient to identify State resources (see, to that effect, judgment of 28 March 2019, Germany v Commission, C‑405/16 P, EU:C:2019:268, paragraphs 65 to 72).</prem> <prem ID="D3bis" T="L" S="Prec|Itpr"> On the other hand, it is irrelevant that the financing mechanism at issue does not, strictly speaking, fall within the category of fiscal levies under national law (see, to that effect, order of 22 October 2014, Elcogás, C‑275/13, not published, EU:C:2014:2314, paragraph 31).</prem> <prem ID="D4" T="F" SUP="D2">The first part of the fourth ground of appeal must therefore be rejected as unfounded.</prem>
 
 47      
 
-<prem ID="D5" T="F"> By the second part of their fourth ground of appeal, the appellants submit that the General Court, in any event, infringed EU law and committed a procedural irregularity in finding that there was a compulsory levy.</prem> <prem ID="D6" T="F"> However, even if that finding were incorrect, that error would vitiate the interpretation of national law.</prem> <prem ID="D7" T="L|F"> The interpretation of national law by the General Court is not open to challenge before the appeal court, except where the facts have been distorted (see, to that effect, judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 79 and the case-law cited), which has not been alleged in the present case by the appellants.</prem> <prem ID="D8" T="F"> Accordingly, this part of that ground of appeal must also be rejected as inadmissible.</prem>
+<prem ID="D5" T="F" ATT="D6|D7"> By the second part of their fourth ground of appeal, the appellants submit that the General Court, in any event, infringed EU law and committed a procedural irregularity in finding that there was a compulsory levy.</prem> <prem ID="D6" T="F"> However, even if that finding were incorrect, that error would vitiate the interpretation of national law.</prem> <prem ID="D7" T="L|F"> The interpretation of national law by the General Court is not open to challenge before the appeal court, except where the facts have been distorted (see, to that effect, judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 79 and the case-law cited), which has not been alleged in the present case by the appellants.</prem> <prem ID="D8" T="F" SUP="D6|D7"> Accordingly, this part of that ground of appeal must also be rejected as inadmissible.</prem>
 
 48      
 
-<prem ID="D9" T="F"> By the third part of their fourth ground of appeal, the appellants criticise the General Court for vitiating its judgment with a procedural irregularity by disregarding the evidence which they had adduced to the General Court or which they had proposed to be communicated to that court.</prem> <prem ID="D10" T="F"> However, that part, which does not indicate the elements which are being referred to, is presented in terms that are too imprecise to enable the Court to assess its merits,</prem> <prem ID="D11" T="F"> with the result that it must also be rejected as inadmissible.</prem>
+<prem ID="D9" T="F" ATT="D10"> By the third part of their fourth ground of appeal, the appellants criticise the General Court for vitiating its judgment with a procedural irregularity by disregarding the evidence which they had adduced to the General Court or which they had proposed to be communicated to that court.</prem> <prem ID="D10" T="F"> However, that part, which does not indicate the elements which are being referred to, is presented in terms that are too imprecise to enable the Court to assess its merits,</prem> <prem ID="D11" T="F" SFF="D10"> with the result that it must also be rejected as inadmissible.</prem>
 
 49      
 
-<conc ID="D12"> It follows from the foregoing that the fourth ground of appeal must be rejected.</conc>
+<conc ID="D12" SUP="D4|D8|D11"> It follows from the foregoing that the fourth ground of appeal must be rejected.</conc>
 
 
  The fifth ground of appeal
@@ -386,7 +386,7 @@ Findings of the Court of Justice
 
 52      
 
-<prem ID="E1" T="F"> The appellants submit, in essence, that, in paragraphs 130 to 136 of the judgment under appeal, the General Court wrongly held that the ‘review mechanism’ of the scheme for the promotion of electricity production from RES had not been imposed by the Commission on the Czech Republic and that that mechanism did not exceed the requirements laid down in the 2008 Guidelines applicable to the facts at issue.</prem>
+<prem ID="E1" T="F" ATT="E2|E3"> The appellants submit, in essence, that, in paragraphs 130 to 136 of the judgment under appeal, the General Court wrongly held that the ‘review mechanism’ of the scheme for the promotion of electricity production from RES had not been imposed by the Commission on the Czech Republic and that that mechanism did not exceed the requirements laid down in the 2008 Guidelines applicable to the facts at issue.</prem>
 
 53      
 
@@ -394,7 +394,7 @@ Findings of the Court of Justice
 
 54      
 
-<conc ID="E4"> It follows from the foregoing that the fifth ground of appeal must be rejected.</conc>
+<conc ID="E4" SUP="E2|E3"> It follows from the foregoing that the fifth ground of appeal must be rejected.</conc>
 
 
  The sixth ground of appeal
@@ -417,7 +417,7 @@ Findings of the Court of Justice
 
 59      
 
-<conc ID="F3"> Consequently, the sixth ground of appeal must be rejected.</conc>
+<conc ID="F3" SFF="F1|F2"> Consequently, the sixth ground of appeal must be rejected.</conc>
 
  The seventh ground of appeal
 
@@ -431,11 +431,11 @@ Findings of the Court of Justice
 
 62      
 
-<prem ID="G1" T="F"> It must be stated that the appellants set out the complaint which they criticise the General Court for having misunderstood in the same terms as paragraph 144 of the judgment under appeal.</prem> <prem ID="G2" T="F"> Thus, the first part of the seventh ground of appeal has no factual basis.</prem> <prem ID="G3" T="F"> As for the second part of this ground of appeal, it is ineffective, since it is not directed against the judgment under appeal.</prem> <prem ID="G4" T="F"> Furthermore, and in any event, the General Court held that the Commission had responded to the arguments raised during the administrative procedure, and that assessment is not open to challenge in an appeal, unless there has been a distortion of the facts, which is not alleged in the present case.</prem>
+<prem ID="G1" T="F"> It must be stated that the appellants set out the complaint which they criticise the General Court for having misunderstood in the same terms as paragraph 144 of the judgment under appeal.</prem> <prem ID="G2" T="F" SFF="G1"> Thus, the first part of the seventh ground of appeal has no factual basis.</prem> <prem ID="G3" T="F"> As for the second part of this ground of appeal, it is ineffective, since it is not directed against the judgment under appeal.</prem> <prem ID="G4" T="F"> Furthermore, and in any event, the General Court held that the Commission had responded to the arguments raised during the administrative procedure, and that assessment is not open to challenge in an appeal, unless there has been a distortion of the facts, which is not alleged in the present case.</prem>
 
 63      
 
-<conc ID="G5"> It follows that the seventh ground of appeal must be rejected.</conc>
+<conc ID="G5" SUP="G2|G3" SFF="G4"> It follows that the seventh ground of appeal must be rejected.</conc>
 
  The eighth ground of appeal
 
@@ -449,11 +449,11 @@ Findings of the Court of Justice
 
 66      
 
-<prem ID="H1" T="F"> By their eighth ground of appeal, the appellants, in essence, criticise the General Court for not finding, in paragraphs 157 to 163 of the judgment under appeal, that the Commission had exceeded the limits of its powers by asserting in the decision at issue, first, that the Czech Republic had not infringed the principle of the protection of legitimate expectations under national law, and, secondly, that any compensation granted, as the case may be, by an arbitration decision in itself constitutes State aid, infringes Article 108 TFEU and cannot therefore be enforced.</prem> <prem ID="H2" T="F"> In paragraphs 160 and 161 of the judgment under appeal, the General Court also erred in refusing to identify, in those assertions, the evidence of misuse of powers.</prem>
+<prem ID="H1" T="F" ATT="H4"> By their eighth ground of appeal, the appellants, in essence, criticise the General Court for not finding, in paragraphs 157 to 163 of the judgment under appeal, that the Commission had exceeded the limits of its powers by asserting in the decision at issue, first, that the Czech Republic had not infringed the principle of the protection of legitimate expectations under national law, and, secondly, that any compensation granted, as the case may be, by an arbitration decision in itself constitutes State aid, infringes Article 108 TFEU and cannot therefore be enforced.</prem> <prem ID="H2" T="F" ATT="H4"> In paragraphs 160 and 161 of the judgment under appeal, the General Court also erred in refusing to identify, in those assertions, the evidence of misuse of powers.</prem>
 
 67      
 
-<prem ID="H3" T="F"> It is common ground that the Commission stated in the decision at issue, first, that the Czech Republic had not infringed the principle of legitimate expectations under national law and, secondly, that any compensation which an arbitration tribunal might grant would, in itself, constitute State aid, would infringe Article 108 TFEU and would therefore not be enforceable.</prem> <prem ID="H4" T="L|F" S="Itpr"> However, as the General Court found in paragraphs 158 and 159 of the judgment under appeal, those assertions do not form part of the necessary grounds for the decision at issue.</prem> <prem ID="H5" T="F"> Therefore, the General Court was fully entitled to reject as ineffective the complaints alleging that those assertions were unlawful.</prem> <prem ID="H6" T="F"> Moreover, in paragraph 158 of the judgment under appeal, the General Court expressly accepted that the Commission lacked competence to make a decision on compliance with the principle of the protection of legitimate expectations under national law.</prem>
+<prem ID="H3" T="F"> It is common ground that the Commission stated in the decision at issue, first, that the Czech Republic had not infringed the principle of legitimate expectations under national law and, secondly, that any compensation which an arbitration tribunal might grant would, in itself, constitute State aid, would infringe Article 108 TFEU and would therefore not be enforceable.</prem> <prem ID="H4" T="L|F" S="Itpr"> However, as the General Court found in paragraphs 158 and 159 of the judgment under appeal, those assertions do not form part of the necessary grounds for the decision at issue.</prem> <prem ID="H5" T="F" SUP="H3|H4|H6"> Therefore, the General Court was fully entitled to reject as ineffective the complaints alleging that those assertions were unlawful.</prem> <prem ID="H6" T="F"> Moreover, in paragraph 158 of the judgment under appeal, the General Court expressly accepted that the Commission lacked competence to make a decision on compliance with the principle of the protection of legitimate expectations under national law.</prem>
 
 68      
 
@@ -461,7 +461,7 @@ Findings of the Court of Justice
 
 69      
 
-<conc ID="H8"> Accordingly, the eighth ground of appeal must be rejected.</conc>
+<conc ID="H8" SUP="H5" SFF="H7"> Accordingly, the eighth ground of appeal must be rejected.</conc>
 
 70      
 

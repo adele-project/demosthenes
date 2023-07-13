@@ -246,12 +246,12 @@ Findings of the Court
 23
 
 
-<prem ID="A2" T="L" S="Prec|Itpr|Rule">As regards the concept of ‘regulatory acts’, the Court has held that its scope is more restricted than that of the concept of ‘acts’ used in the first and second limbs of the fourth paragraph of Article 263 TFEU and refers to acts of acts of general application other than legislative acts (see, to that effect, judgment of 3 October 2013, Inuit Tapiriit Kanatami and Others v Parliament and Council, C‑583/11 P, EU:C:2013:625, paragraphs 58 to 61).</prem>
+<prem ID="A2" T="L" SUP="A1|A1bis" S="Prec|Itpr|Rule">As regards the concept of ‘regulatory acts’, the Court has held that its scope is more restricted than that of the concept of ‘acts’ used in the first and second limbs of the fourth paragraph of Article 263 TFEU and refers to acts of acts of general application other than legislative acts (see, to that effect, judgment of 3 October 2013, Inuit Tapiriit Kanatami and Others v Parliament and Council, C‑583/11 P, EU:C:2013:625, paragraphs 58 to 61).</prem>
 
 24
 
 
-<prem ID="A3" T="L" S="Rule|Aut|Itpr">As the Advocate General observes in point 26 of his Opinion, the interpretation supported by the Commission, namely that there are non-legislative acts of general application, such as the decision at issue, that are not covered by the concept of ‘regulatory act’ within the meaning of the third limb of the fourth paragraph of Article 263 TFEU, cannot be accepted.</prem><prem ID="A3bis" T="L" S="Itpr"> There is no basis for that interpretation in the wording, origin or purpose of that provision.</prem>
+<prem ID="A3" T="L" SUP="A3bis|A4|A5|A6|A7" S="Rule|Aut|Itpr">As the Advocate General observes in point 26 of his Opinion, the interpretation supported by the Commission, namely that there are non-legislative acts of general application, such as the decision at issue, that are not covered by the concept of ‘regulatory act’ within the meaning of the third limb of the fourth paragraph of Article 263 TFEU, cannot be accepted.</prem><prem ID="A3bis" T="L" S="Itpr"> There is no basis for that interpretation in the wording, origin or purpose of that provision.</prem>
 
 25
 
@@ -271,7 +271,7 @@ Findings of the Court
 28
 
 
-<prem ID="A8" T="L" S="Rule|Itpr">Consequently, it must be considered that the concept of ‘regulatory act’ within the meaning of the third limb of the fourth paragraph of Article 263 TFEU extends to all non-legislative acts of general application.</prem> <prem ID="A9" T="L|F">Since the decision at issue is not a legislative act, the General Court did not err in law by confining itself, for the purpose of examining the regulatory nature of the three parts of that decision, to assessing whether those parts are of general application.</prem>
+<prem ID="A8" T="L" SUP="A1|A2|A3" S="Rule|Itpr">Consequently, it must be considered that the concept of ‘regulatory act’ within the meaning of the third limb of the fourth paragraph of Article 263 TFEU extends to all non-legislative acts of general application.</prem> <prem ID="A9" T="L|F" SUP="A3">Since the decision at issue is not a legislative act, the General Court did not err in law by confining itself, for the purpose of examining the regulatory nature of the three parts of that decision, to assessing whether those parts are of general application.</prem>
 
 29
 
@@ -286,17 +286,17 @@ Findings of the Court
 31
 
 
-<prem ID="A12" T="L" S="Prec|Rule">As regards the second limb of the fourth paragraph of Article 263 TFEU, the Court has repeatedly held in the field of State aid that decisions of the Commission authorising or prohibiting a national scheme are of general application.</prem> <prem ID="A13" T="L" S="Prec">That general application derives from the fact that such decisions apply to objectively determined situations and produce legal effects with respect to a category of persons envisaged in a general and abstract manner (see, to that effect, judgments of 22 December 2008, British Aggregates v Commission, C‑487/06 P, EU:C:2008:757, paragraph 31; of 17 September 2009, Commission v Koninglijke Friesland/Campina, C‑519/07 P, EU:C:2009:556, paragraph 53 and the case-law cited; and of 28 June 2018, Lowell Financial Services v Commission, C‑219/16 P, not published, EU:C:2018:508, paragraph 42 and the case-law cited).</prem>
+<prem ID="A12" T="L" SUP="A10|A13" S="Prec|Rule">As regards the second limb of the fourth paragraph of Article 263 TFEU, the Court has repeatedly held in the field of State aid that decisions of the Commission authorising or prohibiting a national scheme are of general application.</prem> <prem ID="A13" T="L" S="Prec">That general application derives from the fact that such decisions apply to objectively determined situations and produce legal effects with respect to a category of persons envisaged in a general and abstract manner (see, to that effect, judgments of 22 December 2008, British Aggregates v Commission, C‑487/06 P, EU:C:2008:757, paragraph 31; of 17 September 2009, Commission v Koninglijke Friesland/Campina, C‑519/07 P, EU:C:2009:556, paragraph 53 and the case-law cited; and of 28 June 2018, Lowell Financial Services v Commission, C‑219/16 P, not published, EU:C:2018:508, paragraph 42 and the case-law cited).</prem>
 
 32
 
 
-<prem ID="A14" T="L" S="Aut|Rule|Itpr">As the Advocate General observes in points 48 and 49 of his Opinion, that case-law may be applied to the third limb of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="A15" T="L" S="Class|Rule">The issue of whether or not an act is of general application concerns an objective characteristic of the act which cannot vary according to the different limbs of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="A16" T="L" S="Rule|Itpr">Moreover, an interpretation according to which an act could at the same time be of general application in relation to the second limb of the fourth paragraph of Article 263 TFEU and not be of general application in relation to the third limb of the fourth paragraph of Article 263 TFEU would run counter to the objective behind the addition of that provision, which was to relax the conditions of admissibility for annulment actions brought by natural or legal persons.</prem>
+<prem ID="A14" T="L" SUP="A11|A12|A15|A16" S="Aut|Rule|Itpr">As the Advocate General observes in points 48 and 49 of his Opinion, that case-law may be applied to the third limb of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="A15" T="L" S="Class|Rule">The issue of whether or not an act is of general application concerns an objective characteristic of the act which cannot vary according to the different limbs of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="A16" T="L" S="Rule|Itpr">Moreover, an interpretation according to which an act could at the same time be of general application in relation to the second limb of the fourth paragraph of Article 263 TFEU and not be of general application in relation to the third limb of the fourth paragraph of Article 263 TFEU would run counter to the objective behind the addition of that provision, which was to relax the conditions of admissibility for annulment actions brought by natural or legal persons.</prem>
 
 33
 
 
-<prem ID="A17" T="F">Consequently, the General Court did not err in law in considering that the second and third parts of the decision at issue are of general application.</prem>
+<prem ID="A17" T="F" SUP="A14">Consequently, the General Court did not err in law in considering that the second and third parts of the decision at issue are of general application.</prem>
 
 34
 
@@ -306,27 +306,27 @@ Findings of the Court
 35
 
 
-<prem ID="A19" T="F">However, contrary to the Commission’s arguments, it cannot be deduced from that case-law that the first part of the decision at issue is not of general application and is therefore not regulatory.</prem>
+<prem ID="A19" T="F" SUP="A21|A23">However, contrary to the Commission’s arguments, it cannot be deduced from that case-law that the first part of the decision at issue is not of general application and is therefore not regulatory.</prem>
 
 36
 
 
-<prem ID="A20" T="L" S="Itpr">It follows from that case-law that the fact that that part is of individual concern to the restricted class of beneficiaries of the aid scheme concerned does not preclude that part from being regarded as of general application where it applies to objectively determined situations and produces legal effects for categories of persons envisaged in a general and abstract manner.</prem>
+<prem ID="A20" T="L" SUP="A18" S="Itpr">It follows from that case-law that the fact that that part is of individual concern to the restricted class of beneficiaries of the aid scheme concerned does not preclude that part from being regarded as of general application where it applies to objectively determined situations and produces legal effects for categories of persons envisaged in a general and abstract manner.</prem>
 
 37
 
 
-<prem ID="A21" T="F">That is so in the present case.</prem>
+<prem ID="A21" T="F" SUP="A20|A22" REPH="A23">That is so in the present case.</prem>
 
 38
 
 
-<prem ID="A22" T="F">Since the Commission considered, in the first part of the decision at issue, that it was not appropriate to order the recovery of the aid granted by virtue of the exemption from ICI despite its being unlawful and incompatible with the internal market, that decision preserves the anticompetitive effects of the general and abstract measure which that exemption constitutes with respect to an indefinite number of competitors of the beneficiaries of the aid granted under that measure.</prem> <prem ID="A23" T="F">The decision therefore applies to objectively determined situations and produces legal effects for categories of persons envisaged in a general and abstract manner.</prem>
+<prem ID="A22" T="F">Since the Commission considered, in the first part of the decision at issue, that it was not appropriate to order the recovery of the aid granted by virtue of the exemption from ICI despite its being unlawful and incompatible with the internal market, that decision preserves the anticompetitive effects of the general and abstract measure which that exemption constitutes with respect to an indefinite number of competitors of the beneficiaries of the aid granted under that measure.</prem> <prem ID="A23" T="F" SUP="A20|A22" REPH="A21">The decision therefore applies to objectively determined situations and produces legal effects for categories of persons envisaged in a general and abstract manner.</prem>
 
 39
 
 
-<prem ID="A24" T="F">It follows that the General Court was entitled to consider that the first part of the decision at issue is of general application.</prem> <conc ID="A25">Consequently, the first part of the single ground of appeal of the Commission’s appeals must be rejected.</conc>
+<prem ID="A24" T="F" SUP="A19">It follows that the General Court was entitled to consider that the first part of the decision at issue is of general application.</prem> <conc ID="A25" SUP="A9|A17|A24">Consequently, the first part of the single ground of appeal of the Commission’s appeals must be rejected.</conc>
 
 Second part
 
@@ -352,17 +352,17 @@ Findings of the Court
 43
 
 
-<prem ID="B2" T="L" S="Itpr|Prec">As regards specifically the rules on State aid, it must be noted that their objective is to preserve competition (see, to that effect, judgments of 15 June 2006, Air Liquide Industries Belgium, C‑393/04 and C‑41/05, EU:C:2006:403, paragraph 27 and the case-law cited, and of 17 July 2008, Essent Network Noord and Others, C‑206/06, EU:C:2008:413, paragraph 60).</prem><prem ID="B3" T="L" S="Prec|Rule">So, in that field, the fact that a Commission decision leaves intact all the effects of the national measures which the applicant, in a complaint addressed to that institution, claimed were not compatible with that objective and placed it in an unfavourable competitive position makes it possible to conclude that the decision directly affects its legal situation, in particular its right under the provisions on State aid of the FEU Treaty not to be subject to competition distorted by the national measures concerned (see, to that effect, judgment of 28 January 1986, Cofaz and Others v Commission, 169/84, EU:C:1986:42, paragraph 30).</prem>
+<prem ID="B2" T="L" S="Itpr|Prec">As regards specifically the rules on State aid, it must be noted that their objective is to preserve competition (see, to that effect, judgments of 15 June 2006, Air Liquide Industries Belgium, C‑393/04 and C‑41/05, EU:C:2006:403, paragraph 27 and the case-law cited, and of 17 July 2008, Essent Network Noord and Others, C‑206/06, EU:C:2008:413, paragraph 60).</prem><prem ID="B3" T="L" SUP="B1|B2" S="Prec|Rule">So, in that field, the fact that a Commission decision leaves intact all the effects of the national measures which the applicant, in a complaint addressed to that institution, claimed were not compatible with that objective and placed it in an unfavourable competitive position makes it possible to conclude that the decision directly affects its legal situation, in particular its right under the provisions on State aid of the FEU Treaty not to be subject to competition distorted by the national measures concerned (see, to that effect, judgment of 28 January 1986, Cofaz and Others v Commission, 169/84, EU:C:1986:42, paragraph 30).</prem>
 
 44
 
 
-<prem ID="B4" T="F">In the present case, with respect to the first of the two criteria mentioned in paragraph 42 above, the General Court considered in substance, in paragraph 42 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), and paragraph 45 of the judgment of 15 September 2016, Ferracci v Commission (T‑219/13, EU:T:2016:485), that it was satisfied because the services offered by Mr Ferracci and Scuola Elementare Maria Montessori respectively were similar to those offered by the beneficiaries of the national measures assessed in the decision at issue and, consequently, the former ‘might be in a competitive relationship’ with the latter.</prem>
+<prem ID="B4" T="F" ATT="B5">In the present case, with respect to the first of the two criteria mentioned in paragraph 42 above, the General Court considered in substance, in paragraph 42 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), and paragraph 45 of the judgment of 15 September 2016, Ferracci v Commission (T‑219/13, EU:T:2016:485), that it was satisfied because the services offered by Mr Ferracci and Scuola Elementare Maria Montessori respectively were similar to those offered by the beneficiaries of the national measures assessed in the decision at issue and, consequently, the former ‘might be in a competitive relationship’ with the latter.</prem>
 
 45
 
 
-<prem ID="B5" T="F">As the Commission rightly submits, that reasoning is vitiated by an error of law.</prem>
+<prem ID="B5" T="F" INH="B9">As the Commission rightly submits, that reasoning is vitiated by an error of law.</prem>
 
 46
 
@@ -372,7 +372,7 @@ Findings of the Court
 47
 
 
-<prem ID="B7" T="L" S="Itpr">Given that the condition of direct concern requires the contested measure to produce effects directly on the applicant’s legal situation, the EU judicature must ascertain whether the applicant has adequately explained the reasons why the Commission’s decision is liable to place him in an unfavourable competitive position and thus to produce effects on his legal situation.</prem>
+<prem ID="B7" SUP="B3|B6" T="L" S="Itpr">Given that the condition of direct concern requires the contested measure to produce effects directly on the applicant’s legal situation, the EU judicature must ascertain whether the applicant has adequately explained the reasons why the Commission’s decision is liable to place him in an unfavourable competitive position and thus to produce effects on his legal situation.</prem>
 
 48
 
@@ -382,7 +382,7 @@ Findings of the Court
 49
 
 
-<prem ID="B9" T="F">That is the case here.</prem>
+<prem ID="B9" T="F" SUP="B7|B8|B15">That is the case here.</prem>
 
 50
 
@@ -392,7 +392,7 @@ Findings of the Court
 51
 
 
-<prem ID="B12" T="L|F" S="Prec">Contrary to the arguments of the Commission, that conclusion is not called into question by the judgments of 28 April 2015, TL Sugars and Sidul Açúcares v Commission (C‑456/13 P, EU:C:2015:284), and of 17 September 2015, Confederazione Cooperative Italiane and Others v Anicav and Others (C‑455/13 P, C‑457/13 P and C‑460/13 P, not published, EU:C:2015:616).</prem> <prem ID="B13" T="L" S="Prec">While the Court held in those judgments that the mere fact that provisions adopted as part of the common agricultural policy place an applicant in an unfavourable competitive position does not in itself allow it to be concluded that those provisions affect the applicant’s legal situation, that line of case-law cannot be transposed to actions brought by competitors of beneficiaries of State aid.</prem>
+<prem ID="B12" T="L|F" SUP="B13|B14" S="Prec">Contrary to the arguments of the Commission, that conclusion is not called into question by the judgments of 28 April 2015, TL Sugars and Sidul Açúcares v Commission (C‑456/13 P, EU:C:2015:284), and of 17 September 2015, Confederazione Cooperative Italiane and Others v Anicav and Others (C‑455/13 P, C‑457/13 P and C‑460/13 P, not published, EU:C:2015:616).</prem> <prem ID="B13" T="L" S="Prec">While the Court held in those judgments that the mere fact that provisions adopted as part of the common agricultural policy place an applicant in an unfavourable competitive position does not in itself allow it to be concluded that those provisions affect the applicant’s legal situation, that line of case-law cannot be transposed to actions brought by competitors of beneficiaries of State aid.</prem>
 
 52
 
@@ -402,17 +402,17 @@ Findings of the Court
 53
 
 
-<prem ID="B15" T="F">Consequently, the actions brought by Mr Ferracci and Scuola Elementare Maria Montessori satisfy the first of the two criteria mentioned in paragraph 42 above.</prem>
+<prem ID="B15" T="F" SUP="B10|B11|B12" SFF="B12">Consequently, the actions brought by Mr Ferracci and Scuola Elementare Maria Montessori satisfy the first of the two criteria mentioned in paragraph 42 above.</prem>
 
 54
 
 
-<prem ID="B16" T="F">With respect to the second of those criteria, the General Court considered in paragraph 45 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), and paragraph 48 of the judgment of 15 September 2016, Ferracci v Commission (T‑219/13, EU:T:2016:485), that the decision at issue, both in its first part and in its second and third parts, produces legal effects purely automatically on the basis of the EU rules alone without the application of other intermediate rules.</prem> <prem ID="B17" T="F" S="Aut">As the Advocate General observes in substance in point 52 of his Opinion, that consideration, which is not contested by the Commission in these appeals, is not vitiated by any error of law.</prem>
+<prem ID="B16" T="F">With respect to the second of those criteria, the General Court considered in paragraph 45 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), and paragraph 48 of the judgment of 15 September 2016, Ferracci v Commission (T‑219/13, EU:T:2016:485), that the decision at issue, both in its first part and in its second and third parts, produces legal effects purely automatically on the basis of the EU rules alone without the application of other intermediate rules.</prem> <prem ID="B17" T="F" SUP="B1|B16" S="Aut">As the Advocate General observes in substance in point 52 of his Opinion, that consideration, which is not contested by the Commission in these appeals, is not vitiated by any error of law.</prem>
 
 55
 
 
-<prem ID="B18" T="F">It follows that the General Court was entitled to consider that Mr Ferracci and Scuola Elementare Maria Montessori were directly concerned by the decision at issue.</prem> <conc ID="B19">The second part of the single ground of appeal of the Commission’s appeals must therefore be rejected.</conc>
+<prem ID="B18" T="F" SUP="B17">It follows that the General Court was entitled to consider that Mr Ferracci and Scuola Elementare Maria Montessori were directly concerned by the decision at issue.</prem> <conc ID="B19" SUP="B15|B18">The second part of the single ground of appeal of the Commission’s appeals must therefore be rejected.</conc>
 
 Third part
 
@@ -448,12 +448,12 @@ Findings of the Court
 61
 
 
-<prem ID="C8" T="L" S="Prec|Rule">The Court has, moreover, repeatedly held that the question whether a regulatory act entails implementing measures should be assessed by reference to the position of the person pleading the right to bring proceedings under the third limb of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="C9" T="L" S="Prec">It is therefore irrelevant whether the act in question entails implementing measures with regard to other persons.</prem> <prem ID="C10" T="L" S="Prec">Furthermore, in that assessment, reference should be made exclusively to the subject matter of the action (see, to that effect, judgments of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraphs 30 and 31; of 27 February 2014, Stichting Woonpunt and Others v Commission, C‑132/12 P, EU:C:2014:100, paragraphs 50 and 51; and of 13 March 2018, European Union Copper Task Force v Commission, C‑384/16 P, EU:C:2018:176, paragraphs 38 and 39 and the case-law cited).</prem>
+<prem ID="C8" T="L" SUP="C1" S="Prec|Rule">The Court has, moreover, repeatedly held that the question whether a regulatory act entails implementing measures should be assessed by reference to the position of the person pleading the right to bring proceedings under the third limb of the fourth paragraph of Article 263 TFEU.</prem> <prem ID="C9" T="L" SUP="C8" S="Prec">It is therefore irrelevant whether the act in question entails implementing measures with regard to other persons.</prem> <prem ID="C10" T="L" S="Prec">Furthermore, in that assessment, reference should be made exclusively to the subject matter of the action (see, to that effect, judgments of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraphs 30 and 31; of 27 February 2014, Stichting Woonpunt and Others v Commission, C‑132/12 P, EU:C:2014:100, paragraphs 50 and 51; and of 13 March 2018, European Union Copper Task Force v Commission, C‑384/16 P, EU:C:2018:176, paragraphs 38 and 39 and the case-law cited).</prem>
 
 62
 
 
-<prem ID="C11" T="F" S="Rule|Prec|Itpr">In the present case, in so far as the actions brought by Mr Ferracci and Scuola Elementare Maria Montessori sought the annulment of the first part of the decision at issue, it must be considered, as the Advocate General observes in point 69 of his Opinion, that, the materialisation of the legal effects of the decision not to order recovery of the aid found to be unlawful and incompatible with the internal market, which was the subject of that first part, did not need any implementing measures which could be the subject of judicial review by the EU judicature or the national courts.</prem> <prem ID="C12" T="F">The General Court was therefore entitled to conclude that that part does not entail implementing measures within the meaning of the third limb of the fourth paragraph of Article 263 TFEU with respect to Mr Ferracci and Scuola Elementare Maria Montessori.</prem> <prem ID="C13" T="F">Nor indeed does the Commission put forward any specific argument to challenge that conclusion.</prem>
+<prem ID="C11" T="F" SUP="C1|C2|C3|C4|C5|C6|C7|C9|C10" S="Rule|Prec|Itpr">In the present case, in so far as the actions brought by Mr Ferracci and Scuola Elementare Maria Montessori sought the annulment of the first part of the decision at issue, it must be considered, as the Advocate General observes in point 69 of his Opinion, that, the materialisation of the legal effects of the decision not to order recovery of the aid found to be unlawful and incompatible with the internal market, which was the subject of that first part, did not need any implementing measures which could be the subject of judicial review by the EU judicature or the national courts.</prem> <prem ID="C12" T="F" SUP="C11">The General Court was therefore entitled to conclude that that part does not entail implementing measures within the meaning of the third limb of the fourth paragraph of Article 263 TFEU with respect to Mr Ferracci and Scuola Elementare Maria Montessori.</prem> <prem ID="C13" T="F">Nor indeed does the Commission put forward any specific argument to challenge that conclusion.</prem>
 
 63
 
@@ -463,27 +463,27 @@ Findings of the Court
 64
 
 
-<prem ID="C15" T="L" S="Prec|Itpr">That case-law reflects the fact that a beneficiary of an aid scheme can, where he satisfies the conditions under national law for being eligible for that scheme, request the national authorities to grant him the aid as it would have been granted if there were an unconditional decision declaring the scheme compatible with the internal market, and contest before the national courts a measure refusing that request, pleading the invalidity of the Commission’s decision declaring the scheme incompatible with the internal market or compatible with that market subject to compliance with commitments entered into by the Member State concerned, in order to cause those courts to refer questions to the Court for a preliminary ruling on its validity (see, to that effect, judgment of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraphs 36 and 59, and order of 15 January 2015, Banco Bilbao Vizcaya Argentaria and Telefónica v Commission, C‑587/13 P and C‑588/13 P, not published, EU:C:2015:18, paragraphs 49 and 65).</prem>
+<prem ID="C15" T="L" SUP="C14" S="Prec|Itpr">That case-law reflects the fact that a beneficiary of an aid scheme can, where he satisfies the conditions under national law for being eligible for that scheme, request the national authorities to grant him the aid as it would have been granted if there were an unconditional decision declaring the scheme compatible with the internal market, and contest before the national courts a measure refusing that request, pleading the invalidity of the Commission’s decision declaring the scheme incompatible with the internal market or compatible with that market subject to compliance with commitments entered into by the Member State concerned, in order to cause those courts to refer questions to the Court for a preliminary ruling on its validity (see, to that effect, judgment of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraphs 36 and 59, and order of 15 January 2015, Banco Bilbao Vizcaya Argentaria and Telefónica v Commission, C‑587/13 P and C‑588/13 P, not published, EU:C:2015:18, paragraphs 49 and 65).</prem>
 
 65
 
 
-<prem ID="C16" T="F">However, that case-law cannot be applied to the situation of the competitors of beneficiaries of a national measure that has been found not to constitute State aid within the meaning of Article 107(1) TFEU, such as Mr Ferracci and Scuola Elementare Maria Montessori.</prem> <prem ID="C17" T="F">The situation of such a competitor differs from that of the beneficiaries of aid referred to by that case-law, in that the competitor does not satisfy the conditions laid down by the national measure in question for eligibility for that aid.</prem>
+<prem ID="C16" T="F" SUP="C15|C17">However, that case-law cannot be applied to the situation of the competitors of beneficiaries of a national measure that has been found not to constitute State aid within the meaning of Article 107(1) TFEU, such as Mr Ferracci and Scuola Elementare Maria Montessori.</prem> <prem ID="C17" T="F">The situation of such a competitor differs from that of the beneficiaries of aid referred to by that case-law, in that the competitor does not satisfy the conditions laid down by the national measure in question for eligibility for that aid.</prem>
 
 66
 
 
-<prem ID="C18" T="F" S="Aut">In those circumstances, as the Advocate General observes in point 71 of his Opinion, it would be artificial to require that competitor to request the national authorities to grant him that benefit and to contest the refusal of that request before a national court, in order to cause the national court to make a reference to the Court on the validity of the Commission’s decision concerning that measure.</prem>
+<prem ID="C18" T="F" SUP="C16" S="Aut">In those circumstances, as the Advocate General observes in point 71 of his Opinion, it would be artificial to require that competitor to request the national authorities to grant him that benefit and to contest the refusal of that request before a national court, in order to cause the national court to make a reference to the Court on the validity of the Commission’s decision concerning that measure.</prem>
 
 67
 
 
-<prem ID="C19" T="F">The General Court was therefore entitled to find that the decision at issue did not, either in its first or in its second and third parts, comprise implementing measures with respect to Scuola Elementare Maria Montessori and Mr Ferracci.</prem>
+<prem ID="C19" T="F" SUP="C12|C18" SFF="C13">The General Court was therefore entitled to find that the decision at issue did not, either in its first or in its second and third parts, comprise implementing measures with respect to Scuola Elementare Maria Montessori and Mr Ferracci.</prem>
 
 68
 
 
-<conc ID="C20">Consequently, the third part of the single ground of appeal of the Commission’s appeals must be rejected, and those appeals must therefore be dismissed in their entirety.</conc>
+<conc ID="C20" SUP="C19">Consequently, the third part of the single ground of appeal of the Commission’s appeals must be rejected, and those appeals must therefore be dismissed in their entirety.</conc>
 
 Scuola Elementare Maria Montessori’s appeal in Case C‑622/16 P
 
@@ -571,12 +571,12 @@ Findings of the Court
 84
 
 
-<prem ID="D10" T="L|F" S="Princ">Thus where, as in the present case, the Member State concerned already claims during the formal investigation procedure that recovery is absolutely impossible, the principle of sincere cooperation requires the Member State, at that stage, to submit to the Commission for assessment the reasons underlying that claim and requires the Commission to examine them scrupulously.</prem><prem ID="D11" T="L|F" S="Itpr">Consequently, contrary to Scuola Elementare Maria Montessori’s submission, that principle does not require the Commission to attach an order for recovery to every decision declaring aid to be unlawful and incompatible with the internal market, but requires it to take into consideration the arguments put to it by the Member State concerned on the existence of absolute impossibility of recovery.</prem>
+<prem ID="D10" T="L|F" SUP="D9" S="Princ">Thus where, as in the present case, the Member State concerned already claims during the formal investigation procedure that recovery is absolutely impossible, the principle of sincere cooperation requires the Member State, at that stage, to submit to the Commission for assessment the reasons underlying that claim and requires the Commission to examine them scrupulously.</prem><prem ID="D11" T="L|F" SUP="D10" S="Itpr">Consequently, contrary to Scuola Elementare Maria Montessori’s submission, that principle does not require the Commission to attach an order for recovery to every decision declaring aid to be unlawful and incompatible with the internal market, but requires it to take into consideration the arguments put to it by the Member State concerned on the existence of absolute impossibility of recovery.</prem>
 
 85
 
 
-<prem ID="D12" T="F">It follows that the first part of the first ground of appeal must be rejected.</prem>
+<prem ID="D12" T="F" SUP="D1|D2|D3|D4|D5|D6|D7|D8|D10">It follows that the first part of the first ground of appeal must be rejected.</prem>
 
 86
 
@@ -591,27 +591,27 @@ Findings of the Court
 88
 
 
-<prem ID="D16" T="F">It must be stated, first, that Scuola Elementare Maria Montessori does not challenge in any way the presentation of the material content of that evidence in paragraphs 101 and 102 of that judgment, but confines itself to calling in question the assessment made by the General Court on the basis of that content.</prem><prem ID="D17" T="F">Second, Scuola Elementare Maria Montessori has not shown in what way the General Court’s assessment that the Italian tax databases did not make it possible retroactively to trace the kind of activities carried on by entities enjoying the exemption from ICI for their real property, or to calculate the amount of the unlawfully obtained exemptions, appears manifestly erroneous.</prem>
+<prem ID="D16" SUP="D14" T="F">It must be stated, first, that Scuola Elementare Maria Montessori does not challenge in any way the presentation of the material content of that evidence in paragraphs 101 and 102 of that judgment, but confines itself to calling in question the assessment made by the General Court on the basis of that content.</prem><prem ID="D17" SUP="D14" T="F">Second, Scuola Elementare Maria Montessori has not shown in what way the General Court’s assessment that the Italian tax databases did not make it possible retroactively to trace the kind of activities carried on by entities enjoying the exemption from ICI for their real property, or to calculate the amount of the unlawfully obtained exemptions, appears manifestly erroneous.</prem>
 
 89
 
 
-<prem ID="D18" T="F">The fourth part of the first ground of appeal cannot therefore succeed.</prem>
+<prem ID="D18" T="F" SUP="D12|D13" SFF="D15|D16">The fourth part of the first ground of appeal cannot therefore succeed.</prem>
 
 90
 
 
-<prem ID="D19" T="L" S="Prec">As regards the second and third parts of this ground of appeal, which should be considered together, it must be recalled that, in accordance with the Court’s settled case-law on actions for failure to fulfil obligations brought on the ground of infringement of a decision ordering the recovery of unlawful aid, a Member State which encounters unforeseen and unforeseeable difficulties or becomes aware of consequences overlooked by the Commission must submit those problems to the Commission for consideration, together with proposals for suitable amendments to the decision at issue.</prem> <prem ID="D20" T="L" S="Prec|Rule">In such a case, the Member State and the Commission must, by virtue of the principle of sincere cooperation, work together in good faith with a view to overcoming difficulties while fully observing the provisions of the FEU Treaty, in particular those on aid (see, to that effect, judgments of 2 July 2002, Commission v Spain, C‑499/99, EU:C:2002:408, paragraph 24, and of 22 December 2010, Commission v Italy, C‑304/09, EU:C:2010:812, paragraph 37 and the case-law cited).</prem>
+<prem ID="D19" T="L" S="Prec">As regards the second and third parts of this ground of appeal, which should be considered together, it must be recalled that, in accordance with the Court’s settled case-law on actions for failure to fulfil obligations brought on the ground of infringement of a decision ordering the recovery of unlawful aid, a Member State which encounters unforeseen and unforeseeable difficulties or becomes aware of consequences overlooked by the Commission must submit those problems to the Commission for consideration, together with proposals for suitable amendments to the decision at issue.</prem> <prem ID="D20" T="L" SUP="D19" S="Prec|Rule">In such a case, the Member State and the Commission must, by virtue of the principle of sincere cooperation, work together in good faith with a view to overcoming difficulties while fully observing the provisions of the FEU Treaty, in particular those on aid (see, to that effect, judgments of 2 July 2002, Commission v Spain, C‑499/99, EU:C:2002:408, paragraph 24, and of 22 December 2010, Commission v Italy, C‑304/09, EU:C:2010:812, paragraph 37 and the case-law cited).</prem>
 
 91
 
 
-<prem ID="D21" T="L" S="Prec">However, the condition of absolute impossibility of implementation is not satisfied where the defendant Member State does no more than inform the Commission of the internal difficulties of a legal, political or practical nature, attributable to the national authorities’ own acts or omissions, raised by implementation of the decision at issue, without taking real steps to recover the aid from the undertakings concerned and without suggesting to the Commission alternative methods of implementing the decision which would allow those difficulties to be overcome (see, to that effect, judgments of 13 November 2008, Commission v France, C‑214/07, EU:C:2008:619, paragraph 50, and of 12 February 2015, Commission v France, C‑37/14, not published, EU:C:2015:90, paragraph 66 and the case-law cited).</prem>
+<prem ID="D21" T="L" SUP="D19" S="Prec">However, the condition of absolute impossibility of implementation is not satisfied where the defendant Member State does no more than inform the Commission of the internal difficulties of a legal, political or practical nature, attributable to the national authorities’ own acts or omissions, raised by implementation of the decision at issue, without taking real steps to recover the aid from the undertakings concerned and without suggesting to the Commission alternative methods of implementing the decision which would allow those difficulties to be overcome (see, to that effect, judgments of 13 November 2008, Commission v France, C‑214/07, EU:C:2008:619, paragraph 50, and of 12 February 2015, Commission v France, C‑37/14, not published, EU:C:2015:90, paragraph 66 and the case-law cited).</prem>
 
 92
 
 
-<prem ID="D22" T="L" S="Itpr">That case-law is applicable mutatis mutandis to the assessment during the formal investigation procedure of whether it is absolutely impossible to recover unlawful aid.</prem> <prem ID="D23" T="L" S="Itpr">Thus a Member State which at that stage of the procedure encounters difficulties in recovering the aid concerned must submit those difficulties to the Commission for consideration and cooperate in good faith with the Commission with a view to overcoming them, in particular by suggesting alternative methods allowing recovery, if only in part, of the aid.</prem><prem ID="D23bis" T="L" S="Itpr"> In all cases, the Commission is required to undertake a detailed examination of the difficulties pleaded and the suggested alternative methods of recovery.</prem> <prem ID="D24" T="L" S="Itpr">Only if the Commission finds, following such a detailed examination, that there are no alternative methods allowing even partial recovery of the unlawful aid in question may that recovery be considered to be objectively and absolutely impossible to carry out.</prem>
+<prem ID="D22" T="L" S="Itpr" SUP="D21">That case-law is applicable mutatis mutandis to the assessment during the formal investigation procedure of whether it is absolutely impossible to recover unlawful aid.</prem> <prem ID="D23" T="L" SUP="D20|D22" S="Itpr">Thus a Member State which at that stage of the procedure encounters difficulties in recovering the aid concerned must submit those difficulties to the Commission for consideration and cooperate in good faith with the Commission with a view to overcoming them, in particular by suggesting alternative methods allowing recovery, if only in part, of the aid.</prem><prem ID="D23bis" T="L" S="Itpr"> In all cases, the Commission is required to undertake a detailed examination of the difficulties pleaded and the suggested alternative methods of recovery.</prem> <prem ID="D24" T="L" S="Itpr" SUP="D23|D23bis" REPH="D29">Only if the Commission finds, following such a detailed examination, that there are no alternative methods allowing even partial recovery of the unlawful aid in question may that recovery be considered to be objectively and absolutely impossible to carry out.</prem>
 
 93
 
@@ -621,30 +621,30 @@ Findings of the Court
 94
 
 
-<prem ID="D26" T="F">By upholding the decision on this point, the General Court erred in law.</prem>
+<prem ID="D26" T="F" SUP="D28">By upholding the decision on this point, the General Court erred in law.</prem>
 
 95
 
 
-<prem ID="D27" T="F" S="Aut">As the Advocate General observes in points 116 and 117 of his Opinion, the circumstance that the information needed for recovery of the unlawful aid in question could not be obtained from the Italian land registry and tax databases must be regarded as caused by internal difficulties attributable to the national authorities’ own acts or omissions.</prem> <prem ID="D28" T="F">According to the settled case-law of the Court cited in paragraph 91 above, such internal difficulties do not suffice for it to be concluded that there is absolute impossibility of recovery.</prem>
+<prem ID="D27" T="F" S="Aut">As the Advocate General observes in points 116 and 117 of his Opinion, the circumstance that the information needed for recovery of the unlawful aid in question could not be obtained from the Italian land registry and tax databases must be regarded as caused by internal difficulties attributable to the national authorities’ own acts or omissions.</prem> <prem ID="D28" T="F" SUP="28">According to the settled case-law of the Court cited in paragraph 91 above, such internal difficulties do not suffice for it to be concluded that there is absolute impossibility of recovery.</prem>
 
 96
 
 
-<prem ID="D29" T="L" S="Itpr|Class">As may be seen from paragraphs 90 to 92 above, recovery of unlawful aid may be considered to be objectively and absolutely impossible only if the Commission finds, following a detailed examination, that two cumulative conditions are satisfied, namely that the difficulties relied on by the Member State concerned are real and that there are no alternative methods of recovery.</prem> <prem ID="D30" T="F">As noted in paragraph 93 above, the General Court upheld the first part of the decision at issue despite the fact that the Commission had omitted to carry out, in that decision, a detailed examination of whether the second of those conditions was met.</prem>
+<prem ID="D29" T="L" S="Itpr|Class" SUP="D23" REPH="D24">As may be seen from paragraphs 90 to 92 above, recovery of unlawful aid may be considered to be objectively and absolutely impossible only if the Commission finds, following a detailed examination, that two cumulative conditions are satisfied, namely that the difficulties relied on by the Member State concerned are real and that there are no alternative methods of recovery.</prem> <prem ID="D30" T="F">As noted in paragraph 93 above, the General Court upheld the first part of the decision at issue despite the fact that the Commission had omitted to carry out, in that decision, a detailed examination of whether the second of those conditions was met.</prem>
 
 97
 
 
-<prem ID="D31" T="F">The error of law which thus vitiates the General Court’s judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), overlaps with that also committed by the General Court by rejecting, in paragraphs 86 and 104 to 110 of that judgment, Scuola Elementare Maria Montessori’s argument that the Commission should have examined the existence of alternative methods enabling recovery, if only in part, of the aid in question, on the ground that Scuola Elementare Maria Montessori had not been able to demonstrate their existence.</prem>
+<prem ID="D31" T="F" SUP="D33">The error of law which thus vitiates the General Court’s judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), overlaps with that also committed by the General Court by rejecting, in paragraphs 86 and 104 to 110 of that judgment, Scuola Elementare Maria Montessori’s argument that the Commission should have examined the existence of alternative methods enabling recovery, if only in part, of the aid in question, on the ground that Scuola Elementare Maria Montessori had not been able to demonstrate their existence.</prem>
 
 98
 
 
-<prem ID="D32" T="L|F" S="Rule">In so far as Article 14(1) of Regulation No 659/1999 requires the Commission, as a general rule, to adopt an order to recover unlawful aid and allows it to refrain from doing so only exceptionally, it was for the Commission to show in the decision at issue that the conditions for it to decline to adopt such an order were satisfied, not for Scuola Elementare Maria Montessori to prove before the General Court that there existed alternative methods enabling recovery, if only in part, of the aid in question.</prem> <prem ID="D33" T="F">In those circumstances, the General Court could not confine itself to observing that Scuola Elementare Maria Montessori had not succeeded before it in showing that such alternative methods existed.</prem>
+<prem ID="D32" T="L|F" SUP="D24|D25|D29|D30" S="Rule">In so far as Article 14(1) of Regulation No 659/1999 requires the Commission, as a general rule, to adopt an order to recover unlawful aid and allows it to refrain from doing so only exceptionally, it was for the Commission to show in the decision at issue that the conditions for it to decline to adopt such an order were satisfied, not for Scuola Elementare Maria Montessori to prove before the General Court that there existed alternative methods enabling recovery, if only in part, of the aid in question.</prem> <prem ID="D33" T="F" SUP="D32">In those circumstances, the General Court could not confine itself to observing that Scuola Elementare Maria Montessori had not succeeded before it in showing that such alternative methods existed.</prem>
 99
 
-<conc ID="D34">Consequently, the second and third parts of the first ground of appeal must be allowed and the remainder of the ground of appeal must be rejected.</conc>
+<conc ID="D34" SUP="D11|D17|D24|D29">Consequently, the second and third parts of the first ground of appeal must be allowed and the remainder of the ground of appeal must be rejected.</conc>
 
 Second ground of appeal
 
@@ -685,7 +685,7 @@ Findings of the Court
 106
 
 
-<prem ID="E6" T="F">In the present case, the General Court found in paragraphs 136 and 140 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), that the exemption from IMU applied only to educational activities provided free of charge or against payment of a token amount covering only part of the actual cost of the service, with that part not being related to the cost.</prem>
+<prem ID="E6" T="F" ATT="E7|E8">In the present case, the General Court found in paragraphs 136 and 140 of the judgment of 15 September 2016, Scuola Elementare Maria Montessori v Commission (T‑220/13, not published, EU:T:2016:484), that the exemption from IMU applied only to educational activities provided free of charge or against payment of a token amount covering only part of the actual cost of the service, with that part not being related to the cost.</prem>
 
 107
 
@@ -695,12 +695,12 @@ Findings of the Court
 108
 
 
-<prem ID="E8" T="F">As Scuola Elementare Maria Montessori does not claim that there was distortion, its argument that the Italian legislation allows the exemption from IMU to be granted to educational activities that are financed primarily by pupils or their parents must be rejected at the outset as inadmissible.</prem>
+<prem ID="E8" T="F" SUP="E4|E6">As Scuola Elementare Maria Montessori does not claim that there was distortion, its argument that the Italian legislation allows the exemption from IMU to be granted to educational activities that are financed primarily by pupils or their parents must be rejected at the outset as inadmissible.</prem>
 
 109
 
 
-<prem ID="E9" T="F">As to Scuola Elementare Maria Montessori’s argument that the General Court disregarded the Court’s case-law cited in paragraphs 103 to 105 above, it must be considered that, as the Advocate General observes in points 142 to 144 of his Opinion, since the General Court found in its interpretation of national law that the exemption from IMU applies only to educational activities provided free of charge or against payment of a token amount not related to the cost of the service, it was able to reject, without committing an error of law, Scuola Elementare Maria Montessori’s complaint that the exemption applied to educational services provided for remuneration.</prem>
+<prem ID="E9" T="F" SUP="E1|E2|E4|E5">As to Scuola Elementare Maria Montessori’s argument that the General Court disregarded the Court’s case-law cited in paragraphs 103 to 105 above, it must be considered that, as the Advocate General observes in points 142 to 144 of his Opinion, since the General Court found in its interpretation of national law that the exemption from IMU applies only to educational activities provided free of charge or against payment of a token amount not related to the cost of the service, it was able to reject, without committing an error of law, Scuola Elementare Maria Montessori’s complaint that the exemption applied to educational services provided for remuneration.</prem>
 
 110
 
@@ -710,7 +710,7 @@ Findings of the Court
 111
 
 
-<conc ID="E11">It follows that the second ground of appeal must be rejected.</conc>
+<conc ID="E11" SUP="E9" SFF="E6|E10">It follows that the second ground of appeal must be rejected.</conc>
 
 112
 

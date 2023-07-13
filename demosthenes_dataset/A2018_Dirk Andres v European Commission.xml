@@ -292,12 +292,12 @@ Findings of the Court
 39
 
 
-<prem ID="A2" T="F">In the present case, first, it is common ground that, as the General Court observed in paragraph 57 of the judgment under appeal, the contested decision is addressed solely to the Federal Republic of Germany.</prem> <prem ID="A3" T="F"> Moreover, as is apparent from paragraphs 58 to 79 of that judgment, whereas HBH was directly and individually concerned by that decision, and thus by virtue of the second situation referred to in that provision, the General Court held that HBH had locus standi.</prem>
+<prem ID="A2" T="F">In the present case, first, it is common ground that, as the General Court observed in paragraph 57 of the judgment under appeal, the contested decision is addressed solely to the Federal Republic of Germany.</prem> <prem ID="A3" T="F" SUP="A1" ATT="A4"> Moreover, as is apparent from paragraphs 58 to 79 of that judgment, whereas HBH was directly and individually concerned by that decision, and thus by virtue of the second situation referred to in that provision, the General Court held that HBH had locus standi.</prem>
 
 40
 
 
-<prem ID="A4" T="F">By the first part of its single ground of appeal, the Commission submits, in essence, that, in paragraphs 62, 63, 70 and 74 to 77 of the judgment under appeal, the General Court erred in law in assessing the condition of admissibility of HBH’s action in the light of the latter’s factual and legal situation, whereas the only relevant criterion was whether it was an actual or potential recipient of the aid scheme in question.</prem>
+<prem ID="A4" T="F" ATT="A12">By the first part of its single ground of appeal, the Commission submits, in essence, that, in paragraphs 62, 63, 70 and 74 to 77 of the judgment under appeal, the General Court erred in law in assessing the condition of admissibility of HBH’s action in the light of the latter’s factual and legal situation, whereas the only relevant criterion was whether it was an actual or potential recipient of the aid scheme in question.</prem>
 
 41
 
@@ -312,7 +312,7 @@ Findings of the Court
 43
 
 
-<prem ID="A7" T="L" S="Prec">Thus, the Court stated that an undertaking cannot, as a general rule, contest a decision of the Commission which prohibits a sectoral aid scheme if it is concerned by that decision solely by virtue of belonging to the sector in question and being a potential beneficiary of the scheme.</prem> <prem ID="A8" T="L" S="Prec">Such a decision is, vis-à-vis such an undertaking, a measure of general application covering situations which are determined objectively and entails legal effects for a class of persons envisaged in a general and abstract manner (see judgments of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraph 33 and the case-law cited, and of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraph 49).</prem>
+<prem ID="A7" T="L" S="Prec" SUP="A5|A6">Thus, the Court stated that an undertaking cannot, as a general rule, contest a decision of the Commission which prohibits a sectoral aid scheme if it is concerned by that decision solely by virtue of belonging to the sector in question and being a potential beneficiary of the scheme.</prem> <prem ID="A8" T="L" S="Prec">Such a decision is, vis-à-vis such an undertaking, a measure of general application covering situations which are determined objectively and entails legal effects for a class of persons envisaged in a general and abstract manner (see judgments of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraph 33 and the case-law cited, and of 19 December 2013, Telefónica v Commission, C‑274/12 P, EU:C:2013:852, paragraph 49).</prem>
 
 44
 
@@ -322,12 +322,12 @@ Findings of the Court
 45
 
 
- <prem ID="A10" T="L" S="Prec|Rule">Thus, the actual recipients of individual aid granted under an aid scheme of which the Commission has ordered the recovery are, accordingly, individually concerned within the meaning of the fourth paragraph of Article 263 TFEU (see, to that effect, judgment of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraphs 34 and 35; see, also, judgment of 9 June 2011, Comitato Venezia vuole vivere and Others v Commission, C‑71/09 P, C‑73/09 P and C‑76/09 P, EU:C:2011:368, paragraph 53).</prem>
+ <prem ID="A10" T="L" S="Prec|Rule" SUP="A9">Thus, the actual recipients of individual aid granted under an aid scheme of which the Commission has ordered the recovery are, accordingly, individually concerned within the meaning of the fourth paragraph of Article 263 TFEU (see, to that effect, judgment of 19 October 2000, Italy and Sardegna Lines v Commission, C‑15/98 and C‑105/99, EU:C:2000:570, paragraphs 34 and 35; see, also, judgment of 9 June 2011, Comitato Venezia vuole vivere and Others v Commission, C‑71/09 P, C‑73/09 P and C‑76/09 P, EU:C:2011:368, paragraph 53).</prem>
 
 46
 
 
-<prem ID="A11" T="L" S="Prec|Itpr">Admittedly, as argued by the Commission, it follows from that case-law that the Court, on the one hand, acknowledges that the actual recipients of individual aid granted under an aid scheme incompatible with the internal market are individually concerned by a Commission decision declaring that scheme incompatible with the internal market and ordering its recovery, and, on the other hand, precludes an applicant from being regarded as individually concerned merely because it is a potential beneficiary of the scheme.</prem> <prem ID="A12" T="L|F" S="Rule|Itpr">  However, it cannot be inferred, as the Commission claims, that, where a Commission decision declaring an aid scheme incompatible with the internal market is at issue, the only relevant criterion for the purpose of determining whether an applicant is individually concerned, within the meaning of the fourth paragraph of Article 263 TFEU, by such a decision, is whether the applicant is an actual or potential recipient of aid granted under the scheme.</prem>
+<prem ID="A11" T="L" S="Prec|Itpr" SUP="A7|A8|A10">Admittedly, as argued by the Commission, it follows from that case-law that the Court, on the one hand, acknowledges that the actual recipients of individual aid granted under an aid scheme incompatible with the internal market are individually concerned by a Commission decision declaring that scheme incompatible with the internal market and ordering its recovery, and, on the other hand, precludes an applicant from being regarded as individually concerned merely because it is a potential beneficiary of the scheme.</prem> <prem ID="A12" T="L|F" S="Rule|Itpr" SFF="A11">  However, it cannot be inferred, as the Commission claims, that, where a Commission decision declaring an aid scheme incompatible with the internal market is at issue, the only relevant criterion for the purpose of determining whether an applicant is individually concerned, within the meaning of the fourth paragraph of Article 263 TFEU, by such a decision, is whether the applicant is an actual or potential recipient of aid granted under the scheme.</prem>
 
 
 47
@@ -338,17 +338,17 @@ Findings of the Court
 48
 
 
-<prem ID="A15" T="L" S="Itpr">Consequently, the fact that an applicant may fall within or outside the category of actual or potential recipients of individual aid granted under an aid scheme declared incompatible with the internal market by a Commission decision is not decisive as regards determining whether the applicant is individually concerned by that decision, where it is in any event established that the applicant is otherwise affected by it by reason of certain attributes which are peculiar to it or a factual situation which differentiates it from all other persons.</prem> 
+<prem ID="A15" T="L" S="Itpr" SUP="A13|A14">Consequently, the fact that an applicant may fall within or outside the category of actual or potential recipients of individual aid granted under an aid scheme declared incompatible with the internal market by a Commission decision is not decisive as regards determining whether the applicant is individually concerned by that decision, where it is in any event established that the applicant is otherwise affected by it by reason of certain attributes which are peculiar to it or a factual situation which differentiates it from all other persons.</prem> 
 
 49
 
 
-<prem ID="A16" T="F">It follows from the foregoing that it is without erring in law that, after setting out, in paragraphs 60 to 62 of the judgment under appeal, the case-law set out in paragraphs 41 to 44 of the present judgment, the General Court, in paragraph 63 of the judgment under appeal, committed ‘to determine whether, given its legal and factual situation, [HBH] must be regarded as being individually concerned by the contested decision’.</prem>
+<prem ID="A16" T="F" SUP="A5|A3|A15">It follows from the foregoing that it is without erring in law that, after setting out, in paragraphs 60 to 62 of the judgment under appeal, the case-law set out in paragraphs 41 to 44 of the present judgment, the General Court, in paragraph 63 of the judgment under appeal, committed ‘to determine whether, given its legal and factual situation, [HBH] must be regarded as being individually concerned by the contested decision’.</prem>
 
 50
 
 
-<prem ID="A17" T="F">It also follows that it is without erring in law that, in paragraphs 62, 70 and 74 of the judgment under appeal, the General Court, in support of its analysis, relied on the judgments referred to in paragraph 32 of the present judgment, since they all consist in applying the criterion of individual concern laid down in the judgment of 15 July 1963, Plaumann v Commission (25/62, EU:C:1963:17), in circumstances where, as in the present case, the specific expression of that case-law, taking the form of a distinction between the actual and potential recipients of individual aid granted under an aid scheme declared incompatible with the internal market, did not appear relevant.</prem>
+<prem ID="A17" T="F" SUP="A5|A3|A15">It also follows that it is without erring in law that, in paragraphs 62, 70 and 74 of the judgment under appeal, the General Court, in support of its analysis, relied on the judgments referred to in paragraph 32 of the present judgment, since they all consist in applying the criterion of individual concern laid down in the judgment of 15 July 1963, Plaumann v Commission (25/62, EU:C:1963:17), in circumstances where, as in the present case, the specific expression of that case-law, taking the form of a distinction between the actual and potential recipients of individual aid granted under an aid scheme declared incompatible with the internal market, did not appear relevant.</prem>
 
 51
 
@@ -358,12 +358,12 @@ Findings of the Court
 52
 
 
- <conc ID="A20">Consequently, since the first part of the single ground of appeal of the cross-appeal is unfounded, it must be rejected.</conc>
+ <conc ID="A20" SUP="A16|A17|A18|A19">Consequently, since the first part of the single ground of appeal of the cross-appeal is unfounded, it must be rejected.</conc>
 
 53
 
 
- <prem ID="B1" T="F">As regards the second and third parts of that single ground of appeal, it should be recalled that, in them, the Commission alleges that the General Court, in paragraph 74 of the judgment under appeal, erred in law in holding that HBH was individually concerned on the ground that that company had had an ‘acquired right’ to receive aid under the measure at issue.</prem>
+ <prem ID="B1" T="F" ATT="B1">As regards the second and third parts of that single ground of appeal, it should be recalled that, in them, the Commission alleges that the General Court, in paragraph 74 of the judgment under appeal, erred in law in holding that HBH was individually concerned on the ground that that company had had an ‘acquired right’ to receive aid under the measure at issue.</prem>
 
 54
 
@@ -378,7 +378,7 @@ Findings of the Court
 56
 
 
-<prem ID="B5" T="F">It concluded, in paragraph 69 of the judgment under appeal, that, ‘pursuant to the German legislation, it was certain that, at the close of the 2009 tax year, [HBH] would have made a tax saving, which it was, moreover, able to quantify precisely’, since ‘the German authorities had no discretion with regard to the application of the measure at issue, the realisation of that tax saving was only a matter of time, under the detailed rules for the implementation of the tax system’.</prem> <prem ID="B5bis" T="F">In point 69, it stated that, consequently, HBH ‘had an acquired right, certified by the German authorities before the adoption of the opening decision and, subsequently, of the contested decision, to the application of that tax saving, which, had it not been for those decisions, would have crystallised as a result of the issue of a tax assessment authorising the loss carry-forward and the consequent posting thereof to the applicant’s balance sheet’ and that it ‘was, therefore, easily identifiable by the German tax authorities and the Commission’.</prem>
+<prem ID="B5" T="F" SUP="B2|B3|B4">It concluded, in paragraph 69 of the judgment under appeal, that, ‘pursuant to the German legislation, it was certain that, at the close of the 2009 tax year, [HBH] would have made a tax saving, which it was, moreover, able to quantify precisely’, since ‘the German authorities had no discretion with regard to the application of the measure at issue, the realisation of that tax saving was only a matter of time, under the detailed rules for the implementation of the tax system’.</prem> <prem ID="B5bis" T="F">In point 69, it stated that, consequently, HBH ‘had an acquired right, certified by the German authorities before the adoption of the opening decision and, subsequently, of the contested decision, to the application of that tax saving, which, had it not been for those decisions, would have crystallised as a result of the issue of a tax assessment authorising the loss carry-forward and the consequent posting thereof to the applicant’s balance sheet’ and that it ‘was, therefore, easily identifiable by the German tax authorities and the Commission’.</prem>
 
 57
 
@@ -388,12 +388,12 @@ Findings of the Court
 58
 
 
-<prem ID="B7" T="F">It is thus apparent from a reading of the relevant passages of the judgment under appeal that the use by the General Court, in paragraph 74 of that judgment, of the words ‘acquired right’ was intended only to refer briefly to HBH’s specific factual and legal situation, making it possible to regard it as being individually concerned by the contested decision within the meaning of the judgment of 15 July 1963, Plaumann v Commission (25/62, EU:C:1963:17).</prem>
+<prem ID="B7" T="F" SUP="B5|B5bis|B6">It is thus apparent from a reading of the relevant passages of the judgment under appeal that the use by the General Court, in paragraph 74 of that judgment, of the words ‘acquired right’ was intended only to refer briefly to HBH’s specific factual and legal situation, making it possible to regard it as being individually concerned by the contested decision within the meaning of the judgment of 15 July 1963, Plaumann v Commission (25/62, EU:C:1963:17).</prem>
 
 59
 
 
- <conc ID="B8">Since the second and third parts of the single ground of appeal are thus based on a misreading of the judgment under appeal, they must be rejected as unfounded, and, accordingly, the cross-appeal must be dismissed in its entirety.</conc>
+ <conc ID="B8" SUP="B7">Since the second and third parts of the single ground of appeal are thus based on a misreading of the judgment under appeal, they must be rejected as unfounded, and, accordingly, the cross-appeal must be dismissed in its entirety.</conc>
 
 The main appeal
 
@@ -509,7 +509,7 @@ Findings of the Court
 81
 
 
-<prem ID="C8" T="F">Since the purpose of HBH’s line of argument is to call into question the legal characterisation of the facts by the General Court, the first part of the second ground of appeal is admissible.</prem>
+<prem ID="C8" T="F" SUP="C1|C2|C3|C4|C5|C6|C7">Since the purpose of HBH’s line of argument is to call into question the legal characterisation of the facts by the General Court, the first part of the second ground of appeal is admissible.</prem>
 
 82
 
@@ -544,12 +544,12 @@ Findings of the Court
 88
 
 
-<prem ID="C16" T="L" S="Prec|Class">The examination of the selectivity condition therefore implies, in principle, the determination, first, of the reference framework within which the measure concerned falls, that determination being of greater importance in the case of tax measures, since the very existence of an advantage may be established only when compared with ‘normal’ taxation (see, to that effect, judgments of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56, and of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 55).</prem>
+<prem ID="C16" T="L" S="Prec|Class" SUP="C9|C9bis|C9ter|C9quater|C9|C9quinquies|C10|C11|C12|C13|C14|C15|C16">The examination of the selectivity condition therefore implies, in principle, the determination, first, of the reference framework within which the measure concerned falls, that determination being of greater importance in the case of tax measures, since the very existence of an advantage may be established only when compared with ‘normal’ taxation (see, to that effect, judgments of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56, and of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 55).</prem>
 
 89
 
 
-<prem ID="C17" T="L" S="Prec">Thus, the determination of the set of undertakings which are in a comparable factual and legal situation depends on the prior definition of the legal regime in the light of whose objective it is necessary, where applicable, to examine whether the factual and legal situation of the undertakings favoured by the measure in question is comparable with that of those which are not (judgment of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 60).</prem>
+<prem ID="C17" T="L" SUP="C16" S="Prec">Thus, the determination of the set of undertakings which are in a comparable factual and legal situation depends on the prior definition of the legal regime in the light of whose objective it is necessary, where applicable, to examine whether the factual and legal situation of the undertakings favoured by the measure in question is comparable with that of those which are not (judgment of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 60).</prem>
 
 90
 
@@ -559,17 +559,17 @@ Findings of the Court
 91
 
 
-<prem ID="C19" T="L" S="Itpr">Such an interpretation of the selectivity criterion would require that in order for a tax system to be classifiable as ‘selective’ it must be designed in accordance with a certain regulatory technique;</prem> <prem ID="C19bis" T="L" S="Itpr">the consequence of this would be that national tax rules fall from the outset outside the scope of control of State aid on account of the sole fact that they were adopted under a different regulatory technique although, by adjusting and combining various tax rules, they produce the same effects in law and/or in fact.</prem> <prem ID="C20" T="L" S="Rule|Itpr|Prec">It therefore conflicts with settled case-law that Article 107(1) TFEU does not distinguish between measures of State intervention by reference to their causes or their aims but defines them in relation to their effects, and thus independently of the techniques used (see, to that effect, judgment of 15 November 2011, Commission and Spain v Government of Gibraltar and United Kingdom, C‑106/09 P and C‑107/09 P, EU:C:2011:732, paragraphs 87, 92 and 93 and the case-law cited).</prem>
+<prem ID="C19" T="L" S="Itpr">Such an interpretation of the selectivity criterion would require that in order for a tax system to be classifiable as ‘selective’ it must be designed in accordance with a certain regulatory technique;</prem> <prem ID="C19bis" T="L" S="Itpr" SUP="C19">the consequence of this would be that national tax rules fall from the outset outside the scope of control of State aid on account of the sole fact that they were adopted under a different regulatory technique although, by adjusting and combining various tax rules, they produce the same effects in law and/or in fact.</prem> <prem ID="C20" T="L" S="Rule|Itpr|Prec" SUP="C18|C19bis">It therefore conflicts with settled case-law that Article 107(1) TFEU does not distinguish between measures of State intervention by reference to their causes or their aims but defines them in relation to their effects, and thus independently of the techniques used (see, to that effect, judgment of 15 November 2011, Commission and Spain v Government of Gibraltar and United Kingdom, C‑106/09 P and C‑107/09 P, EU:C:2011:732, paragraphs 87, 92 and 93 and the case-law cited).</prem>
 
 92
 
 
-<prem ID="C21" T="L" S="Rule|Itpr">If, on the basis of that case-law, the use of a regulatory technique cannot enable national tax rules to escape from the outset the scrutiny concerning State aid provided for under the FEU Treaty, resorting to the regulatory technique used is not sufficient to define the relevant reference framework for the purposes of assessing the condition relating to selectivity, except in order to ensure that the form of State intervention prevails decisively over its effects.</prem> <prem ID="C22" T="L" S="Aut">Consequently, as also noted, in essence, by the Advocate General in point 108 of his Opinion, the regulatory technique used cannot be decisive for the purposes of determining the reference framework.</prem>
+<prem ID="C21" T="L" S="Rule|Itpr">If, on the basis of that case-law, the use of a regulatory technique cannot enable national tax rules to escape from the outset the scrutiny concerning State aid provided for under the FEU Treaty, resorting to the regulatory technique used is not sufficient to define the relevant reference framework for the purposes of assessing the condition relating to selectivity, except in order to ensure that the form of State intervention prevails decisively over its effects.</prem> <prem ID="C22" T="L" S="Aut" SUP="C20|C21">Consequently, as also noted, in essence, by the Advocate General in point 108 of his Opinion, the regulatory technique used cannot be decisive for the purposes of determining the reference framework.</prem>
 
 93
 
 
-<prem ID="C23" T="L" S="Prec|Itpr">However, it also follows from that case-law that while, for the purposes of establishing the selectivity of a tax measure, the regulatory technique used is not decisive, with the result that it is not always necessary for it to derogate from a common tax system, the fact that it is a derogation as a result of the use of that regulatory technique is relevant for those purposes where it follows that two categories of operators are distinguished and a priori treated differently, namely those covered by the derogation and those which are covered by the ordinary taxation regime, even though those two categories are in a comparable situation with regard to the objective pursued by that system (see, to that effect, judgment of 21 December 2016, Commission v World Duty Free Group and Others, C‑20/15 P and C‑21/15 P, EU:C:2016:981, paragraph 77).</prem>
+<prem ID="C23" T="L" S="Prec|Itpr" SUP="C20|C21">However, it also follows from that case-law that while, for the purposes of establishing the selectivity of a tax measure, the regulatory technique used is not decisive, with the result that it is not always necessary for it to derogate from a common tax system, the fact that it is a derogation as a result of the use of that regulatory technique is relevant for those purposes where it follows that two categories of operators are distinguished and a priori treated differently, namely those covered by the derogation and those which are covered by the ordinary taxation regime, even though those two categories are in a comparable situation with regard to the objective pursued by that system (see, to that effect, judgment of 21 December 2016, Commission v World Duty Free Group and Others, C‑20/15 P and C‑21/15 P, EU:C:2016:981, paragraph 77).</prem>
 
 94
 
@@ -599,27 +599,27 @@ Findings of the Court
 99
 
 
-<prem ID="C29" T="F">In paragraph 106 of that judgment, it concluded that ‘it is clear that the rule governing the forfeiture of losses, like the loss carry-forward rule, is part of the legislative framework in the context of which the measure at issue arises’, that ‘in other words, the general loss carry-forward rule, as limited by the rule governing the forfeiture of losses, constitutes the relevant legal framework in the present case, and [that] it is precisely within that framework that it is appropriate to check whether the measure at issue differentiates between operators in a comparable factual and legal situation’.</prem>
+<prem ID="C29" T="F" SUP="C26|C27|C28|C29">In paragraph 106 of that judgment, it concluded that ‘it is clear that the rule governing the forfeiture of losses, like the loss carry-forward rule, is part of the legislative framework in the context of which the measure at issue arises’, that ‘in other words, the general loss carry-forward rule, as limited by the rule governing the forfeiture of losses, constitutes the relevant legal framework in the present case, and [that] it is precisely within that framework that it is appropriate to check whether the measure at issue differentiates between operators in a comparable factual and legal situation’.</prem>
 
 100
 
 
-<prem ID="C30" T="F">In paragraph 107 of the judgment under appeal, the General Court held that ‘the Commission did not err when, while noting the existence of a more general rule, namely the loss carry-forward rule, it determined that the legislative framework of reference established in order to assess the selectivity of the measure at issue was constituted by the rule governing the forfeiture of losses’.</prem>
+<prem ID="C30" T="F" SUP="C29">In paragraph 107 of the judgment under appeal, the General Court held that ‘the Commission did not err when, while noting the existence of a more general rule, namely the loss carry-forward rule, it determined that the legislative framework of reference established in order to assess the selectivity of the measure at issue was constituted by the rule governing the forfeiture of losses’.</prem>
 
 101
 
 
-<prem ID="C31" T="F">As submitted by HBH and the Federal Republic of Germany, that reasoning led the General Court to classify incorrectly the rule governing the forfeiture of losses as the reference framework within the meaning of the case-law on Article 107(1) TFEU, while excluding from that reference framework the general rule of loss carry-forward.</prem>
+<prem ID="C31" T="F" SUP="C1">As submitted by HBH and the Federal Republic of Germany, that reasoning led the General Court to classify incorrectly the rule governing the forfeiture of losses as the reference framework within the meaning of the case-law on Article 107(1) TFEU, while excluding from that reference framework the general rule of loss carry-forward.</prem>
 
 102
 
 
-<prem ID="C32" T="F">It is apparent from that reasoning that, although the General Court found that there was a general tax rule applicable to all undertakings subject to corporation tax, namely the loss carry-forward rule, it held, however, that the Commission did not err in taking the view that the relevant reference framework for the purposes of examining the selective nature of the measure at issue was constituted only by the rule governing the forfeiture of losses, despite the fact that it was not disputed that that rule was itself an exception to the loss carry-forward rule and even though an overall examination of the content of those provisions should have made it possible to find that the restructuring clause’s effect was to define a situation falling under the general loss carry-forward rule.</prem>
+<prem ID="C32" T="F" SUP="C29|C30" ATT="C33">It is apparent from that reasoning that, although the General Court found that there was a general tax rule applicable to all undertakings subject to corporation tax, namely the loss carry-forward rule, it held, however, that the Commission did not err in taking the view that the relevant reference framework for the purposes of examining the selective nature of the measure at issue was constituted only by the rule governing the forfeiture of losses, despite the fact that it was not disputed that that rule was itself an exception to the loss carry-forward rule and even though an overall examination of the content of those provisions should have made it possible to find that the restructuring clause’s effect was to define a situation falling under the general loss carry-forward rule.</prem>
 
 103
 
 
- <prem ID="C22|C23|C32" T="L" S="Aut|Itpr">As also noted, in essence, by the Advocate General in point 109 of his Opinion, it follows from the case-law of the Court, recalled in paragraphs 90 to 93 of the present judgment, that the selectivity of a tax measure cannot be precisely assessed on the basis of a reference framework consisting of some provisions that have been artificially taken from a broader legislative framework.</prem> <prem ID="C33" T="F">Therefore, by thus excluding from the relevant reference framework in the present case the general rule of loss carry-forward, manifestly the General Court defined it too narrowly.</prem>
+ <prem ID="C22|C23|C32" T="L" S="Aut|Itpr">As also noted, in essence, by the Advocate General in point 109 of his Opinion, it follows from the case-law of the Court, recalled in paragraphs 90 to 93 of the present judgment, that the selectivity of a tax measure cannot be precisely assessed on the basis of a reference framework consisting of some provisions that have been artificially taken from a broader legislative framework.</prem> <prem ID="C33" T="F" SUP="C32">Therefore, by thus excluding from the relevant reference framework in the present case the general rule of loss carry-forward, manifestly the General Court defined it too narrowly.</prem>
 
 104
 
@@ -634,12 +634,12 @@ Findings of the Court
 106
 
 
-<prem ID="C36" T="F">It follows from all of the foregoing that the first part of HBH’s second ground of appeal is well founded, without it being necessary to examine the second part of the argument put forward to support it.</prem> <prem ID="C37" T="F">It should also be noted that it is on the basis of its flawed legal assessment — that the Commission did not err in holding that the relevant reference framework in the present case for the purposes of assessing the selectivity of the measure at issue was made up only of the rule governing the forfeiture of losses — that the General Court analysed the submissions made to it by HBH, seeking to show, on the one hand, the lack of a priori selectivity of the measure at issue and, on the other hand, the justification of the measure by the nature and overall structure of the tax system.</prem>
+<prem ID="C36" T="F" SUP="C31|C33|C34|C35">It follows from all of the foregoing that the first part of HBH’s second ground of appeal is well founded, without it being necessary to examine the second part of the argument put forward to support it.</prem> <prem ID="C37" T="F" ATT="C38">It should also be noted that it is on the basis of its flawed legal assessment — that the Commission did not err in holding that the relevant reference framework in the present case for the purposes of assessing the selectivity of the measure at issue was made up only of the rule governing the forfeiture of losses — that the General Court analysed the submissions made to it by HBH, seeking to show, on the one hand, the lack of a priori selectivity of the measure at issue and, on the other hand, the justification of the measure by the nature and overall structure of the tax system.</prem>
 
 107
 
 
- <prem ID="C38" T="L">As is apparent from the case-law referred to in paragraphs 83 and 86 to 89 of the present judgment, an error in the determination of the reference framework against which the selectivity of the measure should be assessed necessarily vitiates the whole of the analysis of the condition relating to selectivity.</prem> <conc ID="C39">In those circumstances, the Court must uphold the appeal and set aside points 2 and 3 of the operative part of the judgment under appeal, without it being necessary to examine the second and third parts of the second ground of appeal, or the first ground of appeal.</conc>
+ <prem ID="C38" T="L" SUP="C17">As is apparent from the case-law referred to in paragraphs 83 and 86 to 89 of the present judgment, an error in the determination of the reference framework against which the selectivity of the measure should be assessed necessarily vitiates the whole of the analysis of the condition relating to selectivity.</prem> <conc ID="C39" SUP="C33|C34|C35|C36|C38">In those circumstances, the Court must uphold the appeal and set aside points 2 and 3 of the operative part of the judgment under appeal, without it being necessary to examine the second and third parts of the second ground of appeal, or the first ground of appeal.</conc>
 
 The action before the General Court
 

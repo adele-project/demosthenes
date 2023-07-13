@@ -393,7 +393,7 @@ Findings of the Court
 60
 
 
-<prem ID="A4" T="F"> It is apparent from those submissions that, according to the appellants, neither the normal tax rules for profits nor the general realignment scheme could be used as a reference framework and that, even if that were the case, the tax scheme at issue did not confer any economic advantage as against one or other of those schemes.</prem>
+<prem ID="A4" T="F" SUP="A1|A2|A3|A3bis"> It is apparent from those submissions that, according to the appellants, neither the normal tax rules for profits nor the general realignment scheme could be used as a reference framework and that, even if that were the case, the tax scheme at issue did not confer any economic advantage as against one or other of those schemes.</prem>
 
 61
 
@@ -423,7 +423,7 @@ In the present case, the Commission found that, although the system of fiscal ne
 167
 
 
-<prem ID="A8" T="F">On the basis of those considerations, the Commission concluded that the Italian Republic had conferred a selective advantage on those undertakings, corresponding to the difference between the tax actually paid pursuant to Article 2(26) of Law … 350/2003 and the normal tax that would have been paid if the realignment had taken place in the absence of the preferential scheme [point 91 of the grounds of the contested decision].’</prem>
+<prem ID="A8" T="F" SUP="A6|A7">On the basis of those considerations, the Commission concluded that the Italian Republic had conferred a selective advantage on those undertakings, corresponding to the difference between the tax actually paid pursuant to Article 2(26) of Law … 350/2003 and the normal tax that would have been paid if the realignment had taken place in the absence of the preferential scheme [point 91 of the grounds of the contested decision].’</prem>
 
 63
 
@@ -445,14 +445,14 @@ The [appellants] also claim … that the use of the normal tax as the reference 
 
 As regards the [appellants’] reference to the situation of the transferring entities under Law … 218/1990, it should be noted that the contested decision does not in any way concern those entities, but simply the banks to which assets were transferred under that law.</prem> <prem ID="A12" T="F">The Commission considered in the contested decision whether there was an advantage, and concluded that that was the case, solely in connection with those banks.</prem>
 
-<prem ID="A12bis" T="F">172
+<prem ID="A12bis" T="F" SUP="A9|A9bis|A9ter|A10|A11|A12">172
 
 
 It follows that the repeated references made by the [appellants] in the present action … to the situation of the transferring entities under Law … 218/1990, in particular to the fact that the 2003 tax reform did not remove for those entities the risk of the double taxation of suspended gains distributed as dividends, are irrelevant.</prem>
 
 ...
 
-<prem ID="A13" T="F">186
+<prem ID="A13" T="F" SUP="A9|A12">186
 
 
 It follows from the above considerations that, contrary to the [appellants’] claims, the Commission did not err in using the normal tax as a reference framework for the purpose of determining whether there was an economic advantage.’</prem>
@@ -485,12 +485,12 @@ The only measure with which realignment under Article 2(26) of Law … 350/2003 
 66
 
 
-<prem ID="A17" T="F">It is apparent from those considerations that, in contrast to what is stated in the ground of appeal, the General Court did not give reasons which were unrelated to the contested decision since, in paragraphs 165, 173 and 186 of the judgment under appeal, it observed that the reference framework chosen by the Commission was the normal tax rules for profits and it was only to respond to the appellants’ arguments that it compared the tax scheme at issue and the general realignment scheme.</prem> <prem ID="A18" T="F">On that issue, the appellants state, in point 15 of their reply in the proceedings before the Court of Justice, that those arguments were not submitted in the alternative.</prem> <prem ID="A19" T="F">It follows that the General Court was required to respond to them.</prem>
+<prem ID="A17" T="F" SUP="A14|A15|A16">It is apparent from those considerations that, in contrast to what is stated in the ground of appeal, the General Court did not give reasons which were unrelated to the contested decision since, in paragraphs 165, 173 and 186 of the judgment under appeal, it observed that the reference framework chosen by the Commission was the normal tax rules for profits and it was only to respond to the appellants’ arguments that it compared the tax scheme at issue and the general realignment scheme.</prem> <prem ID="A18" T="F">On that issue, the appellants state, in point 15 of their reply in the proceedings before the Court of Justice, that those arguments were not submitted in the alternative.</prem> <prem ID="A19" T="F" SUP="A18">It follows that the General Court was required to respond to them.</prem>
 
 67
 
 
-<prem ID="A20" T="F">In addition, in paragraph 182 of the judgment under appeal, the General Court held that there was no need to compare the tax scheme at issue with the general realignment scheme, which was exactly what the appellants had maintained in points 98 to 100 of their application initiating proceedings before the General Court and as they point out in point 77 of their appeal.</prem> <prem ID="A21" T="F">It is thus apparent that the appellants have been successful and that they have no legal interest in challenging the judgment under appeal on that issue.</prem>
+<prem ID="A20" T="F">In addition, in paragraph 182 of the judgment under appeal, the General Court held that there was no need to compare the tax scheme at issue with the general realignment scheme, which was exactly what the appellants had maintained in points 98 to 100 of their application initiating proceedings before the General Court and as they point out in point 77 of their appeal.</prem> <prem ID="A21" T="F" SUP="A20">It is thus apparent that the appellants have been successful and that they have no legal interest in challenging the judgment under appeal on that issue.</prem>
 
 68
 
@@ -572,7 +572,7 @@ Findings of the Court
 80
 
 
- <prem ID="B1" T="F">As stated in paragraph 73 of this judgment, the appellants sought to establish that the companies to which assets had been transferred under Law 218/1990 were in a different legal situation from that of the other companies to which assets had been transferred.</prem>
+ <prem ID="B1" T="F" ATT="B2|B3">As stated in paragraph 73 of this judgment, the appellants sought to establish that the companies to which assets had been transferred under Law 218/1990 were in a different legal situation from that of the other companies to which assets had been transferred.</prem>
 
 81
 
@@ -582,7 +582,7 @@ Findings of the Court
 82
 
 
- <conc ID="B4">It follows that the fifth ground of appeal is unfounded.</conc>
+ <conc ID="B4" SUP="B1|B2">It follows that the fifth ground of appeal is unfounded.</conc>
 
  The first two grounds of appeal
 
@@ -663,7 +663,7 @@ Findings of the Court
 97
 
 
-<prem ID="C2" T="F">It is apparent from paragraphs 124 to 130 and from paragraph 200 of the judgment under appeal that the appellants submitted that the tax scheme established in Articles 17 and 18 of Law 342/2000 was extended only in respect of companies and entities which took part in transfers of assets in exchange for shares under the system of fiscal neutrality provided for in Article 7(2) of Law 218/1990.</prem> <prem ID="C3" T="F">They argued that, following the entry into force of Legislative Decree 344/2003 and the establishment of the special exemption regime known as ‘shareholding exemption’, the risk of double taxation disappeared for the companies and entities which carried out such transactions under the system of fiscal neutrality provided for in Article 4 of Legislative Decree 358/1997.</prem>
+<prem ID="C2" T="F" REPH="C7">It is apparent from paragraphs 124 to 130 and from paragraph 200 of the judgment under appeal that the appellants submitted that the tax scheme established in Articles 17 and 18 of Law 342/2000 was extended only in respect of companies and entities which took part in transfers of assets in exchange for shares under the system of fiscal neutrality provided for in Article 7(2) of Law 218/1990.</prem> <prem ID="C3" T="F" REPH="C6">They argued that, following the entry into force of Legislative Decree 344/2003 and the establishment of the special exemption regime known as ‘shareholding exemption’, the risk of double taxation disappeared for the companies and entities which carried out such transactions under the system of fiscal neutrality provided for in Article 4 of Legislative Decree 358/1997.</prem>
 
 98
 
@@ -680,17 +680,17 @@ Findings of the Court
 
 Next, it is necessary to consider the [appellants’] complaint … alleging that the Commission was wrong to consider that the selective nature of the scheme established by Article 2(26) of Law … 350/2003 could not be justified by the inherent logic of the system.</prem>
 
-<prem ID="C6" T="F">200
+<prem ID="C6" T="F" REPH="C3">200
 
 
-In that context, the applicants submit essentially … that the 2003 tax reform eliminated any risk of the double taxation of the gains arising on the transfer of assets under the system of fiscal neutrality established by Article 4 of Legislative Decree … 358/1997, namely the taxation of both the companies transferring and the companies in receipt of assets.</prem> <prem ID="C7" T="F">On the other hand, that reform did not remove the risk of the double taxation of the gains arising in connection with the transfer of assets under the system of fiscal neutrality introduced by Law … 218/1990. The [appellants] maintain that that explains the decision of the Italian legislature to extend the realignment scheme under Articles 17 and 18 of Law … 342/2000 only to assets transferred in the context of Law … 218/1990.</prem>
+In that context, the applicants submit essentially … that the 2003 tax reform eliminated any risk of the double taxation of the gains arising on the transfer of assets under the system of fiscal neutrality established by Article 4 of Legislative Decree … 358/1997, namely the taxation of both the companies transferring and the companies in receipt of assets.</prem> <prem ID="C7" T="F" REPH="C2">On the other hand, that reform did not remove the risk of the double taxation of the gains arising in connection with the transfer of assets under the system of fiscal neutrality introduced by Law … 218/1990. The [appellants] maintain that that explains the decision of the Italian legislature to extend the realignment scheme under Articles 17 and 18 of Law … 342/2000 only to assets transferred in the context of Law … 218/1990.</prem>
 
 <prem ID="C8" T="F">201
 
 
-However, it should be recalled that the contested decision does not concern transferring entities but only banking establishments to which assets were transferred under Law … 218/1990 and the economic advantage reserved to those establishments by the scheme at issue.</prem> <prem ID="C9" T="F">Consequently, the fact that the transferring entities under Law … 218/1990 might have been taxed because there was a possibility of double taxation cannot be a factor that justifies a selective advantage being conferred on recipient banks by means of Article 2(26) of Law … 350/2003.</prem>
+However, it should be recalled that the contested decision does not concern transferring entities but only banking establishments to which assets were transferred under Law … 218/1990 and the economic advantage reserved to those establishments by the scheme at issue.</prem> <prem ID="C9" T="F" SUP="C8">Consequently, the fact that the transferring entities under Law … 218/1990 might have been taxed because there was a possibility of double taxation cannot be a factor that justifies a selective advantage being conferred on recipient banks by means of Article 2(26) of Law … 350/2003.</prem>
 
-<prem ID="C10" T="F">202
+<prem ID="C10" T="F" SUP="C9">202
 
 
 The Commission was therefore correct to consider, at recital 105 in the preamble to the contested decision, that the scheme introduced by Article 2(26) of Law … 350/2003 conferred a selective advantage which had the effect of improving the competitiveness of credit institutions which were reorganised under Law … 218/1990 by comparison with other undertakings.’</prem>
@@ -698,7 +698,7 @@ The Commission was therefore correct to consider, at recital 105 in the preamble
 100
 
 
-<prem ID="C11" T="L" S="Rule|Prec">According to the Court’s case-law, however, State aid, as defined in the Treaty on the Functioning of the European Union, is a legal concept which must be interpreted on the basis of objective factors.</prem> <prem ID="C12" T="L" S="Prec|Rule">For that reason, the European Union judicature must in principle and having regard both to the specific features of the case before it and to the technical or complex nature of the Commission’s assessments, carry out a comprehensive review as to whether a measure falls within the scope of Article 107(1) TFEU (see, inter alia, Case C-83/98 P France v Ladbroke Racing and Commission [2000] ECR I-3271, paragraph 25, and Case C-487/06 P British Aggregates v Commission [2008] ECR I-10515, paragraph 111).</prem>
+<prem ID="C11" T="L" S="Rule|Prec">According to the Court’s case-law, however, State aid, as defined in the Treaty on the Functioning of the European Union, is a legal concept which must be interpreted on the basis of objective factors.</prem> <prem ID="C12" T="L" SUP="C11" S="Prec|Rule">For that reason, the European Union judicature must in principle and having regard both to the specific features of the case before it and to the technical or complex nature of the Commission’s assessments, carry out a comprehensive review as to whether a measure falls within the scope of Article 107(1) TFEU (see, inter alia, Case C-83/98 P France v Ladbroke Racing and Commission [2000] ECR I-3271, paragraph 25, and Case C-487/06 P British Aggregates v Commission [2008] ECR I-10515, paragraph 111).</prem>
 
 101
 
@@ -708,21 +708,21 @@ The Commission was therefore correct to consider, at recital 105 in the preamble
 102
 
 
-<prem ID="C14" T="L" S="Itpr">It is apparent from those considerations that, in carrying out the necessary comprehensive review of the characterisation of the tax scheme at issue as State aid, the General Court had to examine whether the differentiation between undertakings arising from that scheme was due to the nature or general scheme of the tax system of which it formed part.</prem>
+<prem ID="C14" T="L" SUP="C12|C13" S="Itpr" ATT="C15">It is apparent from those considerations that, in carrying out the necessary comprehensive review of the characterisation of the tax scheme at issue as State aid, the General Court had to examine whether the differentiation between undertakings arising from that scheme was due to the nature or general scheme of the tax system of which it formed part.</prem>
 103
 
 
-<prem ID="C15" T="L" S="Prec|Rule">Admittedly, the Court of Justice has held that judicial review is limited with regard to whether a measure comes within the scope of Article 107(1) TFEU, in a case where the appraisals by the Commission are technical or complex in nature (see, inter alia, France v Ladbroke Racing and Commission, paragraph 25, and British Aggregates v Commission, paragraph 114).</prem> <prem ID="C16" T="F">However, the General Court did not find that this was the case here.</prem>
+<prem ID="C15" T="L" S="Prec|Rule" ATT="C16">Admittedly, the Court of Justice has held that judicial review is limited with regard to whether a measure comes within the scope of Article 107(1) TFEU, in a case where the appraisals by the Commission are technical or complex in nature (see, inter alia, France v Ladbroke Racing and Commission, paragraph 25, and British Aggregates v Commission, paragraph 114).</prem> <prem ID="C16" T="F">However, the General Court did not find that this was the case here.</prem>
 
 104
 
 
- <prem ID="C17" T="F">Thus, by merely observing that the contested decision did not concern the transferring entities without considering the tax realignment scheme in its entirety, and without having assessed the appellants’ and the Commission’s arguments, the General Court erred in law by failing to carry out a comprehensive review as to whether the tax scheme at issue came within the scope of Article 107(1) TFEU (see, to that effect, British Aggregates v Commission, paragraph 115).</prem> 
+ <prem ID="C17" T="F" SUP="C14|C16">Thus, by merely observing that the contested decision did not concern the transferring entities without considering the tax realignment scheme in its entirety, and without having assessed the appellants’ and the Commission’s arguments, the General Court erred in law by failing to carry out a comprehensive review as to whether the tax scheme at issue came within the scope of Article 107(1) TFEU (see, to that effect, British Aggregates v Commission, paragraph 115).</prem> 
 
 105
 
 
- <conc ID="C18">The judgment under appeal must therefore be set aside to the extent that it infringed Article 107(1) TFEU.</conc>
+ <conc ID="C18" SFF="C17">The judgment under appeal must therefore be set aside to the extent that it infringed Article 107(1) TFEU.</conc>
 
 The action before the General Court
 

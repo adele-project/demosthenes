@@ -118,15 +118,15 @@ The contested agreement was made against the background of the French legislatio
 
 25 
 
-<prem ID="A2" T="L" S="Rule|Class"> So, in order for there to be State aid within the meaning of that provision it is necessary, first, for there to be aid favouring certain undertakings or the production of certain goods and, second, for that advantage to come from the State or State resources.</prem> 
+<prem ID="A2" T="L" S="Rule|Class" SUP="A1"> So, in order for there to be State aid within the meaning of that provision it is necessary, first, for there to be aid favouring certain undertakings or the production of certain goods and, second, for that advantage to come from the State or State resources.</prem> 
 
 26 
 
-<prem ID="A3" T="F"> It follows that if the reasoning in the contested decision to the effect that there was no advantage for the Belgian PMU was correct, the Court of First Instance was right to hold that that was enough in itself to justify the rejection of the complaint, and that it did not need to examine Ladbroke's argument that the Belgian PMU's French revenue came from a compulsory levy provided for under rules of French public law.</prem>
+<prem ID="A3" T="F" SUP="A2"> It follows that if the reasoning in the contested decision to the effect that there was no advantage for the Belgian PMU was correct, the Court of First Instance was right to hold that that was enough in itself to justify the rejection of the complaint, and that it did not need to examine Ladbroke's argument that the Belgian PMU's French revenue came from a compulsory levy provided for under rules of French public law.</prem>
 
 27 
 
-<prem ID="A4" T="F"> Consequently, it has to be considered whether the Court of First Instance was right to accept the reasoning in the contested decision to the effect that there was no treatment favouring the Belgian PMU.</prem>
+<prem ID="A4" T="F" SUP="A3"> Consequently, it has to be considered whether the Court of First Instance was right to accept the reasoning in the contested decision to the effect that there was no treatment favouring the Belgian PMU.</prem>
 
 28 
 
@@ -134,11 +134,11 @@ The contested agreement was made against the background of the French legislatio
 
 29 
 
-<prem ID="A6" T="F"> The Court of First Instance stated, in particular, in paragraphs 60 and 62 of the contested judgment, that a comparison between the rate of revenue realized by the Belgian PMU in France and in Belgium on bets on Belgian races was the appropriate criterion for determining whether the Belgian PMU benefited from an advantage for the purposes of Article 92, since Article 15(3) of Law No 64-1279 established as a general rule that bets on horse-races run abroad were to be subject to the statutory and fiscal levies in force in the country in which the races were organized.</prem> <prem ID="A7" T="F"> According to the Court of First Instance, the way in which the levy on bets on Belgian races is treated in France, whereby the Belgian PMU receives a share of the levy comparable to that which it would receive if the Belgian statutory and fiscal retentions were applied, does not therefore constitute a measure which derogates from the scheme of the general system but on the contrary accords with that general system.</prem>
+<prem ID="A6" T="F" ATT="A9"> The Court of First Instance stated, in particular, in paragraphs 60 and 62 of the contested judgment, that a comparison between the rate of revenue realized by the Belgian PMU in France and in Belgium on bets on Belgian races was the appropriate criterion for determining whether the Belgian PMU benefited from an advantage for the purposes of Article 92, since Article 15(3) of Law No 64-1279 established as a general rule that bets on horse-races run abroad were to be subject to the statutory and fiscal levies in force in the country in which the races were organized.</prem> <prem ID="A7" T="F" ATT="A9"> According to the Court of First Instance, the way in which the levy on bets on Belgian races is treated in France, whereby the Belgian PMU receives a share of the levy comparable to that which it would receive if the Belgian statutory and fiscal retentions were applied, does not therefore constitute a measure which derogates from the scheme of the general system but on the contrary accords with that general system.</prem>
 
 30 
 
-<prem ID="A8" T="F"> Ladbroke claims, however, that the comparison should have been between the levies on bets placed in France on non-French races and the levies on bets placed in France on French races.</prem> <prem ID="A8bis" T="F">If a Member State claims to regulate a particular economic activity (by way of taxation or imposition of levies), it must treat all such economic activity equally.</prem> <prem ID="A9" T="F"> The general system for determining the statutory and fiscal retentions on betting in France should therefore, contrary to the finding of the Court of First Instance, be that established for bets placed in France and not that established by Article 15(3) of Law No 64-1279, of which, moreover, the Belgian PMU is the sole beneficiary.</prem>
+<prem ID="A8" T="F" ATT="A21"> Ladbroke claims, however, that the comparison should have been between the levies on bets placed in France on non-French races and the levies on bets placed in France on French races.</prem> <prem ID="A8bis" T="F" ATT="A21">If a Member State claims to regulate a particular economic activity (by way of taxation or imposition of levies), it must treat all such economic activity equally.</prem> <prem ID="A9" T="F" SUP="A5|A8|A8bis"> The general system for determining the statutory and fiscal retentions on betting in France should therefore, contrary to the finding of the Court of First Instance, be that established for bets placed in France and not that established by Article 15(3) of Law No 64-1279, of which, moreover, the Belgian PMU is the sole beneficiary.</prem>
 
 31 
 
@@ -154,7 +154,7 @@ The contested agreement was made against the background of the French legislatio
 
 34 
 
-<prem ID="A14" T="F"> In totalizator betting the stakes constitute a common pool which, after various levies, is distributed amongst the winners equally, whatever the origin of the bets.</prem> <prem ID="A15" T="F"> The share of the stakes paid out to the winners thus cannot vary according to the State in which the bets were placed.</prem> <prem ID="A16" T="F">The proper functioning of such a system can therefore be ensured only if the rate at which any levies which may be imposed on the bets laid on a horse-race is that of the State in which the the race is run.</prem>
+<prem ID="A14" T="F"> In totalizator betting the stakes constitute a common pool which, after various levies, is distributed amongst the winners equally, whatever the origin of the bets.</prem> <prem ID="A15" T="F"> The share of the stakes paid out to the winners thus cannot vary according to the State in which the bets were placed.</prem> <prem ID="A16" T="F" SUP="A14|A15">The proper functioning of such a system can therefore be ensured only if the rate at which any levies which may be imposed on the bets laid on a horse-race is that of the State in which the the race is run.</prem>
 
 35 
 
@@ -162,19 +162,19 @@ The contested agreement was made against the background of the French legislatio
 
 36 
 
-<prem ID="A20" T="F"> The French legislature therefore cannot be criticised for having treated bets on French races differently from bets on foreign races by providing, in Article 15(3) of Law No 64-1279, that bets on horse-races abroad were to be subject to the statutory and fiscal retentions in force in the country where the races are organized.</prem>
+<prem ID="A20" T="F" SUP="A10|A11|A12|A13|A16|A17|A18|A19"> The French legislature therefore cannot be criticised for having treated bets on French races differently from bets on foreign races by providing, in Article 15(3) of Law No 64-1279, that bets on horse-races abroad were to be subject to the statutory and fiscal retentions in force in the country where the races are organized.</prem>
 
 37 
 
-<prem ID="A21" T="F"> Accordingly the Court of First Instance was entitled to hold, in paragraph 63 of the contested judgment, that it was not possible to accept Ladbroke's argument that the way in which stakes on Belgian races were treated, which allegedly produced the advantage to the Belgian PMU complained of, should be the same as the way in which the levy accruing to the PMU was treated.</prem>
+<prem ID="A21" T="F" SUP="A4|A6|A7|A20"> Accordingly the Court of First Instance was entitled to hold, in paragraph 63 of the contested judgment, that it was not possible to accept Ladbroke's argument that the way in which stakes on Belgian races were treated, which allegedly produced the advantage to the Belgian PMU complained of, should be the same as the way in which the levy accruing to the PMU was treated.</prem>
 
 38 
 
-<prem ID="A22" T="F"> Furthermore, that conclusion is not affected by the fact that the general system governing bets on horse-races abroad has hitherto been applied only to bets on horse-races organized in Belgium.</prem> <prem ID="A23" T="F"> Article 15(3) of Law No 64-1279, which provides that the sociétés de courses authorized to organize off-course totalizator betting may be empowered to collect bets placed in France on foreign races, existed well before Decree No 91-118 was adopted and the contested agreement entered into, and both the latter follow the general system established by that provision.</prem>
+<prem ID="A22" T="F" SUP="A23"> Furthermore, that conclusion is not affected by the fact that the general system governing bets on horse-races abroad has hitherto been applied only to bets on horse-races organized in Belgium.</prem> <prem ID="A23" T="F"> Article 15(3) of Law No 64-1279, which provides that the sociétés de courses authorized to organize off-course totalizator betting may be empowered to collect bets placed in France on foreign races, existed well before Decree No 91-118 was adopted and the contested agreement entered into, and both the latter follow the general system established by that provision.</prem>
 
 39 
 
-<conc ID="A24">In the light of the foregoing, the appeal must be dismissed.</conc> 
+<conc ID="A24" SUP="A21|A22">In the light of the foregoing, the appeal must be dismissed.</conc> 
 
 Decision on costs
 

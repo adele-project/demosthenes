@@ -242,17 +242,17 @@ The request to reopen the oral procedure
 14
 
 
-<prem ID="A4" T="L">In that regard, it follows from the second paragraph of Article 252 TFEU that it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which require his involvement.</prem> <prem ID="A5" T="L">The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based.</prem> <prem ID="A6" T="L">Consequently, a party’s disagreement with the Opinion of the Advocate General, irrespective of the questions examined in that Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (see judgment of 21 December 2016, Council v Front Polisario, C‑104/16 P, EU:C:2016:973, paragraphs 60 and 61 and the case-law cited).</prem>
+<prem ID="A4" T="L">In that regard, it follows from the second paragraph of Article 252 TFEU that it is the duty of the Advocate General, acting with complete impartiality and independence, to make, in open court, reasoned submissions on cases which require his involvement.</prem> <prem ID="A5" T="L">The Court is not bound either by the Advocate General’s Opinion or by the reasoning on which it is based.</prem> <prem ID="A6" T="L" SUP="A2|A3|A4|A5">Consequently, a party’s disagreement with the Opinion of the Advocate General, irrespective of the questions examined in that Opinion, cannot in itself constitute grounds justifying the reopening of the oral procedure (see judgment of 21 December 2016, Council v Front Polisario, C‑104/16 P, EU:C:2016:973, paragraphs 60 and 61 and the case-law cited).</prem>
 
 15
 
 
-<prem ID="A7" T="F">The Court therefore considers, having heard the Advocate General, that it has before it all the necessary information to give judgment and that the information has been the subject of debate between the parties.</prem>
+<prem ID="A7" T="F" SUP="A1|A1bis|A6">The Court therefore considers, having heard the Advocate General, that it has before it all the necessary information to give judgment and that the information has been the subject of debate between the parties.</prem>
 
 16
 
 
-<conc ID="A8">In the light of the foregoing, the Court considers that there is no need to reopen the oral part of the procedure.</conc>
+<conc ID="A8" SUP="A7">In the light of the foregoing, the Court considers that there is no need to reopen the oral part of the procedure.</conc>
 
 The appeal
 
@@ -285,7 +285,7 @@ Findings of the Court
 21
 
 
-<prem ID="B1" T="F"> By its first ground of appeal, Viasat claims that the General Court erred in law in finding that the Commission was not required, in its assessment under Article 106(2) TFEU, to take the second and fourth Altmark conditions into consideration in order to ascertain whether compliance with those conditions would have obstructed the performance by TV2 of the tasks assigned to it.</prem>
+<prem ID="B1" T="F" SUP="B12" ATT="B18"> By its first ground of appeal, Viasat claims that the General Court erred in law in finding that the Commission was not required, in its assessment under Article 106(2) TFEU, to take the second and fourth Altmark conditions into consideration in order to ascertain whether compliance with those conditions would have obstructed the performance by TV2 of the tasks assigned to it.</prem>
 
 22
 
@@ -315,7 +315,7 @@ Findings of the Court
 27
 
 
-<prem ID="B7" T="L" S="Rule">If the conditions referred to in the previous paragraph were not met, the State measure at issue would be deemed to confer a selective advantage on the recipient undertaking and if, moreover, the other criteria set out in Article 107(1) TFEU were met, that measure would constitute aid in principle incompatible with the internal market.</prem>
+<prem ID="B7" T="L" SUP="B2|B2bis|B2ter|B3|B3bis|B4|B5|B6|B6a|B6b|B6c|B6d" S="Rule">If the conditions referred to in the previous paragraph were not met, the State measure at issue would be deemed to confer a selective advantage on the recipient undertaking and if, moreover, the other criteria set out in Article 107(1) TFEU were met, that measure would constitute aid in principle incompatible with the internal market.</prem>
 
 28
 
@@ -340,12 +340,12 @@ Findings of the Court
 32
 
 
-<prem ID="B12" T="F">As set out in paragraph 21 above, Viasat submits that the Commission was required to examine, in its assessment under Article 106(2) TFEU, whether meeting the second and the fourth Altmark conditions would have obstructed the performance by TV2 of the tasks assigned to it.</prem>
+<prem ID="B12" T="F" ATT="B13">As set out in paragraph 21 above, Viasat submits that the Commission was required to examine, in its assessment under Article 106(2) TFEU, whether meeting the second and the fourth Altmark conditions would have obstructed the performance by TV2 of the tasks assigned to it.</prem>
 
 33
 
 
-<prem ID="B13" T="L" S="Rule">It must be pointed out in this connection that in order to assess a measure under Article 106(2) TFEU, the Commission is not required, contrary to what is claimed by the appellant, to examine whether the conditions laid down by the case-law in Altmark, in particular the second and fourth of those conditions, are met.</prem>
+<prem ID="B13" T="L" SUP="B7|B8|B9|B10|B10a|B11|B14|B14a|B15" S="Rule">It must be pointed out in this connection that in order to assess a measure under Article 106(2) TFEU, the Commission is not required, contrary to what is claimed by the appellant, to examine whether the conditions laid down by the case-law in Altmark, in particular the second and fourth of those conditions, are met.</prem>
 
 34
 
@@ -355,7 +355,7 @@ Findings of the Court
 35
 
 
-<prem ID="B15" T="L" S="Prec|Rule|Itpr">By contrast, the conditions laid down in the Altmark case-law are no longer to be applied where the Commission, having found that a measure must be characterised as aid, in particular in so far as the recipient undertaking is unable to pass the test of comparison with a typical undertaking, well run and adequately equipped so as to be able to meet the necessary public-service requirements, examines whether that aid can be justified under Article 106(2) TFEU.</prem>
+<prem ID="B15" T="L" SUP="B16|B17" S="Prec|Rule|Itpr">By contrast, the conditions laid down in the Altmark case-law are no longer to be applied where the Commission, having found that a measure must be characterised as aid, in particular in so far as the recipient undertaking is unable to pass the test of comparison with a typical undertaking, well run and adequately equipped so as to be able to meet the necessary public-service requirements, examines whether that aid can be justified under Article 106(2) TFEU.</prem>
 
 36
 
@@ -369,12 +369,12 @@ Findings of the Court
 38
 
 
-<prem ID="B18" T="F">Having regard to the foregoing considerations, the General Court therefore did not err in law when it held in the judgment under appeal that Article 106(2) TFEU does not require the Commission to take into consideration the second and fourth Altmark conditions in order to decide whether State aid is compatible with the internal market under that provision.</prem>
+<prem ID="B18" T="F" SUP="B13">Having regard to the foregoing considerations, the General Court therefore did not err in law when it held in the judgment under appeal that Article 106(2) TFEU does not require the Commission to take into consideration the second and fourth Altmark conditions in order to decide whether State aid is compatible with the internal market under that provision.</prem>
 
 39
 
 
-<conc ID="B19">The first ground of appeal must therefore be rejected as unfounded.</conc>
+<conc ID="B19" SUP="B18">The first ground of appeal must therefore be rejected as unfounded.</conc>
 
 The second ground of appeal, alleging breach of Article 296 TFEU
 
@@ -383,12 +383,12 @@ Arguments of the parties
 40
 
 
-<prem ID="C1" T="F">By its second ground of appeal, Viasat takes issue with paragraphs 103 and 104 of the judgment under appeal on the ground that the General Court erred in law by rejecting its plea for annulment based on the Commission’s infringement in the contested decision of its obligation to state reasons under Article 296 TFEU.</prem>
+<prem ID="C1" T="F" SUP="C4">By its second ground of appeal, Viasat takes issue with paragraphs 103 and 104 of the judgment under appeal on the ground that the General Court erred in law by rejecting its plea for annulment based on the Commission’s infringement in the contested decision of its obligation to state reasons under Article 296 TFEU.</prem>
 
 41
 
 
-<prem ID="C2" T="F">Viasat also alleges that the General Court failed to reply to the pleas raised in the application at first instance.</prem>
+<prem ID="C2" T="F" ATT="C9">Viasat also alleges that the General Court failed to reply to the pleas raised in the application at first instance.</prem>
 42
 
 
@@ -413,17 +413,17 @@ Findings of the Court
 46
 
 
-<prem ID="C6" T="L" S="Rule|Prec|Itpr">However, it follows from paragraph 37 above that Article 106(2) TFEU did not require the Commission to take into consideration the second and fourth Altmark conditions in order to decide whether State aid is compatible with the internal market under that provision.</prem> <prem ID="C7" T="F">Accordingly, the General Court did not err in law in holding that sufficient reasons were stated for the contested decision.</prem>
+<prem ID="C6" T="L" S="Rule|Prec|Itpr">However, it follows from paragraph 37 above that Article 106(2) TFEU did not require the Commission to take into consideration the second and fourth Altmark conditions in order to decide whether State aid is compatible with the internal market under that provision.</prem> <prem ID="C7" T="F" SUP="C3|C4|C5|C6">Accordingly, the General Court did not err in law in holding that sufficient reasons were stated for the contested decision.</prem>
 
 47
 
 
-<prem ID="C8" T="F" S="Aut">Moreover, as the Advocate General observed in point 58 of his Opinion, the complaint alleging a failure to respond to the pleas raised in the application at first instance is insufficiently developed for the other parties to the appeal to respond to or for the Court to rule on.</prem> <prem ID="C9" T="F">Consequently, it is inadmissible.</prem>
+<prem ID="C8" T="F" S="Aut">Moreover, as the Advocate General observed in point 58 of his Opinion, the complaint alleging a failure to respond to the pleas raised in the application at first instance is insufficiently developed for the other parties to the appeal to respond to or for the Court to rule on.</prem> <prem ID="C9" T="F" SUP="C8">Consequently, it is inadmissible.</prem>
 
 48
 
 
-<conc ID="C10"> Accordingly, the second ground of appeal must be rejected as in part inadmissible and in part unfounded.</conc>
+<conc ID="C10" SUP="C7|C9"> Accordingly, the second ground of appeal must be rejected as in part inadmissible and in part unfounded.</conc>
 
 49
 

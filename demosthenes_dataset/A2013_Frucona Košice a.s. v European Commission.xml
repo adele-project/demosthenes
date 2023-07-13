@@ -455,32 +455,32 @@ Findings of the Court
 69
 
 
-<prem ID="A3" T="L" S="Prec">The concept of aid embraces not only positive benefits, such as subsidies, but also measures which, in various forms, mitigate the charges which are normally included in the budget of an undertaking and which, therefore, without being subsidies in the strict sense of the word, are similar in character and have the same effect (Case C-200/97 Ecotrade [1998] ECR I-7907, paragraph 34, and Case C-6/97 Italy v Commission [1999] ECR I-2981, paragraph 15).</prem>
+<prem ID="A3" T="L" SUP="A2" S="Prec">The concept of aid embraces not only positive benefits, such as subsidies, but also measures which, in various forms, mitigate the charges which are normally included in the budget of an undertaking and which, therefore, without being subsidies in the strict sense of the word, are similar in character and have the same effect (Case C-200/97 Ecotrade [1998] ECR I-7907, paragraph 34, and Case C-6/97 Italy v Commission [1999] ECR I-2981, paragraph 15).</prem>
 
 70
 
 
-<prem ID="A4" T="L" S="Prec|Rule">However, the conditions which a measure must meet in order to be treated as ‘aid’ for the purposes of Article 107 TFEU are not met if the recipient undertaking could, in circumstances which correspond to normal market conditions, have obtained the same advantage as that which has been made available to it through State resources (see, to that effect, judgment of 5 June 2012 in Case C-124/10 P Commission v EDF, paragraph 78 and the case-law cited).</prem>
+<prem ID="A4" T="L" SUP="A2" S="Prec|Rule">However, the conditions which a measure must meet in order to be treated as ‘aid’ for the purposes of Article 107 TFEU are not met if the recipient undertaking could, in circumstances which correspond to normal market conditions, have obtained the same advantage as that which has been made available to it through State resources (see, to that effect, judgment of 5 June 2012 in Case C-124/10 P Commission v EDF, paragraph 78 and the case-law cited).</prem>
 
 71
 
 
-<prem ID="A5" T="L" S="Prec">That assessment is made when a public creditor grants payment facilities in respect of a debt payable to it by an undertaking, by applying, in principle, the private creditor test.</prem> <prem ID="A6" T="L" S="Prec">That test, where applicable, is among the factors which the Commission is required to take into account for the purposes of establishing whether such aid exists (see, to that effect, Case C-342/96 Spain v Commission [1999] ECR I-2459, paragraph 46; Case C-256/97 DM Transport [1999] ECR I-3913, paragraph 24; and Commission v EDF, paragraphs 78 and 103).</prem>
+<prem ID="A5" T="L" SUP="A4" S="Prec">That assessment is made when a public creditor grants payment facilities in respect of a debt payable to it by an undertaking, by applying, in principle, the private creditor test.</prem> <prem ID="A6" T="L" SUP="A7" S="Prec">That test, where applicable, is among the factors which the Commission is required to take into account for the purposes of establishing whether such aid exists (see, to that effect, Case C-342/96 Spain v Commission [1999] ECR I-2459, paragraph 46; Case C-256/97 DM Transport [1999] ECR I-3913, paragraph 24; and Commission v EDF, paragraphs 78 and 103).</prem>
 
 72
 
 
-<prem ID="A7" T="L" S="Prec|Rule">Such  payment facilities constitute State aid for the purposes of Article 107(1) TFEU where, taking account of the significance of the economic advantage thereby granted, the recipient undertaking would manifestly not have obtained comparable facilities from a private creditor in a situation as close as possible to that of the public creditor and seeking to recover sums due to it by a debtor in financial difficulty  (see, to that effect, Spain v Commission, paragraph 46; DM Transport, paragraph 30, and Commission v EDF, paragraph 79).</prem>
+<prem ID="A7" T="L" SUP="A5" S="Prec|Rule">Such  payment facilities constitute State aid for the purposes of Article 107(1) TFEU where, taking account of the significance of the economic advantage thereby granted, the recipient undertaking would manifestly not have obtained comparable facilities from a private creditor in a situation as close as possible to that of the public creditor and seeking to recover sums due to it by a debtor in financial difficulty  (see, to that effect, Spain v Commission, paragraph 46; DM Transport, paragraph 30, and Commission v EDF, paragraph 79).</prem>
 
 73
 
 
-<prem ID="A8" T="L" S="Prec">It is therefore for the Commission to carry out an overall assessment, taking into account all relevant evidence in the case enabling it to determine whether the recipient company would manifestly not have obtained comparable facilities from such a private creditor (see, to that effect, Commission v EDF, paragraph 86).</prem>
+<prem ID="A8" T="L" SUP="A6" S="Prec">It is therefore for the Commission to carry out an overall assessment, taking into account all relevant evidence in the case enabling it to determine whether the recipient company would manifestly not have obtained comparable facilities from such a private creditor (see, to that effect, Commission v EDF, paragraph 86).</prem>
 
 74
 
 
-<prem ID="A9" T="L" S="Prec">It is common ground that  the Commission is required to make a complex economic assessment when it examines whether particular measures can be described as State aid because the public authorities did not act in the same way as a private creditor  (see Case C-525/04 P Spain v Lenzing [2007] ECR I-9947, paragraph 59).</prem>
+<prem ID="A9" T="L" SUP="A8" S="Prec">It is common ground that  the Commission is required to make a complex economic assessment when it examines whether particular measures can be described as State aid because the public authorities did not act in the same way as a private creditor  (see Case C-525/04 P Spain v Lenzing [2007] ECR I-9947, paragraph 59).</prem>
 
 75
 
@@ -495,7 +495,7 @@ Findings of the Court
 77
 
 
-<prem ID="A12" T="F">It follows from the foregoing that, having regard to the arguments put forward by Frucona Košice at first instance, the General Court had to establish, inter alia, whether the available information relating to the duration of a bankruptcy was relevant in the present case for the purposes of an assessment from the point of view of the private creditor test and, if so, whether the Commission took account of it.</prem>
+<prem ID="A12" T="F" SUP="A1|A1bis|A1ter|A9|A10|A11">It follows from the foregoing that, having regard to the arguments put forward by Frucona Košice at first instance, the General Court had to establish, inter alia, whether the available information relating to the duration of a bankruptcy was relevant in the present case for the purposes of an assessment from the point of view of the private creditor test and, if so, whether the Commission took account of it.</prem>
 
 78
 
@@ -510,7 +510,7 @@ Findings of the Court
 80
 
 
-<prem ID="A15" T="F">It follows that, in order to identify the more advantageous alternative, such a creditor would have had to weigh up the advantages and disadvantages of each of those procedures.</prem>
+<prem ID="A15" T="F" SUP="A13|A14">It follows that, in order to identify the more advantageous alternative, such a creditor would have had to weigh up the advantages and disadvantages of each of those procedures.</prem>
 
 81
 
@@ -520,12 +520,12 @@ Findings of the Court
 82
 
 
-<prem ID="A17" T="F">Consequently, the onus was on the General Court to establish whether the Commission had taken into account, in its assessment of the private creditor test, the available information relating to, inter alia, the duration of a bankruptcy procedure.</prem>
+<prem ID="A17" T="F" SUP="A12|A15|A16" REPH="A21">Consequently, the onus was on the General Court to establish whether the Commission had taken into account, in its assessment of the private creditor test, the available information relating to, inter alia, the duration of a bankruptcy procedure.</prem>
 
 83
 
 
-<prem ID="A18" T="F">In this connection, it is apparent from paragraph 123 of the judgment under appeal, cited in paragraph 35 above, that the General Court found that the Commission had indicated, in recital 54 of the contested decision, the position of the Slovak Republic as regards the duration of such a procedure, and that it referred, in recital 40 of that decision, to that of Frucona Košice.</prem> <prem ID="A19" T="F">From this it concluded that the Commission had not ‘ignored that question’.</prem>
+<prem ID="A18" T="F">In this connection, it is apparent from paragraph 123 of the judgment under appeal, cited in paragraph 35 above, that the General Court found that the Commission had indicated, in recital 54 of the contested decision, the position of the Slovak Republic as regards the duration of such a procedure, and that it referred, in recital 40 of that decision, to that of Frucona Košice.</prem> <prem ID="A19" T="F" SUP="A18" INH="A23">From this it concluded that the Commission had not ‘ignored that question’.</prem>
 
 84
 
@@ -535,12 +535,12 @@ Findings of the Court
 85
 
 
-<prem ID="A21" T="F">Next, as has been observed in paragraph 82 of this judgment, the onus was on the General Court to establish, not whether the Commission had or had not ignored the available information relating to the duration of a bankruptcy procedure, but whether it had taken that information into account in its assessment of the private creditor test.</prem>
+<prem ID="A21" T="F" SUP="A12|A15|A16" REPH="A17">Next, as has been observed in paragraph 82 of this judgment, the onus was on the General Court to establish, not whether the Commission had or had not ignored the available information relating to the duration of a bankruptcy procedure, but whether it had taken that information into account in its assessment of the private creditor test.</prem>
 
 86
 
 
-<prem ID="A22" T="F">It follows that the General Court ought to have established whether the Commission had devoted part of its reasoning reproduced under Title VI of the contested decision, and in particular under Section 2.1 thereof, relating to the comparison of the arrangement and the bankruptcy, to the duration of a bankruptcy procedure.</prem> <prem ID="A23" T="F">It is, however, not apparent from the judgment under appeal that any such examination was carried out.</prem>
+<prem ID="A22" T="F" SUP="A17|A20|A21">It follows that the General Court ought to have established whether the Commission had devoted part of its reasoning reproduced under Title VI of the contested decision, and in particular under Section 2.1 thereof, relating to the comparison of the arrangement and the bankruptcy, to the duration of a bankruptcy procedure.</prem> <prem ID="A23" T="F" SUP="A22">It is, however, not apparent from the judgment under appeal that any such examination was carried out.</prem>
 
 87
 
@@ -550,22 +550,22 @@ Findings of the Court
 88
 
 
-<prem ID="A25" T="F">It follows that, in order to reject the pleas which it was examining, the General Court relied on an assessment of the duration of a bankruptcy procedure that serves to fill a gap in the reasoning for the contested decision by means of grounds which did not form part of that decision.</prem> <prem ID="A26" T="F">By acting in this way, however, the General Court exceeded the limits of its power of review.</prem>
+<prem ID="A25" T="F" SUP="A23|A24">It follows that, in order to reject the pleas which it was examining, the General Court relied on an assessment of the duration of a bankruptcy procedure that serves to fill a gap in the reasoning for the contested decision by means of grounds which did not form part of that decision.</prem> <prem ID="A26" T="F" SUP="A25|A29">By acting in this way, however, the General Court exceeded the limits of its power of review.</prem>
 
 89
 
 
-<prem ID="A27" T="L" S="Rule|Itpr">In reviewing the legality of acts under Article 263 TFEU, the Court of Justice and the General Court have jurisdiction in actions brought on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaty on the Functioning of the European Union or of any rule of law relating to its application, or of misuse of powers.</prem> <prem ID="A28" T="L" S="Rule">Article 264 TFEU provides that, if the action is well founded, the act concerned must be declared void.</prem> <prem ID="A29" T="L" S="Prec">The Court of Justice and the General Court cannot, therefore, under any circumstances substitute their own reasoning for that of the author of the contested act (see Case C-164/98 P DIR International Film and Others v Commission [2000] ECR I-447, paragraph 38, and Case C-487/06 P British Aggregates v Commission [2008] ECR I-10515, paragraph 141).</prem>
+<prem ID="A27" T="L" S="Rule|Itpr">In reviewing the legality of acts under Article 263 TFEU, the Court of Justice and the General Court have jurisdiction in actions brought on grounds of lack of competence, infringement of an essential procedural requirement, infringement of the Treaty on the Functioning of the European Union or of any rule of law relating to its application, or of misuse of powers.</prem> <prem ID="A28" T="L" S="Rule">Article 264 TFEU provides that, if the action is well founded, the act concerned must be declared void.</prem> <prem ID="A29" T="L" SUP="A27|A28" S="Prec">The Court of Justice and the General Court cannot, therefore, under any circumstances substitute their own reasoning for that of the author of the contested act (see Case C-164/98 P DIR International Film and Others v Commission [2000] ECR I-447, paragraph 38, and Case C-487/06 P British Aggregates v Commission [2008] ECR I-10515, paragraph 141).</prem>
 
 90
 
 
-<prem ID="A30" T="F">It follows from the foregoing that, in having failed to establish whether the Commission had taken into account, in its assessment of the private creditor test, the duration of a bankruptcy procedure, and in having filled, in that regard, by means of its own reasoning, a gap in the reasoning in the contested decision, the General Court erred in law.</prem>
+<prem ID="A30" T="F" SUP="A26">It follows from the foregoing that, in having failed to establish whether the Commission had taken into account, in its assessment of the private creditor test, the duration of a bankruptcy procedure, and in having filled, in that regard, by means of its own reasoning, a gap in the reasoning in the contested decision, the General Court erred in law.</prem>
 
 91
 
 
-<conc ID="A31">The first part of the first ground of appeal and the second part of the second ground of appeal must therefore be declared to be well founded and the judgment under appeal must consequently be set aside.</conc>
+<conc ID="A31" SUP="A30">The first part of the first ground of appeal and the second part of the second ground of appeal must therefore be declared to be well founded and the judgment under appeal must consequently be set aside.</conc>
 
 The proceedings at first instance
 
@@ -631,12 +631,12 @@ Findings of the Court
 103
 
 
-<prem ID="B4" T="F">It follows from the foregoing that, having failed to take account, in its assessment of the private creditor test, of the duration of the bankruptcy procedure, the Commission committed a manifest error of assessment.</prem><prem ID="B4bis" T="F"> In so far as that factor was taken into consideration by the Commission, the latter did not set out sufficient reasons for its decision.</prem>
+<prem ID="B4" T="F" SUP="B1|B2|B3">It follows from the foregoing that, having failed to take account, in its assessment of the private creditor test, of the duration of the bankruptcy procedure, the Commission committed a manifest error of assessment.</prem><prem ID="B4bis" T="F" SUP="B4"> In so far as that factor was taken into consideration by the Commission, the latter did not set out sufficient reasons for its decision.</prem>
 
 104
 
 
-<prem ID="B5" T="F">Consequently, the first part of the fourth plea in law submitted at first instance must be declared to be well founded.</prem>
+<prem ID="B5" T="F" SUP="B4bis" ATT="B6">Consequently, the first part of the fourth plea in law submitted at first instance must be declared to be well founded.</prem>
 
 105
 
@@ -646,12 +646,12 @@ Findings of the Court
 106
 
 
-<prem ID="B7" T="F">As the General Court noted in paragraph 92 of the judgment under appeal, it is, by reason of that finding, necessary to examine the other pleas in law raised by Frucona Košice on which it did not rule, including, in particular, those concerning the assessment of the private creditor test so far as that tax execution procedure is concerned.</prem>
+<prem ID="B7" T="F" SUP="B6">As the General Court noted in paragraph 92 of the judgment under appeal, it is, by reason of that finding, necessary to examine the other pleas in law raised by Frucona Košice on which it did not rule, including, in particular, those concerning the assessment of the private creditor test so far as that tax execution procedure is concerned.</prem>
 
 107
 
 
-<prem ID="B8" T="F">It must, however, be held that, so far as that examination is concerned, the dispute is not in such a state as to enable final judgment to be given.</prem> <conc ID="B9">Consequently, the case must be referred back to the General Court for it to give judgment on the pleas raised before it on which it did not rule.</conc>
+<prem ID="B8" T="F" SUP="B6">It must, however, be held that, so far as that examination is concerned, the dispute is not in such a state as to enable final judgment to be given.</prem> <conc ID="B9" SUP="B7|B8">Consequently, the case must be referred back to the General Court for it to give judgment on the pleas raised before it on which it did not rule.</conc>
 
 Costs
 

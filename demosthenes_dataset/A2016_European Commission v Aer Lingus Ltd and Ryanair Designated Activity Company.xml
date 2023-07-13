@@ -405,12 +405,12 @@ Findings of the Court
 49
 
 
-<prem ID="A1" T="F">Contrary to what the Commission and the Irish Government claim, the first part of Ryanair’s single ground of appeal is not ineffective.</prem> <prem ID="A2" T="F">Ryanair stated, in its appeal, that that part concerns not only paragraph 74 but also paragraphs 75 and 76 of the Ryanair judgment.</prem> <prem ID="A3" T="F">Moreover, those three paragraphs develop, essentially, one and the same line of reasoning, based on the fact that, during the period covered by the decision at issue, the EUR 3 rate did not apply and could not therefore be used as the reference rate.</prem>
+<prem ID="A1" T="F">Contrary to what the Commission and the Irish Government claim, the first part of Ryanair’s single ground of appeal is not ineffective.</prem> <prem ID="A2" T="F">Ryanair stated, in its appeal, that that part concerns not only paragraph 74 but also paragraphs 75 and 76 of the Ryanair judgment.</prem> <prem ID="A3" T="F" ATT="A4">Moreover, those three paragraphs develop, essentially, one and the same line of reasoning, based on the fact that, during the period covered by the decision at issue, the EUR 3 rate did not apply and could not therefore be used as the reference rate.</prem>
 
 50
 
 
-<prem ID="A4" T="F">However, as regards the substance, Ryanair’s arguments cannot succeed.</prem>
+<prem ID="A4" T="F" SUP="A7">However, as regards the substance, Ryanair’s arguments cannot succeed.</prem>
 
 51
 
@@ -420,12 +420,12 @@ Findings of the Court
 52
 
 
-<prem ID="A6" T="F" S="Aut">As the Advocate General observed, in essence, in point 41 of his Opinion, that assessment cannot be carried out by comparing the amount which the airlines subject to the lower rate of ATT were required to pay with a hypothetical tax amount, calculated on the basis or a rate which, as Ryanair itself accepts, did not apply to any flight or any airline during the period covered by the decision at issue .</prem> <prem ID="A7" T="F">Thus, the General Court was correct to state, in paragraph 75 of the Ryanair judgment, that fixing a reference rate other than that actually applied during the period in question would not allow all the effects of ATT to be fully apprehended.</prem>
+<prem ID="A6" T="F" S="Aut">As the Advocate General observed, in essence, in point 41 of his Opinion, that assessment cannot be carried out by comparing the amount which the airlines subject to the lower rate of ATT were required to pay with a hypothetical tax amount, calculated on the basis or a rate which, as Ryanair itself accepts, did not apply to any flight or any airline during the period covered by the decision at issue .</prem> <prem ID="A7" T="F" SUP="A5|A6">Thus, the General Court was correct to state, in paragraph 75 of the Ryanair judgment, that fixing a reference rate other than that actually applied during the period in question would not allow all the effects of ATT to be fully apprehended.</prem>
 
 53
 
 
-<conc ID="A8">It follows that paragraphs 74 to 76 of the Ryanair judgment are not vitiated by the error of law alleged by Ryanair and that the first part of its single ground of appeal must be rejected.</conc>
+<conc ID="A8" SUP="A1|A4">It follows that paragraphs 74 to 76 of the Ryanair judgment are not vitiated by the error of law alleged by Ryanair and that the first part of its single ground of appeal must be rejected.</conc>
 
 The fourth part of Ryanair’s single ground of appeal
 
@@ -446,12 +446,12 @@ Findings of the Court
 56
 
 
-<prem ID="B1" T="F">Contrary to what is submitted by the Irish Government, Ryanair has set out to the requisite legal standard the reasons why it considers that paragraph 89 of the Ryanair judgment is vitiated by an error of law.</prem>
+<prem ID="B1" T="F" SFF="B2">Contrary to what is submitted by the Irish Government, Ryanair has set out to the requisite legal standard the reasons why it considers that paragraph 89 of the Ryanair judgment is vitiated by an error of law.</prem>
 
 57
 
 
-<prem ID="B2" T="F">The fact nonetheless remains that those reasons are not such as to call into question the grounds of the General Court’s rejection of Ryanair’s argument, so that this part of Ryanair’s single ground of appeal must also be discounted.</prem>
+<prem ID="B2" T="F" SUP="B3|B4">The fact nonetheless remains that those reasons are not such as to call into question the grounds of the General Court’s rejection of Ryanair’s argument, so that this part of Ryanair’s single ground of appeal must also be discounted.</prem>
 
 58
 
@@ -461,7 +461,7 @@ Findings of the Court
 59
 
 
-<conc ID="B5">Accordingly, the fourth part of Ryanair’s single ground of appeal must also be rejected.</conc>
+<conc ID="B5" SUP="B2">Accordingly, the fourth part of Ryanair’s single ground of appeal must also be rejected.</conc>
 
 The single ground of appeal of Aer Lingus and the second and third parts of Ryanair’s single ground of appeal
 
@@ -517,17 +517,17 @@ Findings of the Court
 69
 
 
-<prem ID="C2" T="L" S="Prec|Rule">Accordingly, the fact that a tax measure is contrary to provisions of EU law other than Articles 107 and 108 TFEU does not mean that the exemption from that measure enjoyed by certain taxpayers cannot be classified as State aid, as long as the measure in question produces effects vis-à-vis other taxpayers and has not been either repealed or declared unlawful and, therefore, inapplicable (see, to that effect, judgment of 30 March 2005, Heiser, C‑172/03, EU:C:2005:130, paragraph 38).</prem>
+<prem ID="C2" T="L" SUP="C1" S="Prec|Rule">Accordingly, the fact that a tax measure is contrary to provisions of EU law other than Articles 107 and 108 TFEU does not mean that the exemption from that measure enjoyed by certain taxpayers cannot be classified as State aid, as long as the measure in question produces effects vis-à-vis other taxpayers and has not been either repealed or declared unlawful and, therefore, inapplicable (see, to that effect, judgment of 30 March 2005, Heiser, C‑172/03, EU:C:2005:130, paragraph 38).</prem>
 
 70
 
 
-<prem ID="C3" T="F">That is, in essence, what the General Court stated in paragraph 43 of the Aer Lingus judgment and in paragraph 65 of the Ryanair judgment.</prem> <prem ID="C4" T="F">Accordingly, contrary to what is claimed by Aer Lingus in the first part of its single ground of appeal, paragraph 43 of the Aer Lingus judgment is not vitiated by any error of law.</prem>
+<prem ID="C3" T="F">That is, in essence, what the General Court stated in paragraph 43 of the Aer Lingus judgment and in paragraph 65 of the Ryanair judgment.</prem> <prem ID="C4" T="F" SUP="C1|C2|C3|C5|C8">Accordingly, contrary to what is claimed by Aer Lingus in the first part of its single ground of appeal, paragraph 43 of the Aer Lingus judgment is not vitiated by any error of law.</prem>
 
 71
 
 
-<prem ID="C5" T="F">That conclusion is not called into question by the case-law relied on by Aer Lingus and cited in paragraph 60 above.</prem>
+<prem ID="C5" T="F" SUP="C6|C7" REPH="C8">That conclusion is not called into question by the case-law relied on by Aer Lingus and cited in paragraph 60 above.</prem>
 
 72
 
@@ -537,17 +537,17 @@ Findings of the Court
 73
 
 
-<prem ID="C7" T="F">The State aid with which the decision at issue is concerned derives neither from the reimbursement of a tax contrary to the provisions of EU law other than Articles 107 and 108 TFEU that was paid by Aer Lingus and Ryanair, nor from the payment of compensation to those two undertakings.</prem> <prem ID="C8" T="F">That case-law is therefore irrelevant for the purposes of the present cases.</prem>
+<prem ID="C7" T="F">The State aid with which the decision at issue is concerned derives neither from the reimbursement of a tax contrary to the provisions of EU law other than Articles 107 and 108 TFEU that was paid by Aer Lingus and Ryanair, nor from the payment of compensation to those two undertakings.</prem> <prem ID="C8" T="F" SUP="C6|C7" REPH="C5">That case-law is therefore irrelevant for the purposes of the present cases.</prem>
 
 74
 
 
-<prem ID="C9" T="F">It follows that the first part of the Aer Lingus’ single ground of appeal must be rejected.</prem>
+<prem ID="C9" T="F" SUP="C4">It follows that the first part of the Aer Lingus’ single ground of appeal must be rejected.</prem>
 
 75
 
 
-<prem ID="C10" T="F">Next, the second to fourth parts of Aer Lingus’ single ground of appeal and the second and third parts of Ryanair’s single ground of appeal are based on the premiss that the fact that ATT is totally or partially at odds with provisions of EU law other than Articles 107 and 108 TFEU is likely to have a bearing on whether the total or partial exemption from that tax enjoyed by certain operators may be described as State aid within the meaning of Article 107(1) TFEU, in so far as, in particular, the unlawfulness of that measure could give rise, in proceedings before the national courts, to the repayment of all or part of the tax in question to other operators who were not entitled to the exemption in question.</prem>
+<prem ID="C10" T="F" ATT="C15">Next, the second to fourth parts of Aer Lingus’ single ground of appeal and the second and third parts of Ryanair’s single ground of appeal are based on the premiss that the fact that ATT is totally or partially at odds with provisions of EU law other than Articles 107 and 108 TFEU is likely to have a bearing on whether the total or partial exemption from that tax enjoyed by certain operators may be described as State aid within the meaning of Article 107(1) TFEU, in so far as, in particular, the unlawfulness of that measure could give rise, in proceedings before the national courts, to the repayment of all or part of the tax in question to other operators who were not entitled to the exemption in question.</prem>
 
 76
 
@@ -557,7 +557,7 @@ Findings of the Court
 77
 
 
-<prem ID="C12" T="F">It follows from the considerations set out in paragraphs 68 and 69 above that the Commission was obliged to take account of those effects and could not ignore them simply on the basis that the airlines subject to less favourable tax treatment might obtain reimbursement of the excess tax which they had paid by commencing proceedings before the national courts, where appropriate on the basis of provisions of EU law other than Articles 107 and 108 TFEU.</prem>
+<prem ID="C12" T="F" SUP="C2">It follows from the considerations set out in paragraphs 68 and 69 above that the Commission was obliged to take account of those effects and could not ignore them simply on the basis that the airlines subject to less favourable tax treatment might obtain reimbursement of the excess tax which they had paid by commencing proceedings before the national courts, where appropriate on the basis of provisions of EU law other than Articles 107 and 108 TFEU.</prem>
 
 78
 
@@ -567,7 +567,7 @@ Findings of the Court
 79
 
 
-<conc ID="C15">In the light of all the foregoing considerations, the second, third and fourth parts of Aer Lingus’s single ground of appeal and the second and third parts of Ryanair’s single ground of appeal must be rejected and, accordingly, the cross-appeals dismissed in their entirety as unfounded.</conc>
+<conc ID="C15" SUP="C9|C11|C12|C13|C14">In the light of all the foregoing considerations, the second, third and fourth parts of Aer Lingus’s single ground of appeal and the second and third parts of Ryanair’s single ground of appeal must be rejected and, accordingly, the cross-appeals dismissed in their entirety as unfounded.</conc>
 
 The main appeals
 
@@ -603,17 +603,17 @@ Findings of the Court
 85
 
 
-<prem ID="D1" T="F">As a preliminary point, it should be noted that, contrary to what is claimed by Ryanair, the Commission’s single ground of appeal is not ineffective.</prem>
+<prem ID="D1" T="F" SUP="D3|D6">As a preliminary point, it should be noted that, contrary to what is claimed by Ryanair, the Commission’s single ground of appeal is not ineffective.</prem>
 
 86
 
 
-<prem ID="D2" T="L" S="Prec">According to the Court’s well-established case-law, in an appeal, complaints directed against a ground included in a judgment of the General Court purely for the sake of completeness must be immediately dismissed as ineffective, since they cannot lead to the judgment under appeal being set aside (see, to that effect, judgment of 2 September 2010, Commission v Deutsche Post, C‑399/08 P, EU:C:2010:481, paragraph 75 and the case-law cited).</prem>
+<prem ID="D2" T="L" S="Prec" INH="D3">According to the Court’s well-established case-law, in an appeal, complaints directed against a ground included in a judgment of the General Court purely for the sake of completeness must be immediately dismissed as ineffective, since they cannot lead to the judgment under appeal being set aside (see, to that effect, judgment of 2 September 2010, Commission v Deutsche Post, C‑399/08 P, EU:C:2010:481, paragraph 75 and the case-law cited).</prem>
 
 87
 
 
-<prem ID="D3" T="F">However, in the present cases, contrary to Ryanair’s assertions, paragraphs 120 to 149 of the Ryanair judgment do not put forward three distinct grounds, each of which would be sufficient in itself to justify the annulment of Article 4 of the decision at issue.</prem> <prem ID="D4" T="F">Those paragraphs, in the same way as paragraphs 104 to 123 of the Aer Lingus judgment, which are worded in very similar terms, develop different aspects of the General Court’s single line of reasoning justifying its decision — given in paragraph 123 of the Aer Lingus judgment and paragraph 119 of the Ryanair judgment — that the Commission had committed ‘an error of assessment and an error of law’ by setting the amount of aid to be recovered from the airlines at EUR 8 per passenger.</prem> <prem ID="D5" T="F">Those different aspects of the reasoning are interlinked and Ryanair’s separation of them into three allegedly separate grounds is artificial and fails to have regard to their internal cohesion.</prem>
+<prem ID="D3" T="F" SUP="D4|D5">However, in the present cases, contrary to Ryanair’s assertions, paragraphs 120 to 149 of the Ryanair judgment do not put forward three distinct grounds, each of which would be sufficient in itself to justify the annulment of Article 4 of the decision at issue.</prem> <prem ID="D4" T="F">Those paragraphs, in the same way as paragraphs 104 to 123 of the Aer Lingus judgment, which are worded in very similar terms, develop different aspects of the General Court’s single line of reasoning justifying its decision — given in paragraph 123 of the Aer Lingus judgment and paragraph 119 of the Ryanair judgment — that the Commission had committed ‘an error of assessment and an error of law’ by setting the amount of aid to be recovered from the airlines at EUR 8 per passenger.</prem> <prem ID="D5" T="F">Those different aspects of the reasoning are interlinked and Ryanair’s separation of them into three allegedly separate grounds is artificial and fails to have regard to their internal cohesion.</prem>
 
 88
 
@@ -638,7 +638,7 @@ Findings of the Court
 92
 
 
-<prem ID="D11" T="L" S="Itpr|Aut">It follows, as the Advocate General observed, in essence, in point 62 of his Opinion, that recovery of such aid entails the restitution of the advantage procured by the aid for the recipient, not the restitution of any economic benefit the recipient may have enjoyed as a result of exploiting the advantage.</prem> <prem ID="D12" T="L" S="Itpr">That benefit may not be the same as the advantage constituting the aid and there may indeed be no such benefit, but that cannot justify any failure to recover that aid or the recovery of a different sum from that constituting the advantage procured by the unlawful aid in question.</prem>
+<prem ID="D11" T="L" SUP="D7|D8|D9|D10" S="Itpr|Aut">It follows, as the Advocate General observed, in essence, in point 62 of his Opinion, that recovery of such aid entails the restitution of the advantage procured by the aid for the recipient, not the restitution of any economic benefit the recipient may have enjoyed as a result of exploiting the advantage.</prem> <prem ID="D12" T="L" S="Itpr">That benefit may not be the same as the advantage constituting the aid and there may indeed be no such benefit, but that cannot justify any failure to recover that aid or the recovery of a different sum from that constituting the advantage procured by the unlawful aid in question.</prem>
 
 93
 
@@ -653,7 +653,7 @@ Findings of the Court
 95
 
 
-<prem ID="D16" T="F">In those circumstances, in the light of the considerations set out in paragraphs 89 to 93 above, it must be concluded that restitution of the advantage procured by the aid measure, as identified by the decision at issue, required the Irish tax authorities to recover from the beneficiaries of the lower rate of ATT the difference between the amount of ATT which, in the absence of unlawful aid, should have been paid in respect of each of the flights in question, namely the amount of ATT at the higher rate, and the amount of ATT actually paid — in other words, the amount calculated on the basis of the lower rate of ATT.</prem>
+<prem ID="D16" T="F" SUP="D11|D12|D13|D14|D15">In those circumstances, in the light of the considerations set out in paragraphs 89 to 93 above, it must be concluded that restitution of the advantage procured by the aid measure, as identified by the decision at issue, required the Irish tax authorities to recover from the beneficiaries of the lower rate of ATT the difference between the amount of ATT which, in the absence of unlawful aid, should have been paid in respect of each of the flights in question, namely the amount of ATT at the higher rate, and the amount of ATT actually paid — in other words, the amount calculated on the basis of the lower rate of ATT.</prem>
 
 96
 
@@ -663,7 +663,7 @@ Findings of the Court
 97
 
 
-<prem ID="D18" T="F">The considerations set out in paragraphs 104 to 123 of the Aer Lingus judgment and paragraphs 120 to 149 of the Ryanair judgment cannot justify, contrary to the view reached by the General Court, any different conclusion.</prem>
+<prem ID="D18" T="F" SFF="D19|D20|D21|D28|D28bis">The considerations set out in paragraphs 104 to 123 of the Aer Lingus judgment and paragraphs 120 to 149 of the Ryanair judgment cannot justify, contrary to the view reached by the General Court, any different conclusion.</prem>
 
 98
 
@@ -673,12 +673,12 @@ Findings of the Court
 99
 
 
-<prem ID="D21" T="F">Equally irrelevant, as regards the question of the recovery of the aid, is the notion of ‘economic passing on’ referred to in paragraph 91 of the Aer Lingus judgment and paragraph 123 of the Ryanair judgment, respectively.</prem> <prem ID="D22" T="F">The General Court stated in that connection, as regards flights subject to the lower rate of EUR 2 per passenger, that for the purpose of assessing the ‘economic passing on’, it was necessary to determine to what extent the airlines concerned actually retained the economic advantage arising from the application of the lower rate.</prem>
+<prem ID="D21" T="F" SUP="D24">Equally irrelevant, as regards the question of the recovery of the aid, is the notion of ‘economic passing on’ referred to in paragraph 91 of the Aer Lingus judgment and paragraph 123 of the Ryanair judgment, respectively.</prem> <prem ID="D22" T="F">The General Court stated in that connection, as regards flights subject to the lower rate of EUR 2 per passenger, that for the purpose of assessing the ‘economic passing on’, it was necessary to determine to what extent the airlines concerned actually retained the economic advantage arising from the application of the lower rate.</prem>
 
 100
 
 
-<prem ID="D23" T="L">As is apparent from paragraphs 92 and 93 above, the recovery of aid entails the restitution of the advantage procured by the aid for the beneficiary, not the restitution of the economic benefit that may have been conferred by the aid as a result of the exploitation of the advantage.</prem> <prem ID="D24" T="F">There is therefore no need to examine whether and to what extent those airlines actually utilised the economic advantage arising from the application of the lower rate.</prem>
+<prem ID="D23" T="L" SUP="D11|D12|D13">As is apparent from paragraphs 92 and 93 above, the recovery of aid entails the restitution of the advantage procured by the aid for the beneficiary, not the restitution of the economic benefit that may have been conferred by the aid as a result of the exploitation of the advantage.</prem> <prem ID="D24" T="F" SUP="D22|D23">There is therefore no need to examine whether and to what extent those airlines actually utilised the economic advantage arising from the application of the lower rate.</prem>
 
 101
 
@@ -688,12 +688,12 @@ Findings of the Court
 102
 
 
-<prem ID="D26" T="F">Indeed, contrary to the view expressed by the General Court in paragraph 105 of the Aer Lingus judgment and paragraph 136 of the Ryanair judgment, the advantage, as identified by the Commission in the decision at issue, did not consist in the fact that the airlines subject to the lower rate were able to ‘offer more competitive prices’.</prem> <prem ID="D27" T="F">It consisted, quite simply, in the fact that those companies had to pay a lower rate of ATT than they would have had to pay if their flights had been subject to the higher rate of ATT.</prem><prem ID="D28" T="F"> The question whether that advantage enabled them to offer more competitive ticket prices, or whether they exploited that advantage differently, relates to the assessment of any benefit they were able to accrue from the exploitation of the advantage granted;</prem> <prem ID="D28bis" T="F">that assessment is irrelevant to the recovery of the aid.</prem>
+<prem ID="D26" T="F">Indeed, contrary to the view expressed by the General Court in paragraph 105 of the Aer Lingus judgment and paragraph 136 of the Ryanair judgment, the advantage, as identified by the Commission in the decision at issue, did not consist in the fact that the airlines subject to the lower rate were able to ‘offer more competitive prices’.</prem> <prem ID="D27" T="F">It consisted, quite simply, in the fact that those companies had to pay a lower rate of ATT than they would have had to pay if their flights had been subject to the higher rate of ATT.</prem><prem ID="D28" T="F" SUP="D25|D26|D27"> The question whether that advantage enabled them to offer more competitive ticket prices, or whether they exploited that advantage differently, relates to the assessment of any benefit they were able to accrue from the exploitation of the advantage granted;</prem> <prem ID="D28bis" T="F">that assessment is irrelevant to the recovery of the aid.</prem>
 
 103
 
 
-<prem ID="D29" T="F">The General Court was also incorrect in stating, in paragraph 110 of the Aer Lingus judgment and paragraph 141 of the Ryanair judgment, respectively, that the circumstances of the cases before it were different from those of the case giving rise to the judgment of 15 December 2005, Unicredito Italiano (C‑148/04, EU:C:2005:774) as the airlines benefiting from the lower rate of ATT ‘could not have opted for an operation other than that which was coupled with the aid’.</prem>
+<prem ID="D29" T="F" SUP="D30|D31">The General Court was also incorrect in stating, in paragraph 110 of the Aer Lingus judgment and paragraph 141 of the Ryanair judgment, respectively, that the circumstances of the cases before it were different from those of the case giving rise to the judgment of 15 December 2005, Unicredito Italiano (C‑148/04, EU:C:2005:774) as the airlines benefiting from the lower rate of ATT ‘could not have opted for an operation other than that which was coupled with the aid’.</prem>
 
 104
 
@@ -703,17 +703,17 @@ Findings of the Court
 105
 
 
-<prem ID="D32" T="F">The considerations set out above are not called into question by Ryanair’s argument based on Article 13 of Directive 2014/104.</prem> <prem ID="D33" T="L" S="Rule|Prec">As is apparent from the Court’s case-law cited in paragraphs 89 and 90 above, the recovery of unlawful aid had a different purpose from that of Directive 2014/104.</prem> <prem ID="D34" T="L" S="Rule">In particular, that directive, as is made clear in recitals 3 and 4 thereof, seeks to ensure that any person who considers that he has been adversely affected by an infringement of the competition rules laid down in Articles 101 and 102 TFEU may effectively exercise his right to claim compensation for the harm which he believes he has suffered.</prem> <prem ID="D35" T="L" S="Itpr">On the other hand, the purpose of aid recovery is not to seek compensation for individual harm of any kind, but to re-establish, on the market in question, the situation as it was before the aid was granted.</prem>
+<prem ID="D32" T="F" SUP="D33|D34|D35">The considerations set out above are not called into question by Ryanair’s argument based on Article 13 of Directive 2014/104.</prem> <prem ID="D33" T="L" SUP="D7|D8|D9" S="Rule|Prec">As is apparent from the Court’s case-law cited in paragraphs 89 and 90 above, the recovery of unlawful aid had a different purpose from that of Directive 2014/104.</prem> <prem ID="D34" T="L" S="Rule">In particular, that directive, as is made clear in recitals 3 and 4 thereof, seeks to ensure that any person who considers that he has been adversely affected by an infringement of the competition rules laid down in Articles 101 and 102 TFEU may effectively exercise his right to claim compensation for the harm which he believes he has suffered.</prem> <prem ID="D35" T="L" S="Itpr">On the other hand, the purpose of aid recovery is not to seek compensation for individual harm of any kind, but to re-establish, on the market in question, the situation as it was before the aid was granted.</prem>
 
 106
 
 
-<prem ID="D36" T="F">It is apparent from all the foregoing considerations that, by finding, in paragraph 123 of the Aer Lingus judgment and paragraph 119 of the Ryanair judgment, respectively, that the Commission had committed ‘an error of assessment and an error of law’, by setting the amount of aid to be recovered from the beneficiaries of the lower rate of ATT at EUR 8 per passenger in respect of the flights to which that rate applied, the General Court’s decision was vitiated by an error of law.</prem>
+<prem ID="D36" T="F" SUP="D16|D17|D18|D29|D32">It is apparent from all the foregoing considerations that, by finding, in paragraph 123 of the Aer Lingus judgment and paragraph 119 of the Ryanair judgment, respectively, that the Commission had committed ‘an error of assessment and an error of law’, by setting the amount of aid to be recovered from the beneficiaries of the lower rate of ATT at EUR 8 per passenger in respect of the flights to which that rate applied, the General Court’s decision was vitiated by an error of law.</prem>
 
 107
 
 
-<conc ID="D37">As a consequence, the Commission’s appeals must be upheld and paragraph 1 of the operative part of the Aer Lingus judgment and of the Ryanair judgment must be set aside.</conc>
+<conc ID="D37" SUP="D36">As a consequence, the Commission’s appeals must be upheld and paragraph 1 of the operative part of the Aer Lingus judgment and of the Ryanair judgment must be set aside.</conc>
 
 The action before the General Court
 

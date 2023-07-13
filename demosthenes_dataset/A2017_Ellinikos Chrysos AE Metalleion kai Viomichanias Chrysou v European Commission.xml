@@ -218,7 +218,7 @@ Findings of the Court
 29
 
 
-<prem ID="A4" T="F">Similarly, the appellant’s argument based on the absence of infrastructure and mining permits as regards the Skouries mine cannot be accepted.</prem> <prem ID="A4bis" T="F">Such a state of affairs is not inconsistent with the recognition of a positive value for that mine, having regard, not only, to the definition, adopted by the Commission, of a mine in a ‘near-production’ stage, but also to the evaluation method used, as described in paragraph 100 of the judgment under appeal, which is not disputed by Ellinikos Chrysos.</prem>
+<prem ID="A4" T="F" ATT="A4bis">Similarly, the appellant’s argument based on the absence of infrastructure and mining permits as regards the Skouries mine cannot be accepted.</prem> <prem ID="A4bis" T="F">Such a state of affairs is not inconsistent with the recognition of a positive value for that mine, having regard, not only, to the definition, adopted by the Commission, of a mine in a ‘near-production’ stage, but also to the evaluation method used, as described in paragraph 100 of the judgment under appeal, which is not disputed by Ellinikos Chrysos.</prem>
 
 30
 
@@ -243,7 +243,7 @@ Findings of the Court
 34
 
 
-<prem ID="A10" T="F">In those circumstances, the General Court infringed its obligation to state reasons by holding, in paragraph 99 of the judgment under appeal, that Ellinikos Chrysos’ arguments that the Commission’s use of the expert report had to be rejected, without responding to the argument based on the purpose for which that report had been drawn up.</prem>
+<prem ID="A10" T="F" SUP="A5|A6|A7|A8|A9">In those circumstances, the General Court infringed its obligation to state reasons by holding, in paragraph 99 of the judgment under appeal, that Ellinikos Chrysos’ arguments that the Commission’s use of the expert report had to be rejected, without responding to the argument based on the purpose for which that report had been drawn up.</prem>
 
 35
 
@@ -253,7 +253,7 @@ Findings of the Court
 36
 
 
-<prem ID="A13" T="F">As regards the third part of the first ground of appeal, the General Court stated, in paragraph 103 of the judgment under appeal, that the expert report had taken account of the various costs necessary for the Skouries mine to commence production.</prem> <prem ID="A14" T="F">Therefore, that third part, by which the appellant submits that the assessment of the value of the Skouries mine did not reflect such costs, results from a misreading of the judgment under appeal.</prem>
+<prem ID="A13" T="F">As regards the third part of the first ground of appeal, the General Court stated, in paragraph 103 of the judgment under appeal, that the expert report had taken account of the various costs necessary for the Skouries mine to commence production.</prem> <prem ID="A14" T="F" SUP="A13">Therefore, that third part, by which the appellant submits that the assessment of the value of the Skouries mine did not reflect such costs, results from a misreading of the judgment under appeal.</prem>
 
 37
 
@@ -263,7 +263,7 @@ Findings of the Court
 38
 
 
-<conc ID="A16"> Consequently, the second part of the first ground of appeal must be upheld, in so far as the appellant complains that the General Court did not respond to the argument based on the purpose for which the expert report had been drawn up.</conc> <conc ID="A17">That ground of appeal must be rejected as to the remainder.</conc> 
+<conc ID="A16" SUP="A2|A10|A11|A12|A14|A15"> Consequently, the second part of the first ground of appeal must be upheld, in so far as the appellant complains that the General Court did not respond to the argument based on the purpose for which the expert report had been drawn up.</conc> <conc ID="A17" SUP="A3|A3bis|A4bis">That ground of appeal must be rejected as to the remainder.</conc> 
 
 The second ground of appeal
 
@@ -289,7 +289,7 @@ Findings of the Court
 42
 
 
-<prem ID="B1" T="F">As regards the first part of the second ground of appeal, the General Court confirmed, in paragraph 126 of the judgment under appeal, the Commission’s approach which took account of the intrinsic value of the land attached to the Cassandra mines.</prem> <prem ID="B2" T="F">That said, the appellant does not indicate to what extent such an approach is vitiated by a manifest error of assessment on the ground that account was not taken of the fact that the mines at issue were not in operation and that that land could not have another intended use than that found.</prem> <prem ID="B3" T="F">In fact, assuming that such a fact is capable of influencing the intrinsic value of the land at issue, the General Court pointed out, in paragraph 126, that the location and the specific nature of that land had been taken into account in the Commission’s assessment.</prem> <prem ID="B4" T="F">Accordingly, the General Court cannot be reproached for having infringed its obligation to state reasons in any way.</prem>
+<prem ID="B1" T="F" INH="B2|B3">As regards the first part of the second ground of appeal, the General Court confirmed, in paragraph 126 of the judgment under appeal, the Commission’s approach which took account of the intrinsic value of the land attached to the Cassandra mines.</prem> <prem ID="B2" T="F">That said, the appellant does not indicate to what extent such an approach is vitiated by a manifest error of assessment on the ground that account was not taken of the fact that the mines at issue were not in operation and that that land could not have another intended use than that found.</prem> <prem ID="B3" T="F">In fact, assuming that such a fact is capable of influencing the intrinsic value of the land at issue, the General Court pointed out, in paragraph 126, that the location and the specific nature of that land had been taken into account in the Commission’s assessment.</prem> <prem ID="B4" T="F" SUP="B1|B3" SFF="B2">Accordingly, the General Court cannot be reproached for having infringed its obligation to state reasons in any way.</prem>
 
 43
 
@@ -299,7 +299,7 @@ Findings of the Court
 44
 
 
-<prem ID="B6" T="F">Moreover, and as was stated in paragraph 42 of the present judgment, the Commission concerned itself with determining the intrinsic value of the land at issue.</prem> <prem ID="B7" T="F">Therefore, and in so far as the Commission took into account, in the estimation of the value of all of the assets transferred, all of the costs required to operate the Cassandra mines and the specific nature of that land, the fact that the mines at issue were not in operation at the time of their transfer cannot, in itself, influence the intrinsic value of the land at issue.</prem>
+<prem ID="B6" T="F">Moreover, and as was stated in paragraph 42 of the present judgment, the Commission concerned itself with determining the intrinsic value of the land at issue.</prem> <prem ID="B7" T="F" SUP="B6">Therefore, and in so far as the Commission took into account, in the estimation of the value of all of the assets transferred, all of the costs required to operate the Cassandra mines and the specific nature of that land, the fact that the mines at issue were not in operation at the time of their transfer cannot, in itself, influence the intrinsic value of the land at issue.</prem>
 
 45
 
@@ -309,12 +309,12 @@ Findings of the Court
 46
 
 
-<prem ID="B10" T="F">Since Ellinikos Chrysos does not claim any distortion of those facts and evidence, its arguments in support of its second ground of appeal cannot succeed.</prem> 
+<prem ID="B10" T="F" SUP="B5|B7|B8|B9">Since Ellinikos Chrysos does not claim any distortion of those facts and evidence, its arguments in support of its second ground of appeal cannot succeed.</prem> 
 
 47
 
 
-<conc ID="B11"> Consequently, that ground of appeal must be rejected.</conc>
+<conc ID="B11" SUP="B4|B10"> Consequently, that ground of appeal must be rejected.</conc>
 
 The third ground of appeal
 
@@ -335,7 +335,7 @@ Findings of the Court
 50
 
 
-<prem ID="C1" T="F">The third ground of appeal is based on the premise that the General Court erred in law as regards the appraisal of the Commission’s assessment of the value of the land relating to the Cassandra mining operations.</prem> <prem ID="C2" T="F">As is apparent from paragraph 46 of the present judgment, Ellinikos Chrysos has not succeeded in demonstrating that that was the case.</prem> <conc ID="C3">The third ground of appeal must therefore be rejected.</conc>
+<prem ID="C1" T="F" INH="C2">The third ground of appeal is based on the premise that the General Court erred in law as regards the appraisal of the Commission’s assessment of the value of the land relating to the Cassandra mining operations.</prem> <prem ID="C2" T="F">As is apparent from paragraph 46 of the present judgment, Ellinikos Chrysos has not succeeded in demonstrating that that was the case.</prem> <conc ID="C3" SFF="C2">The third ground of appeal must therefore be rejected.</conc>
 
 51
 

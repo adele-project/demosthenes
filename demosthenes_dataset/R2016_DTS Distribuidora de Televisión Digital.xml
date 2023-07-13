@@ -192,17 +192,17 @@ Findings of the Court
 24
 
 
-<prem ID="A1" T="L" S="Itpr">First of all, it should be noted that the Practice directions to parties are indicative and have no binding force.</prem> <prem ID="A2" T="L" S="Rule|Prec">As is apparent from recitals 1 to 3 of those directions, they were adopted in order to supplement and clarify the rules applicable to the conduct of proceedings before the Court, in the interest of the proper administration of justice, and are not intended to replace the relevant provisions of the Statute of the Court of Justice of the European Union and the Rules of Procedure of the Court (see, to that effect, order of the President of the Court of 30 April 2010, Ziegler v Commission, C‑113/09 P(R), not published, EU:C:2010:242, paragraph 33).</prem>
+<prem ID="A1" T="L" S="Itpr" SUP="A2">First of all, it should be noted that the Practice directions to parties are indicative and have no binding force.</prem> <prem ID="A2" T="L" S="Rule|Prec">As is apparent from recitals 1 to 3 of those directions, they were adopted in order to supplement and clarify the rules applicable to the conduct of proceedings before the Court, in the interest of the proper administration of justice, and are not intended to replace the relevant provisions of the Statute of the Court of Justice of the European Union and the Rules of Procedure of the Court (see, to that effect, order of the President of the Court of 30 April 2010, Ziegler v Commission, C‑113/09 P(R), not published, EU:C:2010:242, paragraph 33).</prem>
 
 25
 
 
-<prem ID="A3" T="L" S="Itpr">It is therefore clearly apparent from the wording of paragraph 20 of those practice directions, which state that ‘the appeal …, unless there are special circumstances, should not exceed 25 pages’, that that recital does not set out an absolute limitation on the number of pages to which the admissibility of such an appeal is subject, but that it merely provides a recommendation in that regard to the parties.</prem>
+<prem ID="A3" T="L" SUP="A1" S="Itpr">It is therefore clearly apparent from the wording of paragraph 20 of those practice directions, which state that ‘the appeal …, unless there are special circumstances, should not exceed 25 pages’, that that recital does not set out an absolute limitation on the number of pages to which the admissibility of such an appeal is subject, but that it merely provides a recommendation in that regard to the parties.</prem>
 
 26
 
 
-<prem ID="A4" T="F">It follows that the appeal may not be rejected as inadmissible on the ground that it exceeds a certain number of pages.</prem>
+<prem ID="A4" T="F" SUP="A3">It follows that the appeal may not be rejected as inadmissible on the ground that it exceeds a certain number of pages.</prem>
 
 27
 
@@ -212,12 +212,12 @@ Findings of the Court
 28
 
 
-<prem ID="A6" T="L" S="Itpr"> Moreover, it follows from those same provisions that an appeal is inadmissible in so far as it merely repeats the pleas in law and arguments previously submitted to the General Court, including those based on facts expressly rejected by it. </prem> <prem ID="A7" T="L" S="Prec|Itpr"> Such an appeal amounts in reality to no more than a request for re-examination of the application submitted to the General Court, which the Court of Justice does not have jurisdiction to undertake on appeal (see judgment of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 26 and the case-law cited).</prem>
+<prem ID="A6" T="L" SUP="A7" S="Itpr"> Moreover, it follows from those same provisions that an appeal is inadmissible in so far as it merely repeats the pleas in law and arguments previously submitted to the General Court, including those based on facts expressly rejected by it. </prem> <prem ID="A7" T="L" S="Prec|Itpr"> Such an appeal amounts in reality to no more than a request for re-examination of the application submitted to the General Court, which the Court of Justice does not have jurisdiction to undertake on appeal (see judgment of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 26 and the case-law cited).</prem>
 
 29
 
 
-<prem ID="A8" T="L" S="Itpr">By contrast, provided that the appellant challenges the interpretation or application of EU law by the General Court, the points of law examined at first instance may be discussed again in the course of an appeal.</prem> <prem ID="A9" T="L" S="Itpr|Prec">Indeed, if an appellant could not thus base his appeal on pleas in law and arguments already relied on before the General Court, an appeal would be deprived of part of its purpose (see judgment of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 27 and the case-law cited).</prem>
+<prem ID="A8" T="L" SUP="A9" S="Itpr">By contrast, provided that the appellant challenges the interpretation or application of EU law by the General Court, the points of law examined at first instance may be discussed again in the course of an appeal.</prem> <prem ID="A9" T="L" S="Itpr|Prec">Indeed, if an appellant could not thus base his appeal on pleas in law and arguments already relied on before the General Court, an appeal would be deprived of part of its purpose (see judgment of 30 May 2013, Quinn Barlo and Others v Commission, C‑70/12 P, not published, EU:C:2013:351, paragraph 27 and the case-law cited).</prem>
 
 30
 
@@ -227,12 +227,12 @@ Findings of the Court
 31
 
 
-<prem ID="A11" T="F">Moreover, contrary to what RTVE and the Kingdom of Spain submit, DTS does not merely repeat, in its appeal, the arguments made at first instance.</prem> <prem ID="A12" T="F">It disputes, in fact, for the most part, the manner in which the General Court interpreted and applied EU law, in particular Article 107(1) TFEU, in holding, in the judgment under appeal, that the tax on pay-television operators for which it is liable is not an integral part of the aid granted to RTVE and, for the remainder, it accuses the General Court of having distorted the law and, accordingly, vitiated that judgment.</prem>
+<prem ID="A11" T="F" SUP="A12">Moreover, contrary to what RTVE and the Kingdom of Spain submit, DTS does not merely repeat, in its appeal, the arguments made at first instance.</prem> <prem ID="A12" T="F">It disputes, in fact, for the most part, the manner in which the General Court interpreted and applied EU law, in particular Article 107(1) TFEU, in holding, in the judgment under appeal, that the tax on pay-television operators for which it is liable is not an integral part of the aid granted to RTVE and, for the remainder, it accuses the General Court of having distorted the law and, accordingly, vitiated that judgment.</prem>
 
 32
 
 
-<conc ID="A13"> Accordingly, the appeal must be held to be admissible. </conc>
+<conc ID="A13" SUP="A4|A5|A6|A8|A10|A11"> Accordingly, the appeal must be held to be admissible. </conc>
 
 33
 
@@ -293,12 +293,12 @@ Findings of the Court
 43
 
 
-<prem ID="B1" T="L" S="Rule|Prec"> It should be noted that the Court of Justice has consistently held that where the General Court has established or assessed the facts, the Court of Justice has jurisdiction, under Article 256 TFEU, solely to review the legal characterisation of those facts and the conclusions in law drawn from them.</prem> <prem ID="B2" T="L" S="Prec"> The appraisal of the facts by the General Court does not therefore constitute, save where the clear sense of the evidence produced before it is distorted, a question of law which is subject, as such, to review by the Court of Justice (see, inter alia, judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 78). </prem>
+<prem ID="B1" T="L" S="Rule|Prec"> It should be noted that the Court of Justice has consistently held that where the General Court has established or assessed the facts, the Court of Justice has jurisdiction, under Article 256 TFEU, solely to review the legal characterisation of those facts and the conclusions in law drawn from them.</prem> <prem ID="B2" T="L" SUP="B1" S="Prec"> The appraisal of the facts by the General Court does not therefore constitute, save where the clear sense of the evidence produced before it is distorted, a question of law which is subject, as such, to review by the Court of Justice (see, inter alia, judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 78). </prem>
 
 44
 
 
-<prem ID="B3" T="L" S="Prec">Thus, with respect to the assessment, in the context of an appeal, of the General Court’s determinations on national law, the Court of Justice has jurisdiction only to determine whether that law was distorted (see judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 79 and the case-law cited).</prem>
+<prem ID="B3" T="L" SUP="B2" S="Prec">Thus, with respect to the assessment, in the context of an appeal, of the General Court’s determinations on national law, the Court of Justice has jurisdiction only to determine whether that law was distorted (see judgment of 3 April 2014, France v Commission, C‑559/12 P, EU:C:2014:217, paragraph 79 and the case-law cited).</prem>
 
 45
 
@@ -308,7 +308,7 @@ Findings of the Court
 46
 
 
-<prem ID="B5" T="F">In the present case, it should be recalled that in paragraphs 65 to 86 of the judgment under appeal, the General Court concluded, in the light of the terms of Law No 8/2009, that, as noted by the Commission, in its view, correctly, the amount of the aid to be given to RTVE does not depend on the amount of the tax levy imposed on DTS, since the amount of the aid is fixed by reference to the net costs of fulfilling RTVE’s public service mandate.</prem>
+<prem ID="B5" T="F" SUP="B6|B7|B8|B9">In the present case, it should be recalled that in paragraphs 65 to 86 of the judgment under appeal, the General Court concluded, in the light of the terms of Law No 8/2009, that, as noted by the Commission, in its view, correctly, the amount of the aid to be given to RTVE does not depend on the amount of the tax levy imposed on DTS, since the amount of the aid is fixed by reference to the net costs of fulfilling RTVE’s public service mandate.</prem>
 
 47
 
@@ -323,12 +323,12 @@ Findings of the Court
 49
 
 
-<prem ID="B10" T="F">In the present case, it is clear that, under the cloak of criticising the General Court for having erred in law when conducting a judicial review of the contested decision and distorted the national law provisions, while having failed to take others into consideration, DTS and the Telefónica companies are actually merely criticising the General Court’s interpretation of national law in paragraphs 65 to 86 of the judgment under appeal.</prem> <prem ID="B11" T="F">Their purpose is thus to substitute an alternative interpretation thereto and, accordingly, to obtain, by relying, in particular, on national provisions whose merits were not considered at first instance, a new assessment of the facts and evidence.</prem> <prem ID="B12" T="F">They are not seeking to show that the General Court made findings manifestly conflicting with that national legislation or that, in relation to the items in the file, it should have given that legislation a scope which it clearly does not have.</prem>
+<prem ID="B10" T="F">In the present case, it is clear that, under the cloak of criticising the General Court for having erred in law when conducting a judicial review of the contested decision and distorted the national law provisions, while having failed to take others into consideration, DTS and the Telefónica companies are actually merely criticising the General Court’s interpretation of national law in paragraphs 65 to 86 of the judgment under appeal.</prem> <prem ID="B11" T="F" SUP="B10|B12">Their purpose is thus to substitute an alternative interpretation thereto and, accordingly, to obtain, by relying, in particular, on national provisions whose merits were not considered at first instance, a new assessment of the facts and evidence.</prem> <prem ID="B12" T="F">They are not seeking to show that the General Court made findings manifestly conflicting with that national legislation or that, in relation to the items in the file, it should have given that legislation a scope which it clearly does not have.</prem>
 
 50
 
 
-<conc ID="B13"> In those circumstances, the second ground of appeal must be rejected as being inadmissible.</conc>
+<conc ID="B13" SUP="B3|B4|B5|B11"> In those circumstances, the second ground of appeal must be rejected as being inadmissible.</conc>
 
 
 
@@ -362,7 +362,7 @@ RTVE and the Commission contend that this part of the ground of appeal is ineffe
 55
 
 
-<conc ID="C3"> Consequently, the first part of the first ground of appeal must be rejected as being ineffective. </conc>
+<conc ID="C3" SUP="C1|C2"> Consequently, the first part of the first ground of appeal must be rejected as being ineffective. </conc>
 
  The second part, alleging that the tax on pay-television operators is an asymmetrical tax constituting an aid within the meaning of the Laboratoires Boiron judgment
 
@@ -417,7 +417,7 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 65
 
 
-<prem ID="D1" T="L" S="Prec|Itpr|Rule"> It is settled case-law of the Court that taxes do not fall within the scope of the provisions of the Treaty relating to State aid unless they constitute the method of financing an aid measure, so that they form an integral part of that measure (judgments of 13 January 2005, Streekgewest, C‑174/02, EU:C:2005:10, paragraph 25; of 13 January 2005 in Pape, C‑175/02, EU:C:2005:11, paragraph 14; and of 27 October 2005, Distribution Casino France and Others, C‑266/04 to C‑270/04, C‑276/04 and C‑321/04 to C‑325/04, EU:C:2005:657, paragraph 34).</prem>
+<prem ID="D1" T="L" SUP="D5" REPH="D29" S="Prec|Itpr|Rule"> It is settled case-law of the Court that taxes do not fall within the scope of the provisions of the Treaty relating to State aid unless they constitute the method of financing an aid measure, so that they form an integral part of that measure (judgments of 13 January 2005, Streekgewest, C‑174/02, EU:C:2005:10, paragraph 25; of 13 January 2005 in Pape, C‑175/02, EU:C:2005:11, paragraph 14; and of 27 October 2005, Distribution Casino France and Others, C‑266/04 to C‑270/04, C‑276/04 and C‑321/04 to C‑325/04, EU:C:2005:657, paragraph 34).</prem>
 
 66
 
@@ -427,17 +427,17 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 67
 
 
-<prem ID="D4" T="L" S="Prec">The method by which aid is financed may render the entire aid scheme it is intended to fund incompatible with the internal market.</prem> <prem ID="D5" T="L" S="Prec|Itpr">As a result, the aid cannot be considered separately from its method of financing (see, to that effect, judgment of 14 April 2005, AEM and AEM Torino, C‑128/03 and C‑129/03, EU:C:2005:224, paragraph 45).</prem>
+<prem ID="D4" T="L" SUP="D2|D3" S="Prec">The method by which aid is financed may render the entire aid scheme it is intended to fund incompatible with the internal market.</prem> <prem ID="D5" T="L" SUP="D4" S="Prec|Itpr">As a result, the aid cannot be considered separately from its method of financing (see, to that effect, judgment of 14 April 2005, AEM and AEM Torino, C‑128/03 and C‑129/03, EU:C:2005:224, paragraph 45).</prem>
 
 68
 
 
-<prem ID="D6" T="L" S="Prec">According to settled case-law, in order for a tax to be regarded as forming an integral part of an aid measure, it must be hypothecated to the aid under the relevant national rules, in the sense that the revenue from the tax is necessarily allocated to the financing of the aid and has a direct impact on the amount of the aid and, consequently, on the assessment of the compatibility of that aid with the internal market (see, inter alia, judgments of 15 June 2006, Air Liquide Industries Belgium, C‑393/04 and C‑41/05, EU:C:2006:403, paragraph 46 and the case-law cited, and of 22 December 2008, Régie Networks, C‑333/07, EU:C:2008:764, paragraph 99).</prem>
+<prem ID="D6" T="L" SUP="D1|D29" S="Prec">According to settled case-law, in order for a tax to be regarded as forming an integral part of an aid measure, it must be hypothecated to the aid under the relevant national rules, in the sense that the revenue from the tax is necessarily allocated to the financing of the aid and has a direct impact on the amount of the aid and, consequently, on the assessment of the compatibility of that aid with the internal market (see, inter alia, judgments of 15 June 2006, Air Liquide Industries Belgium, C‑393/04 and C‑41/05, EU:C:2006:403, paragraph 46 and the case-law cited, and of 22 December 2008, Régie Networks, C‑333/07, EU:C:2008:764, paragraph 99).</prem>
 
 69
 
 
-<prem ID="D7" T="F">In the present case, the General Court found, in paragraphs 65 to 86 of the judgment under appeal, criticised in vain in the second ground of appeal, that it is clear from the applicable national law provisions that the amount of aid allocated to RTVE does not directly depend on the revenue from the fiscal measures at issue, since the amount thereof is determined on the basis of the net costs relating to the fulfilment of the public service mandate entrusted to RTVE.</prem>
+<prem ID="D7" T="F" SUP="D8|D9" REPH="D21">In the present case, the General Court found, in paragraphs 65 to 86 of the judgment under appeal, criticised in vain in the second ground of appeal, that it is clear from the applicable national law provisions that the amount of aid allocated to RTVE does not directly depend on the revenue from the fiscal measures at issue, since the amount thereof is determined on the basis of the net costs relating to the fulfilment of the public service mandate entrusted to RTVE.</prem>
 
 70
 
@@ -447,7 +447,7 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 71
 
 
-<prem ID="D10" T="F">In those circumstances, although it is common ground that the financing of the aid granted to RTVE is ensured by the fiscal measures at issue, the General Court, contrary to what DTS and the Telefónica companies submit, was nevertheless entitled to conclude, without committing an error of law, in paragraph 104 of the judgment under appeal, that those fiscal measures do not form part of the aid.</prem>
+<prem ID="D10" T="F" REPH="D31" SUP="D6|D7|D11|D12" SFF="D13|D24">In those circumstances, although it is common ground that the financing of the aid granted to RTVE is ensured by the fiscal measures at issue, the General Court, contrary to what DTS and the Telefónica companies submit, was nevertheless entitled to conclude, without committing an error of law, in paragraph 104 of the judgment under appeal, that those fiscal measures do not form part of the aid.</prem>
 
 72
 
@@ -462,17 +462,17 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 74
 
 
-<prem ID="D13" T="F">DTS’s line of argument, based on the Laboratoires Boiron judgment, is not such as to call into question those findings.</prem>
+<prem ID="D13" T="F" SUP="D7|D18|D19|D21">DTS’s line of argument, based on the Laboratoires Boiron judgment, is not such as to call into question those findings.</prem>
 
 75
 
 
-<prem ID="D14" T="L" S="Prec">In that regard, it should be recalled that, in that judgment, the Court held, in essence, that, in the case of asymmetrical tax liability, that is where only one of two categories of competing traders is liable to pay a tax, traders liable to pay the tax may plead the illegality of it.</prem> <prem ID="D15" T="L" S="Itpr">In such a case, the aid derives from the fact that another category of economic operators with which the category liable to pay the tax is in direct competition is not liable for that charge.</prem> <prem ID="D16" T="L" S="Itpr">The aid measure is therefore the tax itself, that tax and the aid constituting two elements of one and the same fiscal measure which are inseparable.</prem> <prem ID="D17" T="L" S="Prec|Itpr">That situation is thus not comparable to that of any exemption from a tax of general application from which that tax may be distinguished (see, to that effect, Laboratoires Boiron judgment, paragraphs 30 to 48).</prem>
+<prem ID="D14" T="L" S="Prec">In that regard, it should be recalled that, in that judgment, the Court held, in essence, that, in the case of asymmetrical tax liability, that is where only one of two categories of competing traders is liable to pay a tax, traders liable to pay the tax may plead the illegality of it.</prem> <prem ID="D15" T="L" S="Itpr">In such a case, the aid derives from the fact that another category of economic operators with which the category liable to pay the tax is in direct competition is not liable for that charge.</prem> <prem ID="D16" T="L" SUP="D15" INH="D19" S="Itpr">The aid measure is therefore the tax itself, that tax and the aid constituting two elements of one and the same fiscal measure which are inseparable.</prem> <prem ID="D17" T="L" SUP="D14|D16" S="Prec|Itpr">That situation is thus not comparable to that of any exemption from a tax of general application from which that tax may be distinguished (see, to that effect, Laboratoires Boiron judgment, paragraphs 30 to 48).</prem>
 
 76
 
 
-<prem ID="D18" T="F">The General Court did not err in law in finding, in paragraphs 98 to 103 of the judgment under appeal, that the tax on pay-television operators for which DTS is liable is not comparable to the asymmetrical tax at issue in the case which gave rise to the Laboratoires Boiron judgment.</prem>
+<prem ID="D18" T="F" SUP="D17">The General Court did not err in law in finding, in paragraphs 98 to 103 of the judgment under appeal, that the tax on pay-television operators for which DTS is liable is not comparable to the asymmetrical tax at issue in the case which gave rise to the Laboratoires Boiron judgment.</prem>
 
 77
 
@@ -482,17 +482,17 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 78
 
 
-<prem ID="D20" T="F">In addition, and as also correctly noted by the General Court in paragraph 102 of the judgment under appeal, in the case giving rise to the Laboratoires Boiron judgment, the amount of the aid was determined only by the amount of the tax, since the benefit which the beneficiaries derived from the liability of their competitors to that tax necessarily depended on the amount of that tax.</prem> <prem ID="D21" T="F">However, in the present case, the amount of the aid is determined, as is apparent from paragraphs 69 to 71 of the present judgment, by the net costs of fulfilling the public service mandate.</prem>
+<prem ID="D20" T="F" INH="D7|D21">In addition, and as also correctly noted by the General Court in paragraph 102 of the judgment under appeal, in the case giving rise to the Laboratoires Boiron judgment, the amount of the aid was determined only by the amount of the tax, since the benefit which the beneficiaries derived from the liability of their competitors to that tax necessarily depended on the amount of that tax.</prem> <prem ID="D21" T="F" REPH="D7">However, in the present case, the amount of the aid is determined, as is apparent from paragraphs 69 to 71 of the present judgment, by the net costs of fulfilling the public service mandate.</prem>
 
 79
 
 
-<prem ID="D22" T="F">Admittedly, as correctly noted by DTS, in the present case, the tax on pay-television operators is also intended to finance an aid scheme in favour of RTVE which the Commission found to be constitutive of State aid, within the meaning of Article 107(1) TFEU.</prem> <prem ID="D23" T="F">The obligation to pay that tax thus causes DTS an additional competitive disadvantage on the markets on which it operates in competition with RTVE, since the latter is not liable to pay such a tax.</prem>
+<prem ID="D22" T="F">Admittedly, as correctly noted by DTS, in the present case, the tax on pay-television operators is also intended to finance an aid scheme in favour of RTVE which the Commission found to be constitutive of State aid, within the meaning of Article 107(1) TFEU.</prem> <prem ID="D23" T="F" SUP="D22" INH="D28">The obligation to pay that tax thus causes DTS an additional competitive disadvantage on the markets on which it operates in competition with RTVE, since the latter is not liable to pay such a tax.</prem>
 
 80
 
 
-<prem ID="D24" T="F">However, as the General Court correctly pointed out, in paragraphs 84 and 102 of the judgment under appeal, that fact alone is not sufficient to demonstrate that such a tax is an integral part of the aid.</prem>
+<prem ID="D24" T="F" SUP="D25|D30">However, as the General Court correctly pointed out, in paragraphs 84 and 102 of the judgment under appeal, that fact alone is not sufficient to demonstrate that such a tax is an integral part of the aid.</prem>
 
 81
 
@@ -502,22 +502,22 @@ RTVE, the Kingdom of Spain and the Commission submit that the second part of the
 82
 
 
-<prem ID="D26" T="L" S="Itpr">Thus, according to the case-law of the Court, a tax cannot be hypothecated to an exemption from payment of that same tax for a category of undertakings, and thus even where those undertakings operate in competition with undertakings liable to pay the tax in question.</prem> <prem ID="D27" T="L" S="Itpr">The application of a tax exemption and its extent do not depend on the tax revenue.</prem> <prem ID="D28" T="L" S="Prec|Itpr">Thus, those liable to pay a charge cannot rely on the argument that the exemption enjoyed by other undertakings constitutes State aid in order to avoid payment of that charge or to obtain reimbursement thereof (see, to that effect, inter alia, judgment of 27 October 2005, Distribution Casino France and Others, C‑266/04 to C‑270/04, C‑276/04 and C‑321/04 to C‑325/04, EU:C:2005:657, paragraphs 41 and 42).</prem>
+<prem ID="D26" T="L" SUP="D25" S="Itpr">Thus, according to the case-law of the Court, a tax cannot be hypothecated to an exemption from payment of that same tax for a category of undertakings, and thus even where those undertakings operate in competition with undertakings liable to pay the tax in question.</prem> <prem ID="D27" T="L" SUP="D26" S="Itpr">The application of a tax exemption and its extent do not depend on the tax revenue.</prem> <prem ID="D28" T="L" SUP="D27" S="Prec|Itpr">Thus, those liable to pay a charge cannot rely on the argument that the exemption enjoyed by other undertakings constitutes State aid in order to avoid payment of that charge or to obtain reimbursement thereof (see, to that effect, inter alia, judgment of 27 October 2005, Distribution Casino France and Others, C‑266/04 to C‑270/04, C‑276/04 and C‑321/04 to C‑325/04, EU:C:2005:657, paragraphs 41 and 42).</prem>
 
 83
 
 
-<prem ID="D29" T="L" S="Itpr">On the other hand, as has already been stated in paragraph 65 of the present judgment, taxes are not, in principle, subject to the rules on State aid.</prem> <prem ID="D30" T="L" S="Itpr|Aut|Rule"> As noted by the Advocate General in point 96 of his Opinion, DTS’s argument, if followed, would lead to the conclusion that any tax levied at sectoral level and imposed on undertakings in competition with the beneficiary of the aid financed by the tax must be examined under Articles 107 and 108 TFEU.</prem>
+<prem ID="D29" T="L" REPH="D1" S="Itpr">On the other hand, as has already been stated in paragraph 65 of the present judgment, taxes are not, in principle, subject to the rules on State aid.</prem> <prem ID="D30" T="L" SUP="D29" S="Itpr|Aut|Rule"> As noted by the Advocate General in point 96 of his Opinion, DTS’s argument, if followed, would lead to the conclusion that any tax levied at sectoral level and imposed on undertakings in competition with the beneficiary of the aid financed by the tax must be examined under Articles 107 and 108 TFEU.</prem>
 
 84
 
 
-<prem ID="D31" T="F">It follows from the foregoing that the General Court did not err in law in holding that the tax on pay-television operators is not part of the aid scheme benefiting RTVE.</prem>
+<prem ID="D31" T="F" REPH="D10" SUP="D6|D7|D11|D12" SFF="D13|D24">It follows from the foregoing that the General Court did not err in law in holding that the tax on pay-television operators is not part of the aid scheme benefiting RTVE.</prem>
 
 85
 
 
-<conc ID="D32">Consequently, the second part of the first ground of appeal must be rejected as being unfounded.</conc>
+<conc ID="D32" SUP="D10|D31">Consequently, the second part of the first ground of appeal must be rejected as being unfounded.</conc>
 
 The third ground of appeal, alleging an error of law in the application of Article 106(2) TFEU
 
@@ -547,7 +547,7 @@ Findings of the Court
 90
 
 
-<prem ID="E1" T="F">It should be noted that the third ground of appeal rests entirely on the premiss that the General Court misinterpreted the scope of the second plea for annulment raised at first instance alleging infringement of Article 106(2) TFEU.</prem>
+<prem ID="E1" T="F" ATT="E2|E3">It should be noted that the third ground of appeal rests entirely on the premiss that the General Court misinterpreted the scope of the second plea for annulment raised at first instance alleging infringement of Article 106(2) TFEU.</prem>
 
 91
 
@@ -562,29 +562,29 @@ Findings of the Court
 93
 
 
-<prem ID="E4" T="F">It follows that the third ground of appeal, even if it were founded, is in no way capable of leading to the annulment of the judgment under appeal.</prem>
+<prem ID="E4" T="F" SFF="E2|E3|E3bis">It follows that the third ground of appeal, even if it were founded, is in no way capable of leading to the annulment of the judgment under appeal.</prem>
 
 94
 
 
-<conc ID="E5">In those circumstances, that ground of appeal must be rejected as ineffective.</conc>
+<conc ID="E5" SUP="E4">In those circumstances, that ground of appeal must be rejected as ineffective.</conc>
 
 The pleas submitted by the Telefónica companies alleging the infringement of Article 40 of the Statute of the Court of Justice of the European Union and Article 106(2) TFEU
 
 95
 
 
-<prem ID="F1" T="F">In their reply, the Telefónica companies raised a plea alleging infringement of Article 40 of the Statute of the Court of Justice, in which they submit that the General Court erred in law in rejecting as inadmissible their argument relating to the infringement of Article 108 TFEU.</prem>
+<prem ID="F1" T="F" ATT="F3|F8">In their reply, the Telefónica companies raised a plea alleging infringement of Article 40 of the Statute of the Court of Justice, in which they submit that the General Court erred in law in rejecting as inadmissible their argument relating to the infringement of Article 108 TFEU.</prem>
 
 96
 
 
-<prem ID="F2" T="F">The Telefónica companies also raised, in that pleading, a plea alleging infringement of Article 106(2) TFEU, in which they argue that the General Court erred in law in conducting an excessively limited review of whether the aid scheme at issue complied with the principle of proportionality, relying in that regard on the Commission’s discretion.</prem>
+<prem ID="F2" T="F" ATT="F3|F8">The Telefónica companies also raised, in that pleading, a plea alleging infringement of Article 106(2) TFEU, in which they argue that the General Court erred in law in conducting an excessively limited review of whether the aid scheme at issue complied with the principle of proportionality, relying in that regard on the Commission’s discretion.</prem>
 
 97
 
 
-<prem ID="F3" T="F">It is not disputed that those pleas seek annulment of the judgment under appeal on grounds that were not raised by DTS as part of its appeal.</prem>
+<prem ID="F3" T="F" SUP="F4|F5">It is not disputed that those pleas seek annulment of the judgment under appeal on grounds that were not raised by DTS as part of its appeal.</prem>
 
 98
 
@@ -604,12 +604,12 @@ The pleas submitted by the Telefónica companies alleging the infringement of Ar
 101
 
 
-<prem ID="F8" T="L" S="Itpr">It is apparent from those provisions, read together, that the reply may not seek the annulment of the judgment under appeal on the basis of distinct and independent grounds from those raised in the appeal, since such grounds may only be raised as part of a cross-appeal.</prem>
+<prem ID="F8" T="L" SUP="F6|F7" S="Itpr">It is apparent from those provisions, read together, that the reply may not seek the annulment of the judgment under appeal on the basis of distinct and independent grounds from those raised in the appeal, since such grounds may only be raised as part of a cross-appeal.</prem>
 
 102
 
 
-<conc ID="F9">Accordingly, the Court rejects as inadmissible the pleas submitted by the Telefónica companies alleging the infringement of Article 40 of the Statute of the Court of Justice of the European Union and Article 106(2) TFEU.</conc>
+<conc ID="F9" SUP="F3|F8">Accordingly, the Court rejects as inadmissible the pleas submitted by the Telefónica companies alleging the infringement of Article 40 of the Statute of the Court of Justice of the European Union and Article 106(2) TFEU.</conc>
 
 The cross-appeal
 
@@ -671,14 +671,14 @@ Admissibility of the cross-appeal
 113
 
 
-<conc ID="G6">In those circumstances, it must be held that the cross-appeal is admissible in that it refers to paragraphs 207 to 218 of the judgment under appeal.</conc>
+<conc ID="G6" SUP="G1|G2|G3|G4|G5">In those circumstances, it must be held that the cross-appeal is admissible in that it refers to paragraphs 207 to 218 of the judgment under appeal.</conc>
 
 Substance
 
 114
 
 
-<prem ID="H1" T="L" S="Rule">With respect to whether the cross-appeal is well founded, it should be recalled that a party who, pursuant to Article 40 of the Statute of the Court of Justice of the European Union, is granted leave to intervene in a case submitted to the Court may not alter the subject matter of the dispute as defined by the forms of order sought and the pleas in law raised by the main parties.</prem><prem ID="H1bis" T="L" S="Prec"> It follows that arguments submitted by an intervener are not admissible unless they fall within the framework provided by those forms of order and pleas in law (judgment of 7 October 2014, Germany v Council, C‑399/12, EU:C:2014:2258, paragraph 27).</prem>
+<prem ID="H1" T="L" S="Rule">With respect to whether the cross-appeal is well founded, it should be recalled that a party who, pursuant to Article 40 of the Statute of the Court of Justice of the European Union, is granted leave to intervene in a case submitted to the Court may not alter the subject matter of the dispute as defined by the forms of order sought and the pleas in law raised by the main parties.</prem><prem ID="H1bis" T="L" S="Prec" SUP="H1"> It follows that arguments submitted by an intervener are not admissible unless they fall within the framework provided by those forms of order and pleas in law (judgment of 7 October 2014, Germany v Council, C‑399/12, EU:C:2014:2258, paragraph 27).</prem>
 
 115
 
@@ -693,12 +693,12 @@ Substance
 117
 
 
-<prem ID="H4" T="F">It follows that, as the General Court held in paragraph 212 of the judgment under appeal, the pleas put forward by the Telefónica companies in its statement in intervention before the General Court were wholly unconnected with the subject matter of the dispute as it had been defined by DTS and altered the framework of the dispute to a degree which was contrary to Article 40 of the Statute of the Court of Justice of the European Union.</prem>
+<prem ID="H4" T="F" SUP="H1bis|H2|H3">It follows that, as the General Court held in paragraph 212 of the judgment under appeal, the pleas put forward by the Telefónica companies in its statement in intervention before the General Court were wholly unconnected with the subject matter of the dispute as it had been defined by DTS and altered the framework of the dispute to a degree which was contrary to Article 40 of the Statute of the Court of Justice of the European Union.</prem>
 
 118
 
 
-<prem ID="H5" T="L">In that regard, the General Court correctly held, in paragraph 217 of the judgment under appeal, that the solution adopted in the judgment of 8 July 2010, Commission v Italy (C‑334/08, EU:C:2010:414), in the context of infringement proceedings under Article 260 TFEU, could not be transposed to an action for annulment under Article 263 TFEU.</prem>
+<prem ID="H5" T="L" SUP="H6|H7|H8|H9|H10">In that regard, the General Court correctly held, in paragraph 217 of the judgment under appeal, that the solution adopted in the judgment of 8 July 2010, Commission v Italy (C‑334/08, EU:C:2010:414), in the context of infringement proceedings under Article 260 TFEU, could not be transposed to an action for annulment under Article 263 TFEU.</prem>
 
 119
 
@@ -723,7 +723,7 @@ Substance
 123
 
 
-<conc ID="H12">Consequently, the single plea raised in the cross-appeal must be rejected as unfounded.</conc>
+<conc ID="H12" SUP="H4|H5|H11|H11bis">Consequently, the single plea raised in the cross-appeal must be rejected as unfounded.</conc>
 
 Costs
 

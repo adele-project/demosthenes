@@ -608,7 +608,7 @@ Findings of the Court
 75
 
 
- <prem ID="A1" T="F">The Commission, the EFTA Surveillance Authority and Iberdrola claim, in essence, that, in examining whether the private investor test was applicable in the circumstances, the General Court took into account, for that purpose, the objective pursued by the French State when it adopted the contested measure;</prem> <prem ID="A2" T="F">secondly, it confused the roles of the State as shareholder and the State exercising its powers of taxation;</prem> <prem ID="A3" T="F">thirdly, it acted in breach of the principle of equal treatment as between public and private undertakings;</prem> <prem ID="A4" T="F">and, fourthly, it infringed the rules regarding allocation of the burden of proof.</prem>
+ <prem ID="A1" T="F" ATT="A18">The Commission, the EFTA Surveillance Authority and Iberdrola claim, in essence, that, in examining whether the private investor test was applicable in the circumstances, the General Court took into account, for that purpose, the objective pursued by the French State when it adopted the contested measure;</prem> <prem ID="A2" T="F" ATT="A25">secondly, it confused the roles of the State as shareholder and the State exercising its powers of taxation;</prem> <prem ID="A3" T="F" ATT="A31">thirdly, it acted in breach of the principle of equal treatment as between public and private undertakings;</prem> <prem ID="A4" T="F" ATT="A37">and, fourthly, it infringed the rules regarding allocation of the burden of proof.</prem>
 
 76
 
@@ -623,7 +623,7 @@ Findings of the Court
 78
 
 
- <prem ID="A7" T="L" S="Prec|Rule">However, it is also clear from settled case-law that the conditions which a measure must meet in order to be treated as ‘aid’ for the purposes of Article 87 EC are not met if the recipient public undertaking could, in circumstances which correspond to normal market conditions, obtain the same advantage as that which has been made available to it through State resources.</prem> <prem ID="A8" T="L" S="Prec">In the case of public undertakings, that assessment is made by applying, in principle, the private investor test (see, to that effect, Case C-303/88 Italy v Commission [1991] ECR I-1433, paragraph 20; Case C-482/99 France v Commission [2002] ECR I-4397, paragraphs 68 to 70; and Comitato ‘Venezia vuole vivere’ and Others v Commission, paragraph 91 and the case-law cited).</prem>
+ <prem ID="A7" T="L" S="Prec|Rule">However, it is also clear from settled case-law that the conditions which a measure must meet in order to be treated as ‘aid’ for the purposes of Article 87 EC are not met if the recipient public undertaking could, in circumstances which correspond to normal market conditions, obtain the same advantage as that which has been made available to it through State resources.</prem> <prem ID="A8" T="L" S="Prec" REPH="A20">In the case of public undertakings, that assessment is made by applying, in principle, the private investor test (see, to that effect, Case C-303/88 Italy v Commission [1991] ECR I-1433, paragraph 20; Case C-482/99 France v Commission [2002] ECR I-4397, paragraphs 68 to 70; and Comitato ‘Venezia vuole vivere’ and Others v Commission, paragraph 91 and the case-law cited).</prem>
 
 79
 
@@ -633,17 +633,17 @@ Findings of the Court
 80
 
 
-<prem ID="A10" T="L|F" S="Itpr">It follows that the roles of the State as shareholder of an undertaking, on the one hand, and of the State acting as a public authority, on the other, must be distinguished , as has been correctly argued by the Commission, the EFTA Surveillance Authority and Iberdrola and as the General Court held in paragraphs 223 to 228 of the judgment under appeal.</prem>
+<prem ID="A10" T="L|F" SUP="A5|A6|A7|A8|A9" S="Itpr">It follows that the roles of the State as shareholder of an undertaking, on the one hand, and of the State acting as a public authority, on the other, must be distinguished , as has been correctly argued by the Commission, the EFTA Surveillance Authority and Iberdrola and as the General Court held in paragraphs 223 to 228 of the judgment under appeal.</prem>
 
 81
 
 
- <prem ID="A11" T="L" S="Itpr">The applicability of the private investor test ultimately depends, therefore, on the Member State concerned having conferred, in its capacity as shareholder and not in its capacity as public authority, an economic advantage on an undertaking belonging to it.</prem>
+ <prem ID="A11" T="L" SUP="A10" S="Itpr">The applicability of the private investor test ultimately depends, therefore, on the Member State concerned having conferred, in its capacity as shareholder and not in its capacity as public authority, an economic advantage on an undertaking belonging to it.</prem>
 
 82
 
 
-<prem ID="A12" T="L" S="Itpr">It follows that, if a Member State relies on that test during the administrative procedure, it must, where there is doubt, establish unequivocally and on the basis of objective and verifiable evidence that the measure implemented falls to be ascribed to the State acting as shareholder .</prem>
+<prem ID="A12" T="L" SUP="A11" S="Itpr">It follows that, if a Member State relies on that test during the administrative procedure, it must, where there is doubt, establish unequivocally and on the basis of objective and verifiable evidence that the measure implemented falls to be ascribed to the State acting as shareholder .</prem>
 
 83
 
@@ -653,12 +653,12 @@ Findings of the Court
 84
 
 
-<prem ID="A14" T="L">In that regard, it may be necessary to produce evidence showing that the decision is based on economic evaluations comparable to those which, in the circumstances, a rational private investor in a situation as close as possible to that of the Member State would have had carried out, before making the investment, in order to determine its future profitability.</prem>
+<prem ID="A14" T="L" SUP="Princ">In that regard, it may be necessary to produce evidence showing that the decision is based on economic evaluations comparable to those which, in the circumstances, a rational private investor in a situation as close as possible to that of the Member State would have had carried out, before making the investment, in order to determine its future profitability.</prem>
 
 85
 
 
- <prem ID="A15" T="L">By contrast, for the purposes of showing that, before or at the same time as conferring the advantage, the Member State took that decision as a shareholder, it is not enough to rely on economic evaluations made after the advantage was conferred, on a retrospective finding that the investment made by the Member State concerned was actually profitable, or on subsequent justifications of the course of action actually chosen (see, to that effect, France v Commission, paragraphs 71 and 72).</prem>
+ <prem ID="A15" T="L" SUP="Prec|Itpr">By contrast, for the purposes of showing that, before or at the same time as conferring the advantage, the Member State took that decision as a shareholder, it is not enough to rely on economic evaluations made after the advantage was conferred, on a retrospective finding that the investment made by the Member State concerned was actually profitable, or on subsequent justifications of the course of action actually chosen (see, to that effect, France v Commission, paragraphs 71 and 72).</prem>
 
 86
 
@@ -668,7 +668,7 @@ Findings of the Court
 87
 
 
-<prem ID="A18" T="F">Accordingly, in the circumstances of the case, the General Court was right to hold that the objective pursued by the French State could be taken into account, in the context of the requisite global assessment, for the purposes of determining whether the State had indeed acted in its capacity as shareholder and whether, as a consequence, the private investor test was applicable in the present case.</prem>
+<prem ID="A18" T="F" SUP="A12|A13|A14|A15|A16|A17">Accordingly, in the circumstances of the case, the General Court was right to hold that the objective pursued by the French State could be taken into account, in the context of the requisite global assessment, for the purposes of determining whether the State had indeed acted in its capacity as shareholder and whether, as a consequence, the private investor test was applicable in the present case.</prem>
 
 88
 
@@ -678,27 +678,27 @@ Findings of the Court
 89
 
 
- <prem ID="A20" T="L" S="Itpr">Moreover, it has been noted in paragraph 78 above that the private investor test is applied in order to determine whether, because of its effects, the economic advantage granted, in whatever form, through State resources to a public undertaking distorts or threatens to distort competition and affects trade between Member States .</prem>
+ <prem ID="A20" T="L" S="Itpr" REPH="A8">Moreover, it has been noted in paragraph 78 above that the private investor test is applied in order to determine whether, because of its effects, the economic advantage granted, in whatever form, through State resources to a public undertaking distorts or threatens to distort competition and affects trade between Member States .</prem>
 
 90
 
 
- <prem ID="A21" T="L" S="Itpr|Prec|Rule">The intention underlying Article 87(1) EC and the private investor test is thus to prevent the recipient public undertaking from being placed, by means of State resources, in a more favourable position than that of its competitors (see, to that effect, Case C-387/92 Banco Exterior de España [1994] ECR I-877, paragraph 14, and Case C-6/97 Italy v Commission, paragraph 16).</prem>
+ <prem ID="A21" T="L" SUP="A7|A20" S="Itpr|Prec|Rule">The intention underlying Article 87(1) EC and the private investor test is thus to prevent the recipient public undertaking from being placed, by means of State resources, in a more favourable position than that of its competitors (see, to that effect, Case C-387/92 Banco Exterior de España [1994] ECR I-877, paragraph 14, and Case C-6/97 Italy v Commission, paragraph 16).</prem>
 
 91
 
 
- <prem ID="A22" T="L" S="Itpr">However, the financial situation of the recipient public undertaking depends not on the means used to place it at an advantage, however that may have been effected, but on the amount that the undertaking ultimately receives.</prem> <prem ID="A23" T="L" S="Itpr">Consequently, when considering whether the private investor test was applicable, the General Court did not err in law by focusing its analysis, not on the fiscal nature of the means employed by the French State, but on the improvement — with a view to the opening up of the electricity market — in EDF’s financial situation and on the effects of the measure in question on competition .</prem>
+ <prem ID="A22" T="L" S="Itpr">However, the financial situation of the recipient public undertaking depends not on the means used to place it at an advantage, however that may have been effected, but on the amount that the undertaking ultimately receives.</prem> <prem ID="A23" T="L" SUP="A22" S="Itpr">Consequently, when considering whether the private investor test was applicable, the General Court did not err in law by focusing its analysis, not on the fiscal nature of the means employed by the French State, but on the improvement — with a view to the opening up of the electricity market — in EDF’s financial situation and on the effects of the measure in question on competition .</prem>
 
 92
 
 
-<prem ID="A24" T="L" S="Itpr|Rule">Accordingly, it follows from all of the foregoing that, in view of the objectives underlying Article 87(1) EC and the private investor test, an economic advantage must — even where it has been granted through fiscal means — be assessed inter alia in the light of the private investor test, if, on conclusion of the global assessment that may be required, it appears that, notwithstanding the fact that the means used were instruments of State power, the Member State concerned conferred that advantage in its capacity as shareholder of the undertaking belonging to it .</prem>
+<prem ID="A24" T="L" SUP="A23" S="Itpr|Rule">Accordingly, it follows from all of the foregoing that, in view of the objectives underlying Article 87(1) EC and the private investor test, an economic advantage must — even where it has been granted through fiscal means — be assessed inter alia in the light of the private investor test, if, on conclusion of the global assessment that may be required, it appears that, notwithstanding the fact that the means used were instruments of State power, the Member State concerned conferred that advantage in its capacity as shareholder of the undertaking belonging to it .</prem>
 
 93
 
 
-<prem ID="A25" T="F">It follows that the finding made by the General Court in paragraph 250 of the judgment under appeal, to the effect that the obligation for the Commission to verify whether capital was provided by the State in circumstances which correspond to normal market conditions exists regardless of the way in which that capital was provided by the State, is not vitiated by an error of law.</prem>
+<prem ID="A25" T="F" SUP="A19|A24">It follows that the finding made by the General Court in paragraph 250 of the judgment under appeal, to the effect that the obligation for the Commission to verify whether capital was provided by the State in circumstances which correspond to normal market conditions exists regardless of the way in which that capital was provided by the State, is not vitiated by an error of law.</prem>
 
 94
 
@@ -708,7 +708,7 @@ Findings of the Court
 95
 
 
-<prem ID="A27" T="F">In the present case, therefore, application of the private investor test would have made it possible to determine whether, in similar circumstances, a private shareholder would have subscribed, to an undertaking in a situation comparable with that of EDF, an amount equal to the tax due.</prem>
+<prem ID="A27" T="F" SUP="A26">In the present case, therefore, application of the private investor test would have made it possible to determine whether, in similar circumstances, a private shareholder would have subscribed, to an undertaking in a situation comparable with that of EDF, an amount equal to the tax due.</prem>
 
 96
 
@@ -718,12 +718,12 @@ Findings of the Court
 97
 
 
-<prem ID="A30" T="F">It follows that — contrary to the assertions made by the Commission, the EFTA Surveillance Authority and Iberdrola — the analysis carried out by the General Court is not inconsistent with the principle of equal treatment between public and private undertakings;</prem> <prem ID="A30bis" T="F">it does not cause distortion of competition;</prem> <prem ID="A30ter" T="F">and it does not go against the objective pursued by the private investor test.</prem>
+<prem ID="A30" T="F" SUP="A27|A28|A29">It follows that — contrary to the assertions made by the Commission, the EFTA Surveillance Authority and Iberdrola — the analysis carried out by the General Court is not inconsistent with the principle of equal treatment between public and private undertakings;</prem> <prem ID="A30bis" T="F" SUP="A27|A28|A29">it does not cause distortion of competition;</prem> <prem ID="A30ter" T="F" SUP="A27|A28|A29">and it does not go against the objective pursued by the private investor test.</prem>
 
 98
 
 
-<prem ID="A31" T="F">Accordingly, in finding that the private investor test may be applicable even where fiscal means have been employed, the General Court did not err in law.</prem>
+<prem ID="A31" T="F" SUP="A30||A30bis|A30|ter|A32|A32bis|A33">Accordingly, in finding that the private investor test may be applicable even where fiscal means have been employed, the General Court did not err in law.</prem>
 
 99
 
@@ -738,22 +738,22 @@ Findings of the Court
 101
 
 
-<prem ID="A34" T="F">As to the question whether, in the present case, it was necessary to define a reference investor, it should be noted that the case-law relied upon in that regard by the Commission, the EFTA Surveillance Authority and Iberdrola concerns a situation marked by the impossibility of comparing the position of a public undertaking operating in a reserved sector with that of a private undertaking not operating in a reserved sector (see, to that effect, Joined Cases C-83/01 P, C-93/01 P and C-94/01 P Chronopost and Others v Ufex and Others [2003] ECR I-6993, paragraph 38).</prem>
+<prem ID="A34" T="F" INH="A35">As to the question whether, in the present case, it was necessary to define a reference investor, it should be noted that the case-law relied upon in that regard by the Commission, the EFTA Surveillance Authority and Iberdrola concerns a situation marked by the impossibility of comparing the position of a public undertaking operating in a reserved sector with that of a private undertaking not operating in a reserved sector (see, to that effect, Joined Cases C-83/01 P, C-93/01 P and C-94/01 P Chronopost and Others v Ufex and Others [2003] ECR I-6993, paragraph 38).</prem>
 
 102
 
 
-<prem ID="A35" T="F">As it is, the argument put forward by the Commission, the EFTA Surveillance Authority and Iberdrola is not that it is impossible to compare EDF’s situation with that of a private undertaking operating in sectors identical to those in which EDF operates.</prem> <prem ID="A36" T="L|F" S="Itpr">Moreover, it follows from the same line of authority that, for the purposes of such a comparison, an assessment must be carried out by reference to the objective and verifiable evidence which is available.</prem>
+<prem ID="A35" T="F">As it is, the argument put forward by the Commission, the EFTA Surveillance Authority and Iberdrola is not that it is impossible to compare EDF’s situation with that of a private undertaking operating in sectors identical to those in which EDF operates.</prem> <prem ID="A36" T="L|F" SUP="A34" S="Itpr">Moreover, it follows from the same line of authority that, for the purposes of such a comparison, an assessment must be carried out by reference to the objective and verifiable evidence which is available.</prem>
 
 103
 
 
-<prem ID="A37" T="L|F" S="Itpr|Rule">Furthermore, contrary to the assertions made by the Commission and the EFTA Surveillance Authority, the private investor test is not an exception which applies only if a Member State so requests, in situations characterised by all the constituent elements of State aid incompatible with the common market, as laid down in Article 87(1) EC.</prem> <prem ID="A38" T="L" S="Itpr">It follows from paragraph 78 above that, where it is applicable, that test is among the factors which the Commission is required to take into account for the purposes of establishing the existence of such aid.</prem>
+<prem ID="A37" T="L|F" S="Itpr|Rule">Furthermore, contrary to the assertions made by the Commission and the EFTA Surveillance Authority, the private investor test is not an exception which applies only if a Member State so requests, in situations characterised by all the constituent elements of State aid incompatible with the common market, as laid down in Article 87(1) EC.</prem> <prem ID="A38" T="L" SUP="A7|A8" S="Itpr">It follows from paragraph 78 above that, where it is applicable, that test is among the factors which the Commission is required to take into account for the purposes of establishing the existence of such aid.</prem>
 
 104
 
 
-<prem ID="A39" T="L" S="Itpr">Consequently, where it appears that the private investor test could be applicable, the Commission is under a duty to ask the Member State concerned to provide it with all relevant information enabling it to determine whether the conditions governing the applicability and the application of that test are met, and it cannot refuse to examine that information unless the evidence produced has been established after the adoption of the decision to make the investment in question.</prem>
+<prem ID="A39" T="L" SUP="A37|A38" S="Itpr">Consequently, where it appears that the private investor test could be applicable, the Commission is under a duty to ask the Member State concerned to provide it with all relevant information enabling it to determine whether the conditions governing the applicability and the application of that test are met, and it cannot refuse to examine that information unless the evidence produced has been established after the adoption of the decision to make the investment in question.</prem>
 
 105
 
@@ -763,24 +763,24 @@ Findings of the Court
 106
 
 
- <conc ID="A42">In the light of all the foregoing, the second ground of appeal must be rejected.</conc>
+ <conc ID="A42" SUP="A18|A25|A31|A35|A36|A39|A40|A41">In the light of all the foregoing, the second ground of appeal must be rejected.</conc>
 
 The first ground of appeal: distortion of the facts
 
 107
 
 
- <prem ID="B1" T="F">The Commission submits, in essence, that the General Court distorted the evidence in finding that, by the measure at issue, the French Republic converted a tax claim into capital.</prem> <prem ID="B2" T="F">The Commission claims that, by that measure, the French Republic granted EDF an exemption from corporation tax and that, in the case of a tax exemption, the private investor test is not relevant.</prem>
+ <prem ID="B1" T="F" ATT="B5">The Commission submits, in essence, that the General Court distorted the evidence in finding that, by the measure at issue, the French Republic converted a tax claim into capital.</prem> <prem ID="B2" T="F">The Commission claims that, by that measure, the French Republic granted EDF an exemption from corporation tax and that, in the case of a tax exemption, the private investor test is not relevant.</prem>
 
 108
 
 
-<prem ID="B3" T="L|F" S="Itpr">However, in the course of considering the second ground of appeal, it has been found that, where a Member State confers an economic advantage upon an undertaking belonging to it, the fiscal nature of the process used to grant that advantage does not mean that the applicability of the private investor test can automatically be ruled out.</prem> <prem ID="B4" T="L" S="Itpr"> It follows, a fortiori, that the precise modus operandi chosen by the Member State is irrelevant for the purposes of assessing whether that test applies.</prem>
+<prem ID="B3" T="L|F" S="Itpr">However, in the course of considering the second ground of appeal, it has been found that, where a Member State confers an economic advantage upon an undertaking belonging to it, the fiscal nature of the process used to grant that advantage does not mean that the applicability of the private investor test can automatically be ruled out.</prem> <prem ID="B4" T="L" SUP="B3" S="Itpr"> It follows, a fortiori, that the precise modus operandi chosen by the Member State is irrelevant for the purposes of assessing whether that test applies.</prem>
 
 109
 
 
-<prem ID="B5" T="F">In those circumstances, even if it were established, the alleged distortion of the facts would not, in any event, be such as to affect the soundness of the judgment under appeal.</prem> <conc ID="B6">It follows that the first ground of appeal must be rejected as ineffective.</conc>
+<prem ID="B5" T="F" SUP="B2|B4">In those circumstances, even if it were established, the alleged distortion of the facts would not, in any event, be such as to affect the soundness of the judgment under appeal.</prem> <conc ID="B6" SUP="B5">It follows that the first ground of appeal must be rejected as ineffective.</conc>
 
 110
 

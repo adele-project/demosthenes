@@ -291,11 +291,11 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 22
 
-<prem ID="A1" T="F"> It should be noted at the outset that, by the second and third arguments of the first part of the first ground of appeal, as summarised in paragraphs 15 to 20 above, Orange contends that the French State did not confer any economic advantage on it when it adopted the 1996 Law.</prem> <prem ID="A2" T="F"> By the first argument of the first part, summarised in paragraphs 13 and 14 above, that company maintains that, even if that law had conferred such an advantage, it would simply have compensated for the structural disadvantage to which it was subject under the arrangements introduced by the 1990 Law by comparison with its competitors, so that such an advantage could not justify a finding of State aid.</prem>
+<prem ID="A1" T="F"> It should be noted at the outset that, by the second and third arguments of the first part of the first ground of appeal, as summarised in paragraphs 15 to 20 above, Orange contends that the French State did not confer any economic advantage on it when it adopted the 1996 Law.</prem> <prem ID="A2" T="F" ATT="A24|A25|A27"> By the first argument of the first part, summarised in paragraphs 13 and 14 above, that company maintains that, even if that law had conferred such an advantage, it would simply have compensated for the structural disadvantage to which it was subject under the arrangements introduced by the 1990 Law by comparison with its competitors, so that such an advantage could not justify a finding of State aid.</prem>
 
 23
 
-<prem ID="A3" T="F"> As regards the arguments alleging that it did not enjoy an economic advantage, Orange submitted before the General Court that it was apparent from the judgment of 23 March 2006, Enirisorse (C‑237/04, EU:C:2006:197), that a law which merely prevents an undertaking’s budget being burdened with a charge which, in a normal situation, would not have existed, does not confer an advantage on that undertaking for the purpose of Article 107(1) TFEU.</prem>
+<prem ID="A3" T="F" INH="A5|A7|A8|A10"> As regards the arguments alleging that it did not enjoy an economic advantage, Orange submitted before the General Court that it was apparent from the judgment of 23 March 2006, Enirisorse (C‑237/04, EU:C:2006:197), that a law which merely prevents an undertaking’s budget being burdened with a charge which, in a normal situation, would not have existed, does not confer an advantage on that undertaking for the purpose of Article 107(1) TFEU.</prem>
 
 24
 
@@ -308,7 +308,7 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 26
 
-<prem ID="A6" T="F"> That assessment is not vitiated by the errors of law alleged by Orange in the second argument of the first part of the first ground of appeal.</prem>
+<prem ID="A6" T="F" REPH="A11" SUP="A5|A7|A8|A10"> That assessment is not vitiated by the errors of law alleged by Orange in the second argument of the first part of the first ground of appeal.</prem>
 
 27
 
@@ -322,15 +322,15 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 29
 
 
-<prem ID="A9" T="F"> In the present case, the General Court found, in its assessment of the facts in paragraph 41 of the judgment under appeal, against which there is no appeal, that the arrangements for the retirement pensions of France Télécom civil servants were legally distinct and clearly separate from the arrangements applicable to ordinary employees.</prem> <prem ID="A10" T="F"> It inferred from this that the latter arrangements were not the arrangements normally applicable to France Télécom civil servants, so that the 1996 Law had not removed an abnormal burden borne by the budget of that undertaking or reverted to the normal arrangements.</prem>
+<prem ID="A9" T="F"> In the present case, the General Court found, in its assessment of the facts in paragraph 41 of the judgment under appeal, against which there is no appeal, that the arrangements for the retirement pensions of France Télécom civil servants were legally distinct and clearly separate from the arrangements applicable to ordinary employees.</prem> <prem ID="A10" T="F" SUP="A9"> It inferred from this that the latter arrangements were not the arrangements normally applicable to France Télécom civil servants, so that the 1996 Law had not removed an abnormal burden borne by the budget of that undertaking or reverted to the normal arrangements.</prem>
 
 30
 
-<prem ID="A11" T="F"> In those circumstances, the General Court did not err in law in finding, in paragraph 41 of the judgment under appeal, that ‘it [was] not possible to conclude, as [did] the applicant, that the measure at issue was intended to prevent France Télécom being subject to a charge which, in a normal situation, should not be borne by its budget within the meaning of the judgment [of 23 March 2006, Enirisorse (C‑237/04, EU:C:2006:197)]’.</prem> 
+<prem ID="A11" T="F" REPH="A6" SUP="A5|A7|A8|A10"> In those circumstances, the General Court did not err in law in finding, in paragraph 41 of the judgment under appeal, that ‘it [was] not possible to conclude, as [did] the applicant, that the measure at issue was intended to prevent France Télécom being subject to a charge which, in a normal situation, should not be borne by its budget within the meaning of the judgment [of 23 March 2006, Enirisorse (C‑237/04, EU:C:2006:197)]’.</prem> 
 
 31
 
-<prem ID="A12" T="F"> As a consequence, the second argument of the first part of the first ground of appeal must be rejected as unfounded.</prem>
+<prem ID="A12" T="F" SUP="A6|A11"> As a consequence, the second argument of the first part of the first ground of appeal must be rejected as unfounded.</prem>
 
 32
 
@@ -342,7 +342,7 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 34
 
-<prem ID="A15" T="F"> The General Court thus dismissed Orange’s argument that, for the purpose of determining whether or not France Télécom enjoyed an economic advantage, the Commission had used an incorrect reference framework.</prem>
+<prem ID="A15" T="F" SUP="A13|A14"> The General Court thus dismissed Orange’s argument that, for the purpose of determining whether or not France Télécom enjoyed an economic advantage, the Commission had used an incorrect reference framework.</prem>
 
 35
 
@@ -351,11 +351,11 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 36
 
-<prem ID="A17" T="F"> Orange maintains, in essence, that the objective of the 1996 Law was to restore the general law conditions as regards the arrangements for financing the retirement pensions of civil servants working for France Télécom and thus place the company in the same situation as that of its competitors.</prem> <prem ID="A18" T="F"> Accordingly, and in the light of the objectives of the 1996 Law, the ‘standard’ situation to be adopted for the purpose of determining whether that law had the effect of eliminating a normal or an abnormal cost would be that of a private operator.</prem>
+<prem ID="A17" T="F"> Orange maintains, in essence, that the objective of the 1996 Law was to restore the general law conditions as regards the arrangements for financing the retirement pensions of civil servants working for France Télécom and thus place the company in the same situation as that of its competitors.</prem> <prem ID="A18" T="F" SUP="A17"> Accordingly, and in the light of the objectives of the 1996 Law, the ‘standard’ situation to be adopted for the purpose of determining whether that law had the effect of eliminating a normal or an abnormal cost would be that of a private operator.</prem>
 
 37
 
-<prem ID="A19" T="F"> Accordingly, Orange’s line of argument does not enable the Court to ascertain whether, when it rejected that company’s objection that the Commission had chosen the incorrect reference framework, the General Court committed other errors of law than the error based on failure to take account of the French State’s objectives.</prem>
+<prem ID="A19" T="F" SUP="A15|A16|A18"> Accordingly, Orange’s line of argument does not enable the Court to ascertain whether, when it rejected that company’s objection that the Commission had chosen the incorrect reference framework, the General Court committed other errors of law than the error based on failure to take account of the French State’s objectives.</prem>
 
 38
 
@@ -363,11 +363,11 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 39
 
-<prem ID="A21" T="F"> It follows that the third argument of the first part of the first ground of appeal must be rejected as manifestly unfounded.</prem>
+<prem ID="A21" T="F" SUP="A19|A20"> It follows that the third argument of the first part of the first ground of appeal must be rejected as manifestly unfounded.</prem>
 
 40
 
-<prem ID="A22" T="F"> As regards the first argument of the first part of the first ground of appeal, concerning compensation for a structural disadvantage, Orange relied at first instance on the judgments of the General Court of 16 March 2004, Danske Busvognmænd v Commission (T‑157/01, EU:T:2004:76), and of 28 November 2008, Hotel Cipriani and Others v Commission (T‑254/00, T‑270/00 and T‑277/00, EU:T:2008:537), in support of its claim that an advantage eliminating additional burdens which were imposed by derogating arrangements and were not borne by competing undertakings does not constitute State aid.</prem> <prem ID="A23" T="F"> Indeed, according to Orange, compensation for a structural disadvantage may preclude the categorisation of a measure as State aid in certain specific situations, not merely in cases involving services of general public interest.</prem>
+<prem ID="A22" T="F" ATT="A24|A25|A27"> As regards the first argument of the first part of the first ground of appeal, concerning compensation for a structural disadvantage, Orange relied at first instance on the judgments of the General Court of 16 March 2004, Danske Busvognmænd v Commission (T‑157/01, EU:T:2004:76), and of 28 November 2008, Hotel Cipriani and Others v Commission (T‑254/00, T‑270/00 and T‑277/00, EU:T:2008:537), in support of its claim that an advantage eliminating additional burdens which were imposed by derogating arrangements and were not borne by competing undertakings does not constitute State aid.</prem> <prem ID="A23" T="F" ATT="A24|A25|A27"> Indeed, according to Orange, compensation for a structural disadvantage may preclude the categorisation of a measure as State aid in certain specific situations, not merely in cases involving services of general public interest.</prem>
 
 41
 
@@ -380,7 +380,7 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 
 43
 
-<prem ID="A26" T="F"> Those findings are not vitiated by any of the error of law alleged by Orange in its first argument in the first part of the first plea in law.</prem>
+<prem ID="A26" T="F" SUP="A24|A25|A27"> Those findings are not vitiated by any of the error of law alleged by Orange in its first argument in the first part of the first plea in law.</prem>
 
 44
 
@@ -390,15 +390,15 @@ Therefore, according to Orange, the General Court erred in law by endorsing the 
 45
 
 
-<prem ID="A28" T="F"> The General Court was therefore entitled to take the view that Orange could not derive valid arguments from the judgments of the General Court cited in paragraph 40 above in order to establish that compensation for a structural disadvantage may preclude a measure being categorised as State aid.</prem>
+<prem ID="A28" T="F" SUP="A24|A25|A27"> The General Court was therefore entitled to take the view that Orange could not derive valid arguments from the judgments of the General Court cited in paragraph 40 above in order to establish that compensation for a structural disadvantage may preclude a measure being categorised as State aid.</prem>
 
 46
 
-<prem ID="A29" T="F"> It follows that the first argument of the first part of the first ground of appeal must be rejected as unfounded.</prem>
+<prem ID="A29" T="F" SUP="A26|A28"> It follows that the first argument of the first part of the first ground of appeal must be rejected as unfounded.</prem>
 
 47
 
-<conc ID="A30"> In the light of the foregoing, the first part of the first ground of appeal must be rejected.</conc>
+<conc ID="A30" SUP="A12|A21|A29"> In the light of the foregoing, the first part of the first ground of appeal must be rejected.</conc>
 
 The second part of the first ground of appeal, alleging that the General Court erred in law in its assessment of the selective nature of the contested measure
 
@@ -435,7 +435,7 @@ As the Commission concluded that there were no other undertakings that came with
 
 54
 
-<prem ID="B3" T="L" S="Prec|Aut"> As those findings are, as observed by the Advocate General in points 66 to 72 of his Opinion, consistent with the Court’s case-law in this field (see, to that effect, judgment of 4 June 2015, Commission v MOL, C‑15/14 P, EU:C:2015:362, paragraph 60),</prem> <conc ID="B4"> they are not vitiated by any error of law and, as a result, the second part of the first ground of appeal must be rejected as unfounded.</conc>
+<prem ID="B3" T="L" S="Prec|Aut"> As those findings are, as observed by the Advocate General in points 66 to 72 of his Opinion, consistent with the Court’s case-law in this field (see, to that effect, judgment of 4 June 2015, Commission v MOL, C‑15/14 P, EU:C:2015:362, paragraph 60),</prem> <conc ID="B4" SUP="B1|B2|B3"> they are not vitiated by any error of law and, as a result, the second part of the first ground of appeal must be rejected as unfounded.</conc>
 
 
 The third part of the first ground of appeal, alleging that the General Court erred in law in its assessment of whether competition was affected
@@ -477,11 +477,11 @@ If the General Court had carried out a thorough review of the assessments made b
 
 62
 
-<prem ID="C4" T="F"> Accordingly, first, as the Advocate General observed in point 75 of his Opinion, the judgment under appeal clearly sets out the reasons why the General Court endorsed the Commission’s assessment regarding the distortion of competition test.</prem>
+<prem ID="C4" T="F" SUP="C1|C2|C3"> Accordingly, first, as the Advocate General observed in point 75 of his Opinion, the judgment under appeal clearly sets out the reasons why the General Court endorsed the Commission’s assessment regarding the distortion of competition test.</prem>
 
 63
 
-<prem ID="C5" T="F|L"> As the reasoning adopted therefore enabled, as required by the Court’s established case law, the interested parties to know the grounds upon which the General Court relied and provided the Court with sufficient material for it to exercise its powers of review on appeal, the complaint alleging that the judgment under appeal fails to state adequate reasons must be rejected.</prem>
+<prem ID="C5" T="F|L" SUP="C4"> As the reasoning adopted therefore enabled, as required by the Court’s established case law, the interested parties to know the grounds upon which the General Court relied and provided the Court with sufficient material for it to exercise its powers of review on appeal, the complaint alleging that the judgment under appeal fails to state adequate reasons must be rejected.</prem>
 
 64
 
@@ -502,11 +502,11 @@ If the General Court had carried out a thorough review of the assessments made b
 68
 
 
-<prem ID="C10" T="F"> Bearing in mind those findings, which are not challenged by Orange, the General Court was entitled, without erring in law, to endorse the Commission’s assessment that the contested measure was liable to distort competition.</prem> 
+<prem ID="C10" T="F" SUP="C1|C2|C3|C6|C7|C8|C9"> Bearing in mind those findings, which are not challenged by Orange, the General Court was entitled, without erring in law, to endorse the Commission’s assessment that the contested measure was liable to distort competition.</prem> 
 
 69
 
-<conc ID="C11"> In the light of the foregoing considerations, the third part of the first ground of appeal and, therefore, that ground in its entirety must be rejected.</conc> 
+<conc ID="C11" SUP="C5|C10"> In the light of the foregoing considerations, the third part of the first ground of appeal and, therefore, that ground in its entirety must be rejected.</conc> 
 
 
 The second ground of appeal, alleging that the General Court erred in law in its assessment as to whether the contested measure was compatible with the internal market
@@ -533,7 +533,7 @@ Orange maintains that, contrary to the General Court’s assertion, the exceptio
 73
 
 
-<prem ID="D1" T="F"> The General Court stated, in paragraphs 93 and 94 of the judgment under appeal, that the wording of the 1996 Law did not militate against the Commission’s interpretation that the exceptional flat-rate contribution was not a social security cost like the employer’s contribution in full discharge of liabilities, but pursued other objectives, deducing from this that the Commission had not erred in law or exceeded the bounds of its discretion by taking the view that the fact that the non-common risks had not been taken into account in the employer’s contribution in full discharge of liabilities could not be compensated for by the flat-rate exceptional contribution.</prem>
+<prem ID="D1" T="F" SUP="D2"> The General Court stated, in paragraphs 93 and 94 of the judgment under appeal, that the wording of the 1996 Law did not militate against the Commission’s interpretation that the exceptional flat-rate contribution was not a social security cost like the employer’s contribution in full discharge of liabilities, but pursued other objectives, deducing from this that the Commission had not erred in law or exceeded the bounds of its discretion by taking the view that the fact that the non-common risks had not been taken into account in the employer’s contribution in full discharge of liabilities could not be compensated for by the flat-rate exceptional contribution.</prem>
 
 74
 
@@ -541,19 +541,19 @@ Orange maintains that, contrary to the General Court’s assertion, the exceptio
 
 75
 
-<prem ID="D3" T="F" S="Aut"> Accordingly, first, as the Advocate General observed in point 86 of his Opinion, the judgment under appeal sets out clearly the reasons why the General Court rejected Orange’s claims.</prem>
+<prem ID="D3" T="F" S="Aut" SUP="D1"> Accordingly, first, as the Advocate General observed in point 86 of his Opinion, the judgment under appeal sets out clearly the reasons why the General Court rejected Orange’s claims.</prem>
 
 76
 
-<prem ID="D4" T="F|L" S="Prec"> As the reasons given therefore enabled, in accordance with the Court’s established case-law, the interested parties to know the grounds upon which the General Court relied and provided the Court with sufficient material for it to exercise its powers of review on appeal, the complaint alleging that the judgment under appeal failed to give adequate reasons must be rejected.</prem>
+<prem ID="D4" T="F|L" S="Prec" SUP="D3"> As the reasons given therefore enabled, in accordance with the Court’s established case-law, the interested parties to know the grounds upon which the General Court relied and provided the Court with sufficient material for it to exercise its powers of review on appeal, the complaint alleging that the judgment under appeal failed to give adequate reasons must be rejected.</prem>
 
 77
 
-<prem ID="D5" T="F" S="Aut"> Second, as the Advocate General observed in point 85 of his Opinion, the argument summarised in paragraph 71 above cannot invalidate the finding set out in paragraph 92 of the judgment under appeal.</prem> <prem ID="D6" T="F|L" S="Itpr"> Accordingly, it is clear that the distortion alleged is not manifestly apparent from the documents before the Court, and that, by its arguments, Orange is in fact asking the Court to carry out a fresh assessment of the facts and evidence, which falls outside the Court’s jurisdiction.</prem> 
+<prem ID="D5" T="F" S="Aut" SUP="D1"> Second, as the Advocate General observed in point 85 of his Opinion, the argument summarised in paragraph 71 above cannot invalidate the finding set out in paragraph 92 of the judgment under appeal.</prem> <prem ID="D6" T="F|L" S="Itpr" SUP="D1"> Accordingly, it is clear that the distortion alleged is not manifestly apparent from the documents before the Court, and that, by its arguments, Orange is in fact asking the Court to carry out a fresh assessment of the facts and evidence, which falls outside the Court’s jurisdiction.</prem> 
 
 78
 
-<conc ID="D7"> It follows that the argument alleging that the 1996 Law was distorted must be rejected as manifestly unfounded.</conc>
+<conc ID="D7" SUP="D4|D6|D7"> It follows that the argument alleging that the 1996 Law was distorted must be rejected as manifestly unfounded.</conc>
 
 79
 
@@ -575,11 +575,11 @@ The second part of the second ground of appeal, alleging that the General Court 
 
 82
 
-<prem ID="E1" T="F" S="Aut"> As the Advocate General noted in points 90 to 93 of his Opinion, the observations made by the General Court in paragraphs 99 to 101 of the judgment under appeal were made purely for the sake of completeness.</prem> <prem ID="E2" T="F" S="Aut"> Therefore, the arguments put forward by Orange in the appeal are ineffective as, even if they were well founded, they could not result in the judgment under appeal being set aside.</prem>
+<prem ID="E1" T="F" S="Aut"> As the Advocate General noted in points 90 to 93 of his Opinion, the observations made by the General Court in paragraphs 99 to 101 of the judgment under appeal were made purely for the sake of completeness.</prem> <prem ID="E2" T="F" S="Aut" SUP="E1"> Therefore, the arguments put forward by Orange in the appeal are ineffective as, even if they were well founded, they could not result in the judgment under appeal being set aside.</prem>
 
 83
 
-<conc ID="E3">It follows that the second part of the second ground of appeal and, therefore, that ground in its entirety must be dismissed as wholly unfounded.</conc>
+<conc ID="E3" SUP="E2">It follows that the second part of the second ground of appeal and, therefore, that ground in its entirety must be dismissed as wholly unfounded.</conc>
 
 
 The third ground of appeal, alleging that the General Court erred in law in its assessment of the period during which the aid was neutralised by the exceptional flat-rate contribution
@@ -607,7 +607,7 @@ Findings of the Court
 
 88
 
-<prem ID="F2" T="F"> Nevertheless, the General Court observed, in paragraph 108 of that judgment, that ‘it is apparent both from the background to the [decision at issue] and from Article 1 of that decision that the aid consists, in the Commission’s view, in the reduction of the compensation previously paid by the applicant, which necessarily includes all charges borne by the applicant before the contested measure came into force’.</prem>
+<prem ID="F2" T="F" SUP="F3|F4|F5|F6"> Nevertheless, the General Court observed, in paragraph 108 of that judgment, that ‘it is apparent both from the background to the [decision at issue] and from Article 1 of that decision that the aid consists, in the Commission’s view, in the reduction of the compensation previously paid by the applicant, which necessarily includes all charges borne by the applicant before the contested measure came into force’.</prem>
 
 89
 
@@ -623,15 +623,15 @@ Findings of the Court
 
 106
 
-<prem ID="F7" T="F"> The Commission therefore indicated that the compensation and over-compensation charges were included in the calculation of the contribution paid pursuant to the 1990 Law and that the State aid was defined and calculated as the reduction in that contribution made by the 1996 Law.’</prem>
+<prem ID="F7" T="F" SUP="F3|F4|F5|F6"> The Commission therefore indicated that the compensation and over-compensation charges were included in the calculation of the contribution paid pursuant to the 1990 Law and that the State aid was defined and calculated as the reduction in that contribution made by the 1996 Law.’</prem>
 
 90
 
-<prem ID="F8" T="F"> Thus, it is clear that, following that line of reasoning, the General Court did not substitute its own grounds for those in the decision at issue but simply interpreted that decision in the light of its actual content.</prem> <prem ID="F9" T="F"> Furthermore, contrary to what is claimed by Orange, that interpretation faithfully reflects the inconsistencies in that decision without distorting them.</prem> 
+<prem ID="F8" T="F" SUP="F1|F2|F7"> Thus, it is clear that, following that line of reasoning, the General Court did not substitute its own grounds for those in the decision at issue but simply interpreted that decision in the light of its actual content.</prem> <prem ID="F9" T="F"> Furthermore, contrary to what is claimed by Orange, that interpretation faithfully reflects the inconsistencies in that decision without distorting them.</prem> 
 
 91
 
-<conc ID="F10"> Accordingly, the third ground of appeal must be rejected as unfounded.</conc> 
+<conc ID="F10" SUP="F8|F9"> Accordingly, the third ground of appeal must be rejected as unfounded.</conc> 
 
 92
 

@@ -244,13 +244,13 @@ This Decision is addressed to the French Republic.”
 
 15 <prem ID="A1" T="F"> With regard to the Commission’s claim that the first ground of appeal is inadmissible, it should be noted that that ground, which forms part of the submissions relating to the existence of State aid, was put forward at first instance in the context of the first and second pleas relied on before the General Court.</prem>
 
-16 <prem ID="A2" T="L" S="Prec"> As regards whether that ground is well founded, according to settled case-law, the definition of aid is more general than that of a subsidy.</prem> <prem ID="A3" T="L" S="Prec">It includes not only positive benefits but also measures which, in various forms, mitigate the charges which are normally included in the budget of an undertaking and which thus, without being subsidies in the strict sense of the word, are similar in character and have the same effect (see, Joined Cases C‑78/08 to C‑80/08 Paint Graphos and Others [2011] ECR I‑0000, paragraph 45 and the case-law cited).</prem>
+16 <prem ID="A2" T="L" S="Prec"> As regards whether that ground is well founded, according to settled case-law, the definition of aid is more general than that of a subsidy.</prem> <prem ID="A3" T="L" S="Prec" SUP="A2">It includes not only positive benefits but also measures which, in various forms, mitigate the charges which are normally included in the budget of an undertaking and which thus, without being subsidies in the strict sense of the word, are similar in character and have the same effect (see, Joined Cases C‑78/08 to C‑80/08 Paint Graphos and Others [2011] ECR I‑0000, paragraph 45 and the case-law cited).</prem>
 
-17 <prem ID="A4" T="L"> It should also be noted that the concept of advantage that is intrinsic to the classification of a measure as State aid is an objective one, irrespective of the motives of the persons responsible for the measure in question.</prem> <prem ID="A5" T="L"> Accordingly, the nature of the objectives pursued by State measures and their grounds of justification have no bearing whatsoever on whether such measures are to be classified as State aid.</prem> 
+17 <prem ID="A4" T="L" REPH="A5|A6"> It should also be noted that the concept of advantage that is intrinsic to the classification of a measure as State aid is an objective one, irrespective of the motives of the persons responsible for the measure in question.</prem> <prem ID="A5" T="L" REPH="A4|A6"> Accordingly, the nature of the objectives pursued by State measures and their grounds of justification have no bearing whatsoever on whether such measures are to be classified as State aid.</prem> 
 
-<prem ID="A6" T="L" S="Prec|Rule"> It is established case-law that Article 87(1) EC does not distinguish between the causes or the objectives of State aid, but defines them in relation to their effects (see Case C‑409/00 Spain v Commission [2003] ECR I‑1487, paragraph 46 and the case-law cited).</prem>
+<prem ID="A6" T="L" S="Prec|Rule" REPH="A4|A5"> It is established case-law that Article 87(1) EC does not distinguish between the causes or the objectives of State aid, but defines them in relation to their effects (see Case C‑409/00 Spain v Commission [2003] ECR I‑1487, paragraph 46 and the case-law cited).</prem>
 
-18 <prem ID="A7" T="F"> As regards the present case, it should be noted that the tax regime to which FT was subject during the second period under consideration, namely during the years from 1994 to 2002, constituted an exception to the general law regime.</prem> <prem ID="A8" T="F"> In particular, that company benefited from specific tax treatment at national level, characterised by the fact that business tax was calculated on the basis of a weighted average rate, as opposed to the various rates applicable in the different local authorities, whereas the rates to which other undertakings were subject were those voted annually by those authorities.</prem> <prem ID="A9" T="F"> Moreover, FT was subject to a single rate of business tax in its principle place of business, whereas other undertakings were taxed at the different rates voted by the local authorities in the territory within which those undertakings had establishments.</prem> <prem ID="A10" T="F"> A rate of 1.9% was also applied to FT, as opposed to the rate of 8% applicable to other undertakings, in respect of management costs.</prem>
+18 <prem ID="A7" T="F" SUP="A8|A9|A10"> As regards the present case, it should be noted that the tax regime to which FT was subject during the second period under consideration, namely during the years from 1994 to 2002, constituted an exception to the general law regime.</prem> <prem ID="A8" T="F"> In particular, that company benefited from specific tax treatment at national level, characterised by the fact that business tax was calculated on the basis of a weighted average rate, as opposed to the various rates applicable in the different local authorities, whereas the rates to which other undertakings were subject were those voted annually by those authorities.</prem> <prem ID="A9" T="F"> Moreover, FT was subject to a single rate of business tax in its principle place of business, whereas other undertakings were taxed at the different rates voted by the local authorities in the territory within which those undertakings had establishments.</prem> <prem ID="A10" T="F"> A rate of 1.9% was also applied to FT, as opposed to the rate of 8% applicable to other undertakings, in respect of management costs.</prem>
 
 19 <prem ID="A11" T="F"> As regards the argument relied on in the present appeal that the General Court’s examination of the tax regime at issue should have taken account of a number of variables and extraneous factors, it should be noted that, even though, given the particular characteristics of that regime, the Commission was not in a position to determine in advance for each tax year the precise level of taxation for that year, it is nevertheless accepted that the regime was capable of resulting and in fact resulted – as is apparent from recital 59 of the contested decision and paragraph 225 of the judgment under appeal – in FT’s liability to business tax being lower than it would have been if the general law business tax regime had been applied. </prem>
 
@@ -258,7 +258,7 @@ This Decision is addressed to the French Republic.”
 
 21 
 
-<prem ID="A13" T="L|F" S="Itpr"> In those circumstances, the General Court was correct to hold, at paragraph 323 of the judgment under appeal, that the finding of the existence of aid depended on a number of ‘circumstances unrelated to’ the special tax regime, such as the fact that the business tax was charged annually and the level of the tax rates voted each year by the authorities in the territory in which FT had establishments.</prem>
+<prem ID="A13" T="L|F" S="Itpr" SUP="A1|A3|A4|A5|A6|A7|A11"> In those circumstances, the General Court was correct to hold, at paragraph 323 of the judgment under appeal, that the finding of the existence of aid depended on a number of ‘circumstances unrelated to’ the special tax regime, such as the fact that the business tax was charged annually and the level of the tax rates voted each year by the authorities in the territory in which FT had establishments.</prem>
 
 22 
 
@@ -274,19 +274,19 @@ This Decision is addressed to the French Republic.”
 
 25 
 
-<prem ID="A18" T="F"> The fact that FT’s liability to professional tax was indeed lower as of 1994 is directly attributable to the specific features of the special tax regime applied to it, even though the exact amount of annual aid received by it under that regime depended on certain factors unrelated to the regime.</prem>
+<prem ID="A18" T="F" SUP="A17"> The fact that FT’s liability to professional tax was indeed lower as of 1994 is directly attributable to the specific features of the special tax regime applied to it, even though the exact amount of annual aid received by it under that regime depended on certain factors unrelated to the regime.</prem>
 
 26 
 
-<prem ID="A19" T="F"> It is also apparent from the structure of the judgment under appeal that paragraph 323 of that judgment, which refers to circumstances unrelated to the special tax regime, concerns only the annual aid granted to FT under the special tax regime. </prem> <prem ID="A20" T="F"> In fact, that paragraph forms part of the analysis of the plea relating to the limitation in time of the Commission’s power to recover unlawful aid.</prem> <prem ID="A21" T="F"> The findings of the General Court in connection with that plea can relate only to aid actually received and, therefore, concern only the aid from which FT benefited under the special tax regime.</prem>
+<prem ID="A19" T="F" SUP="A20|A21"> It is also apparent from the structure of the judgment under appeal that paragraph 323 of that judgment, which refers to circumstances unrelated to the special tax regime, concerns only the annual aid granted to FT under the special tax regime. </prem> <prem ID="A20" T="F"> In fact, that paragraph forms part of the analysis of the plea relating to the limitation in time of the Commission’s power to recover unlawful aid.</prem> <prem ID="A21" T="F"> The findings of the General Court in connection with that plea can relate only to aid actually received and, therefore, concern only the aid from which FT benefited under the special tax regime.</prem>
 
 27 
 
-<prem ID="A22" T="F|L" S="Rule|Itpr"> It follows from those considerations that the General Court did not err in law in finding that the special tax regime conferred an advantage on FT for the purposes of Article 87(1) EC, even though the exact amount of aid granted under that regime had to be determined by reference to certain factors unrelated to the regime. </prem>
+<prem ID="A22" T="F|L" S="Rule|Itpr" SUP="A13|A14|A15|A16|A18|A19"> It follows from those considerations that the General Court did not err in law in finding that the special tax regime conferred an advantage on FT for the purposes of Article 87(1) EC, even though the exact amount of aid granted under that regime had to be determined by reference to certain factors unrelated to the regime. </prem>
 
 28 
 
-<conc ID="A23"> The first ground of appeal is therefore unfounded. </conc>
+<conc ID="A23" SUP="A22"> The first ground of appeal is therefore unfounded. </conc>
 
  The second ground of appeal, alleging that the General Court misconstrued the concept of State aid in that the Commission failed to take account of the overall tax regime applicable to FT during the years from 1991 to 2002
 
@@ -316,11 +316,11 @@ This Decision is addressed to the French Republic.”
 
 35 
 
-<prem ID="B7" T="F"> Consequently, the General Court’s interpretation to the effect that the aid at issue consisted in the tax differential deriving from the application of the provisions establishing a special regime is consistent with the enacting terms of the contested decision, which categorises the regime applicable to FT between the years 1994 and 2002 as aid which is incompatible with the common market. </prem> <prem ID="B8" T="F"> Indeed, it is by virtue of that special regime that FT was not required to pay business tax in the amounts for which it would normally have been liable under the general law tax regime.</prem>
+<prem ID="B7" T="F" SUP="A4|A5|A6"> Consequently, the General Court’s interpretation to the effect that the aid at issue consisted in the tax differential deriving from the application of the provisions establishing a special regime is consistent with the enacting terms of the contested decision, which categorises the regime applicable to FT between the years 1994 and 2002 as aid which is incompatible with the common market. </prem> <prem ID="B8" T="F"> Indeed, it is by virtue of that special regime that FT was not required to pay business tax in the amounts for which it would normally have been liable under the general law tax regime.</prem>
 
 36 
 
-<prem ID="B9" T="F">The second part of the second ground of appeal must therefore be rejected.</prem>
+<prem ID="B9" T="F" SFF="B1|B2|B3|B7|B8">The second part of the second ground of appeal must therefore be rejected.</prem>
 
  The first and third parts of the second ground of appeal, alleging that the General Court misconstrued the concept of State aid since it failed to carry out an overall analysis of the tax regime applicable to FT
 
@@ -352,7 +352,7 @@ This Decision is addressed to the French Republic.”
 
 45 
 
-<prem ID="B14" T="F"> It should be noted that the levy applicable to FT between 1991 and 1993 was determined by different parameters from those applied with effect from 1994 under the special tax regime.</prem><prem ID="B14bis" T="F"> The two tax regimes were in fact based on different legal models and operating parameters.</prem>
+<prem ID="B14" T="F" SUP="B14bis|B15|B16|B17|B19"> It should be noted that the levy applicable to FT between 1991 and 1993 was determined by different parameters from those applied with effect from 1994 under the special tax regime.</prem><prem ID="B14bis" T="F"> The two tax regimes were in fact based on different legal models and operating parameters.</prem>
 
 46 
 
@@ -364,17 +364,17 @@ This Decision is addressed to the French Republic.”
 
 48 
 
-<prem ID="B20" T="F"> In those circumstances, the General Court was entitled to find, at paragraph 213 of the judgment under appeal, that the fixed levy must be regarded not as a charge connected with the introduction of the special tax regime, but rather as a special tax mechanism for FT established for the years prior to 1994.</prem> <prem ID="B21" T="F"> In any event, as the General Court stated at paragraph 215 of the judgment under appeal, the mere fact that the fixed levy and the special tax regime were both introduced by Law No 90‑568 does not prove that FT’s liability to pay the fixed levy from 1991 to 1993 was connected with the creation of the special tax regime for the years after 1994.</prem>
+<prem ID="B20" T="F" SUP="B15|B16|B17|B19"> In those circumstances, the General Court was entitled to find, at paragraph 213 of the judgment under appeal, that the fixed levy must be regarded not as a charge connected with the introduction of the special tax regime, but rather as a special tax mechanism for FT established for the years prior to 1994.</prem> <prem ID="B21" T="F" SUP="B15|B16|B17|B19"> In any event, as the General Court stated at paragraph 215 of the judgment under appeal, the mere fact that the fixed levy and the special tax regime were both introduced by Law No 90‑568 does not prove that FT’s liability to pay the fixed levy from 1991 to 1993 was connected with the creation of the special tax regime for the years after 1994.</prem>
 
 49 
 
-<prem ID="B22" T="F|L" S="Itpr"> The General Court did not, therefore, err in law in concluding, at paragraph 218 of the judgment under appeal, that the Commission was entitled to refuse to apply a set-off between, on the one hand, the amounts paid by FT between 1991 and 1993 by way of fixed levy and, on the other, the tax differentials arising as a result of the special tax regime established for that company for the years 1994 to 2002.</prem>
+<prem ID="B22" T="F|L" S="Itpr" SUP="B13|B14|B20|B21"> The General Court did not, therefore, err in law in concluding, at paragraph 218 of the judgment under appeal, that the Commission was entitled to refuse to apply a set-off between, on the one hand, the amounts paid by FT between 1991 and 1993 by way of fixed levy and, on the other, the tax differentials arising as a result of the special tax regime established for that company for the years 1994 to 2002.</prem>
 
 50 
 
-<prem ID="B23" T="F"> Lastly, even if it were the case that the tax regime applicable to FT consisted of two inextricably linked periods, the first entailing over-taxation and the second under-taxation, it is accepted that Law No 90-568 introduced with effect from 1994 a special tax regime intended to be of indefinite duration.</prem> <prem ID="B24" T="F">That law did not contain any mechanism for offsetting amounts due by way of fixed levy for the period from 1991 to 1993 against amounts due as of 1994 under the special tax regime.</prem> <prem ID="B25" T="F">It therefore provided no mechanism for determining the point at which over-taxation under the first regime should have been offset under the second regime.</prem> <prem ID="B26" T="F" S="Aut">As the Advocate General observed at point 100 of his Opinion, that over-taxation should have exhausted its effects at a given time, which necessarily entailed the conferring of an advantage on FT under the special tax regime.</prem>
+<prem ID="B23" T="F"> Lastly, even if it were the case that the tax regime applicable to FT consisted of two inextricably linked periods, the first entailing over-taxation and the second under-taxation, it is accepted that Law No 90-568 introduced with effect from 1994 a special tax regime intended to be of indefinite duration.</prem> <prem ID="B24" T="F">That law did not contain any mechanism for offsetting amounts due by way of fixed levy for the period from 1991 to 1993 against amounts due as of 1994 under the special tax regime.</prem> <prem ID="B25" T="F" SUP="B23|B24|B26">It therefore provided no mechanism for determining the point at which over-taxation under the first regime should have been offset under the second regime.</prem> <prem ID="B26" T="F" S="Aut">As the Advocate General observed at point 100 of his Opinion, that over-taxation should have exhausted its effects at a given time, which necessarily entailed the conferring of an advantage on FT under the special tax regime.</prem>
 
-51 <prem ID="B27" T="F"> The first and third parts of the second ground of appeal cannot therefore be upheld.</prem> <conc ID="B28">Accordingly, the second ground must be rejected in its entirety.</conc>
+51 <prem ID="B27" T="F" SUP="B26"> The first and third parts of the second ground of appeal cannot therefore be upheld.</prem> <conc ID="B28" SUP="B9|B26">Accordingly, the second ground must be rejected in its entirety.</conc>
 
  The third ground of appeal, alleging breach of the principle of the protection of legitimate expectations
 
@@ -402,7 +402,7 @@ This Decision is addressed to the French Republic.”
 
 59 
 
-<prem ID="C3" T="L" S="Rule|Itpr"> Consequently, in view of the mandatory nature of the review of State aid by the Commission, undertakings to which aid has been granted may not, in principle, entertain a legitimate expectation that the aid is lawful unless it has been granted in compliance with the procedure laid down in Article 88 EC and a diligent business operator should normally be able to determine whether that procedure has been followed.</prem> <prem ID="C4" T="L" S="Prec|Rule"> In particular, where aid is implemented without prior notification to the Commission, with the result that it is unlawful under Article 88(3) EC, the recipient of the aid cannot have at that time a legitimate expectation that its grant is lawful (see Joined Cases C‑183/02 P and C‑187/02 P Demesa and Territorio Histórico de Álava v Commission [2004] ECR I‑10609, paragraphs 44 and 45 and case-law cited).</prem>
+<prem ID="C3" T="L" S="Rule|Itpr" SUP="C1|C2"> Consequently, in view of the mandatory nature of the review of State aid by the Commission, undertakings to which aid has been granted may not, in principle, entertain a legitimate expectation that the aid is lawful unless it has been granted in compliance with the procedure laid down in Article 88 EC and a diligent business operator should normally be able to determine whether that procedure has been followed.</prem> <prem ID="C4" T="L" S="Prec|Rule" SUP="C2|C3"> In particular, where aid is implemented without prior notification to the Commission, with the result that it is unlawful under Article 88(3) EC, the recipient of the aid cannot have at that time a legitimate expectation that its grant is lawful (see Joined Cases C‑183/02 P and C‑187/02 P Demesa and Territorio Histórico de Álava v Commission [2004] ECR I‑10609, paragraphs 44 and 45 and case-law cited).</prem>
 
 60 
 
@@ -422,9 +422,9 @@ This Decision is addressed to the French Republic.”
 
 64 
 
-<prem ID="C9" T="F"> Consequently, the General Court concluded correctly, at paragraph 270 of the judgment under appeal, that the French Republic and FT had failed to prove the existence of exceptional circumstances enabling them to rely on the principle of the protection of legitimate expectations.</prem>
+<prem ID="C9" T="F" SFF="C4|C5|C6|C7|C8"> Consequently, the General Court concluded correctly, at paragraph 270 of the judgment under appeal, that the French Republic and FT had failed to prove the existence of exceptional circumstances enabling them to rely on the principle of the protection of legitimate expectations.</prem>
 
-65 <conc ID="C10"> It must therefore be concluded that the first part of the third ground of appeal is unfounded.</conc>
+65 <conc ID="C10" SUP="C9"> It must therefore be concluded that the first part of the third ground of appeal is unfounded.</conc>
 
 The second part of the third ground of appeal, alleging an error in law as to the legal consequences flowing from another Commission decision on State aid
 
@@ -455,7 +455,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 73 
 
-<prem ID="D5" T="F|L" S="Itpr"> Consequently, the General Court was entitled to find that there was nothing of relevance in the La Poste decision that could have given rise to any legitimate expectation on the part of FT that the tax regime at issue was lawful in the light of the rules on State aid.</prem> <conc ID="D6">The second part of the third ground of appeal is, therefore, unfounded.</conc>
+<prem ID="D5" T="F|L" S="Itpr"> Consequently, the General Court was entitled to find that there was nothing of relevance in the La Poste decision that could have given rise to any legitimate expectation on the part of FT that the tax regime at issue was lawful in the light of the rules on State aid.</prem> <conc ID="D6" SUP="D5">The second part of the third ground of appeal is, therefore, unfounded.</conc>
 
 74 In the light of the foregoing considerations, the third ground of appeal must be rejected in its entirety. 
 
@@ -477,7 +477,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 80 
 
-<prem ID="E1" T="L" S="Rule"> As regards the principle of limitation, Article 15(1) of Regulation No 659/1999 provides that the powers of the Commission to recover aid are to be subject to a limitation period of 10 years.</prem> <prem ID="E2" T="L" S="Rule"> It is apparent from Article 15(2) of the regulation that the limitation period does not begin to run until on the day on which the unlawful aid is awarded to the beneficiary.</prem> <prem ID="E3" T="L" S="Rule"> Consequently, the decisive factor in determining the starting point of the limitation period referred to in Article 15 is when the aid was in fact granted.</prem>
+<prem ID="E1" T="L" S="Rule"> As regards the principle of limitation, Article 15(1) of Regulation No 659/1999 provides that the powers of the Commission to recover aid are to be subject to a limitation period of 10 years.</prem> <prem ID="E2" T="L" S="Rule"> It is apparent from Article 15(2) of the regulation that the limitation period does not begin to run until on the day on which the unlawful aid is awarded to the beneficiary.</prem> <prem ID="E3" T="L" S="Rule" SUP="E1|E2"> Consequently, the decisive factor in determining the starting point of the limitation period referred to in Article 15 is when the aid was in fact granted.</prem>
 
 81 
 
@@ -501,7 +501,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 86 
 
-<prem ID="E11" T="F"> The General Court was therefore correct in finding, at paragraph 324 of the judgment under appeal, that, in view of the annual nature of business tax, the aid at issue could not be regarded as having been awarded before the year 1994, because that was the year in which the binding legal acts were adopted which made it possible, for the first time, to establish the existence of a tax differential.</prem>
+<prem ID="E11" T="F" SUP="E3|E4|E7|E8|E9|E10"> The General Court was therefore correct in finding, at paragraph 324 of the judgment under appeal, that, in view of the annual nature of business tax, the aid at issue could not be regarded as having been awarded before the year 1994, because that was the year in which the binding legal acts were adopted which made it possible, for the first time, to establish the existence of a tax differential.</prem>
 
 87 
 
@@ -509,7 +509,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 88 
 
-<prem ID="E13" T="L" S="Prec"> Lastly, as regards the argument that the General Court failed to have regard to the obligation to state reasons in relation to the principle of limitation, it is settled case-law that that court is not thereby required to provide an account that follows exhaustively and point by point all the reasoning articulated by the parties to the case.</prem> <prem ID="E14" T="L" S="Prec"> The reasoning may therefore be implicit on condition that it enables the persons concerned to know why the measures in question were taken and provides the competent court with sufficient material for it to exercise its power of review (see Case C‑105/04 P Nederlandse Federatieve Vereniging voor de Groothandel op Electrotechnisch Gebied v Commission [2006] ECR I‑8725, paragraph 72; and Case C‑3/06 P Groupe Danone v Commission [2007] ECR I‑1331, paragraph 46).</prem>
+<prem ID="E13" T="L" S="Prec"> Lastly, as regards the argument that the General Court failed to have regard to the obligation to state reasons in relation to the principle of limitation, it is settled case-law that that court is not thereby required to provide an account that follows exhaustively and point by point all the reasoning articulated by the parties to the case.</prem> <prem ID="E14" T="L" S="Prec" SUP="E13"> The reasoning may therefore be implicit on condition that it enables the persons concerned to know why the measures in question were taken and provides the competent court with sufficient material for it to exercise its power of review (see Case C‑105/04 P Nederlandse Federatieve Vereniging voor de Groothandel op Electrotechnisch Gebied v Commission [2006] ECR I‑8725, paragraph 72; and Case C‑3/06 P Groupe Danone v Commission [2007] ECR I‑1331, paragraph 46).</prem>
 
 89 
 
@@ -519,7 +519,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 <prem ID="E16" T="F|L" S="Itpr"> In those circumstances, the Court finds that the General Court responded to the requisite legal standard to the arguments relating to the principle of limitation relied on by FT and did not disregard the requirement to state reasons established in the case-law cited at paragraph 88 above.</prem>
 
-91 <conc ID="E17"> In the light of all the foregoing considerations, the fourth ground of appeal cannot be accepted. </conc>
+91 <conc ID="E17" SUP="E11|E12|E16"> In the light of all the foregoing considerations, the fourth ground of appeal cannot be accepted. </conc>
 
  The fifth ground of appeal, alleging an error of law and failure to state reasons in the judgment under appeal in relation to the arguments alleging breach of the principle of legal certainty
 
@@ -553,7 +553,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 101 
 
-<prem ID="F2" T="F"> As regards the argument relied on in support of the fifth ground of appeal, it should be observed that the General Court pointed out, at paragraph 301 of the judgment under appeal, that, on the basis of the Commission’s estimates, the aid at issue amounted to between EUR 798 million and EUR 1 140 million.</prem> <prem ID="F3" T="L|F" S="Prec">Since those figures delimit the range within which the final amount was to be established, the General Court found, referring in particular to paragraphs 31 to 40 of Commission v France, that the contested decision contained the appropriate information to enable that amount to be determined without too much difficulty.</prem>
+<prem ID="F2" T="F"> As regards the argument relied on in support of the fifth ground of appeal, it should be observed that the General Court pointed out, at paragraph 301 of the judgment under appeal, that, on the basis of the Commission’s estimates, the aid at issue amounted to between EUR 798 million and EUR 1 140 million.</prem> <prem ID="F3" T="L|F" S="Prec" SUP="F2">Since those figures delimit the range within which the final amount was to be established, the General Court found, referring in particular to paragraphs 31 to 40 of Commission v France, that the contested decision contained the appropriate information to enable that amount to be determined without too much difficulty.</prem>
 
 102 
 
@@ -561,19 +561,19 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 103 
 
-<prem ID="F6" T="F" S="Prec"> Thus, the General Court stated, at paragraphs 302 and 303 of the judgment under appeal, that that range was based on estimates provided by the French authorities during the administrative procedure and that, since that Member State had been unable to calculate exactly the amount of the advantage from which FT had benefited under the regime at issue, the Commission was entitled to rely on the data thus provided.</prem>
+<prem ID="F6" T="F" S="Prec" SUP="F1|F3|F4|F5"> Thus, the General Court stated, at paragraphs 302 and 303 of the judgment under appeal, that that range was based on estimates provided by the French authorities during the administrative procedure and that, since that Member State had been unable to calculate exactly the amount of the advantage from which FT had benefited under the regime at issue, the Commission was entitled to rely on the data thus provided.</prem>
 
 104 
 
-<prem ID="F7" T="F"> In those circumstances, the General Court correctly concluded, at paragraph 305 of the judgment under appeal, that the contested decision did not constitute a breach of the principle of legal certainty.</prem>
+<prem ID="F7" T="F" SUP="F6"> In those circumstances, the General Court correctly concluded, at paragraph 305 of the judgment under appeal, that the contested decision did not constitute a breach of the principle of legal certainty.</prem>
 
 105 
 
-<prem ID="F8" T="L" S="Prec"> It follows from the foregoing that neither the French Republic nor FT can rely on that principle in order to prevent recovery of unlawful aid (see Case C‑148/04 Unicredito Italiano [2005] ECR I‑11137, paragraph 104).</prem>
+<prem ID="F8" T="L" S="Prec" SUP="F6"> It follows from the foregoing that neither the French Republic nor FT can rely on that principle in order to prevent recovery of unlawful aid (see Case C‑148/04 Unicredito Italiano [2005] ECR I‑11137, paragraph 104).</prem>
 
 106 
 
-<prem ID="F9" T="F|L" S="Itpr"> The General Court was therefore entitled to find that the contested decision is not vitiated by unlawfulness because it simply refers to an indicative range as regards the amount of aid to be recovered.</prem>
+<prem ID="F9" T="F|L" S="Itpr" SUP="F6"> The General Court was therefore entitled to find that the contested decision is not vitiated by unlawfulness because it simply refers to an indicative range as regards the amount of aid to be recovered.</prem>
 
 107 
 
@@ -581,7 +581,7 @@ The second part of the third ground of appeal, alleging an error in law as to th
 
 108 
 
-<conc ID="F11"> The fifth ground of appeal relied on by FT cannot succeed and it must therefore be rejected in its entirety.</conc>
+<conc ID="F11" SUP="F7|F8|F9|F10"> The fifth ground of appeal relied on by FT cannot succeed and it must therefore be rejected in its entirety.</conc>
 
  Costs
 

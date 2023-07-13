@@ -345,7 +345,7 @@ Findings of the Court
 59
 
 
- <prem ID="A1" T="L" S="Aut|Class|Rule">It must be observed at the outset that, as the Advocate General stated in point 47 of his Opinion, the requirement as to selectivity under Article 107(1) TFEU must be clearly distinguished from the concomitant detection of an economic advantage, in that, where the Commission has identified an advantage, understood in a broad sense, as arising directly or indirectly from a particular measure, it is also required to establish that that advantage specifically benefits one or more undertakings.</prem> <prem ID="A2" T="L" S="Itpr">It falls to the Commission to show that the measure, in particular, creates differences between undertakings which, with regard to the objective of the measure, are in a comparable situation.</prem> <prem ID="A3" T="L" S="Itpr">It is necessary therefore that the advantage be granted selectively and that it be liable to place certain undertakings in a more favourable situation than that of others.</prem>
+ <prem ID="A1" T="L" S="Aut|Class|Rule">It must be observed at the outset that, as the Advocate General stated in point 47 of his Opinion, the requirement as to selectivity under Article 107(1) TFEU must be clearly distinguished from the concomitant detection of an economic advantage, in that, where the Commission has identified an advantage, understood in a broad sense, as arising directly or indirectly from a particular measure, it is also required to establish that that advantage specifically benefits one or more undertakings.</prem> <prem ID="A2" T="L" S="Itpr">It falls to the Commission to show that the measure, in particular, creates differences between undertakings which, with regard to the objective of the measure, are in a comparable situation.</prem> <prem ID="A3" T="L" SUP="A1|A2" S="Itpr">It is necessary therefore that the advantage be granted selectively and that it be liable to place certain undertakings in a more favourable situation than that of others.</prem>
 
 60
 
@@ -355,12 +355,12 @@ Findings of the Court
 61
 
 
-<prem ID="A7" T="F">It follows that the appropriate comparator for establishing the selectivity of the measure at issue in the present case was to ascertain whether the procedure for concluding and setting the terms and conditions of the agreement extending mining rights, laid down in Article 26/A(5) of the Mining Act, draws a distinction between operators that are, in the light of the objective of the measure, in a comparable factual and legal situation, a distinction not justified by the nature and general scheme of the system at issue .</prem>
+<prem ID="A7" T="F" SUP="A4|A5|A6">It follows that the appropriate comparator for establishing the selectivity of the measure at issue in the present case was to ascertain whether the procedure for concluding and setting the terms and conditions of the agreement extending mining rights, laid down in Article 26/A(5) of the Mining Act, draws a distinction between operators that are, in the light of the objective of the measure, in a comparable factual and legal situation, a distinction not justified by the nature and general scheme of the system at issue .</prem>
 
 62
 
 
-<prem ID="A8" T="F">It follows from those considerations that the present case must be clearly distinguished from those cases giving rise to the case-law mentioned by the Commission in support of its arguments, set out in paragraphs 54 and 56 above, seeking to criticise the analysis made by the General Court of the legal framework governing the 2005 agreement.</prem>
+<prem ID="A8" T="F" SUP="A7|A9|A10|A11">It follows from those considerations that the present case must be clearly distinguished from those cases giving rise to the case-law mentioned by the Commission in support of its arguments, set out in paragraphs 54 and 56 above, seeking to criticise the analysis made by the General Court of the legal framework governing the 2005 agreement.</prem>
 
 63
 
@@ -375,7 +375,7 @@ Findings of the Court
 65
 
 
-<prem ID="A12" T="F">Consequently, it must be stated, first, that the General Court correctly held in paragraph 72 of the judgment under appeal that the margin of assessment at issue in the present case allows the fixing of an additional charge imposed on economic operators in order to take account of the imperatives arising from the principle of equal treatment, and can be distinguished, by its very nature, from cases in which the exercise of such a margin is connected with the grant of an advantage in favour of a specific economic operator.</prem>
+<prem ID="A12" T="F" SUP="A8">Consequently, it must be stated, first, that the General Court correctly held in paragraph 72 of the judgment under appeal that the margin of assessment at issue in the present case allows the fixing of an additional charge imposed on economic operators in order to take account of the imperatives arising from the principle of equal treatment, and can be distinguished, by its very nature, from cases in which the exercise of such a margin is connected with the grant of an advantage in favour of a specific economic operator.</prem>
 
 66
 
@@ -395,17 +395,17 @@ Findings of the Court
 69
 
 
- <prem ID="A16" T="F">Following the analysis carried out in paragraphs 70 to 74 and 79 to 80 of the judgment under appeal, the General Court was right to conclude, in paragraph 81 of that judgment, that, in the light, first, of the absence of selectivity characterising the legal framework governing the conclusion of agreements extending mining rights and given the considerations justifying the grant of a margin of assessment, and secondly, of the absence of any evidence that those authorities treated MOL favourably in relation to any other undertaking in a comparable situation, the selective nature of the 2005 agreement cannot be regarded as established.</prem>
+ <prem ID="A16" T="F" SFF="A13|A14|A15">Following the analysis carried out in paragraphs 70 to 74 and 79 to 80 of the judgment under appeal, the General Court was right to conclude, in paragraph 81 of that judgment, that, in the light, first, of the absence of selectivity characterising the legal framework governing the conclusion of agreements extending mining rights and given the considerations justifying the grant of a margin of assessment, and secondly, of the absence of any evidence that those authorities treated MOL favourably in relation to any other undertaking in a comparable situation, the selective nature of the 2005 agreement cannot be regarded as established.</prem>
 
 70
 
 
-<prem ID="A17" T="F">In the light of all the above considerations, it must be held that the General Court did not err in law in its examination, in paragraphs 70 to 74 and 79 to 81 of the judgment under appeal, of the legal framework governing the conclusion of the 2005 agreement.</prem>
+<prem ID="A17" T="F" SUP="A3|A7|A12|A6">In the light of all the above considerations, it must be held that the General Court did not err in law in its examination, in paragraphs 70 to 74 and 79 to 81 of the judgment under appeal, of the legal framework governing the conclusion of the 2005 agreement.</prem>
 
 71
 
 
- <conc ID="A18">The first part of the single ground of appeal must, therefore, be rejected as unfounded.</conc> 
+ <conc ID="A18" SUP="A17">The first part of the single ground of appeal must, therefore, be rejected as unfounded.</conc> 
 
 Second part of the single ground of appeal
 
@@ -436,17 +436,17 @@ Findings of the Court
 76
 
 
-<prem ID="B2" T="F">In order to do so, the General Court examined whether or not the mining fee rate was set on the basis of objective criteria applicable to any potentially interested operator.</prem> <prem ID="B3" T="F">Thus, the General Court noted first, in paragraph 76 of the judgment under appeal, that the Mining Act was drafted in general terms as regards the undertakings eligible for the extension of mining rights.</prem> <prem ID="B4" T="F">Next, the General Court found, in paragraph 77 of that judgment, that the fact that MOL was the only undertaking to have concluded an extension agreement in the hydrocarbons sector did not necessarily constitute evidence of selectivity, since the criteria for concluding such an agreement are objective and applicable to any potentially interested operator, and the absence of other agreements may result from decisions by undertakings themselves not to apply for an extension of mining rights.</prem> <prem ID="B5" T="F">Lastly, the General Court stated, in paragraph 78 of the judgment under appeal, that the mining fees set for the term of the 2005 agreement stem simply from the application of the provisions of the Mining Act .</prem>
+<prem ID="B2" T="F">In order to do so, the General Court examined whether or not the mining fee rate was set on the basis of objective criteria applicable to any potentially interested operator.</prem> <prem ID="B3" T="F" SUP="B2">Thus, the General Court noted first, in paragraph 76 of the judgment under appeal, that the Mining Act was drafted in general terms as regards the undertakings eligible for the extension of mining rights.</prem> <prem ID="B4" T="F" SUP="B2">Next, the General Court found, in paragraph 77 of that judgment, that the fact that MOL was the only undertaking to have concluded an extension agreement in the hydrocarbons sector did not necessarily constitute evidence of selectivity, since the criteria for concluding such an agreement are objective and applicable to any potentially interested operator, and the absence of other agreements may result from decisions by undertakings themselves not to apply for an extension of mining rights.</prem> <prem ID="B5" T="F" SUP="B2">Lastly, the General Court stated, in paragraph 78 of the judgment under appeal, that the mining fees set for the term of the 2005 agreement stem simply from the application of the provisions of the Mining Act .</prem>
 
 77
 
 
-<prem ID="B6" T="F">It follows from those arguments that, in criticising the General Court for holding that the presence of objective criteria necessarily rules out any possibility of selectivity and for having consequently disregarded the case-law to the effect that a particular aid scheme cannot be cleared of being selective solely on the ground that the beneficiaries are selected on the basis of objective criteria (judgments in Spain v Commission, C‑409/00, EU:C:2003:92, paragraph 49, and GEMO, C‑126/01, EU:C:2003:622, paragraphs 35 and 39), the Commission misreads the judgment under appeal.</prem>
+<prem ID="B6" T="F" SUP="B3|B4|B5">It follows from those arguments that, in criticising the General Court for holding that the presence of objective criteria necessarily rules out any possibility of selectivity and for having consequently disregarded the case-law to the effect that a particular aid scheme cannot be cleared of being selective solely on the ground that the beneficiaries are selected on the basis of objective criteria (judgments in Spain v Commission, C‑409/00, EU:C:2003:92, paragraph 49, and GEMO, C‑126/01, EU:C:2003:622, paragraphs 35 and 39), the Commission misreads the judgment under appeal.</prem>
 
 78
 
 
- <prem ID="B7" T="F">In any event, it must be stated that, as MOL contends, in the cases giving rise to those judgments, the Court of Justice addressed the issue of whether or not the beneficiaries of State aid schemes were selected on the basis of objective criteria.</prem> <prem ID="B8" T="F">Thus, in particular in the judgment in GEMO (C‑126/01, EU:C:2003:622), the Court found that, despite the fact that the beneficiaries of the scheme adopted by national law were defined on the basis of objective and apparently general criteria, the benefits of that law accrued largely to farmers and slaughterhouses .</prem>
+ <prem ID="B7" T="F">In any event, it must be stated that, as MOL contends, in the cases giving rise to those judgments, the Court of Justice addressed the issue of whether or not the beneficiaries of State aid schemes were selected on the basis of objective criteria.</prem> <prem ID="B8" T="F" SUP="B7" INH="B9">Thus, in particular in the judgment in GEMO (C‑126/01, EU:C:2003:622), the Court found that, despite the fact that the beneficiaries of the scheme adopted by national law were defined on the basis of objective and apparently general criteria, the benefits of that law accrued largely to farmers and slaughterhouses .</prem>
 
 79
 
@@ -456,7 +456,7 @@ Findings of the Court
 80
 
 
- <conc ID="B10">Therefore, the second part of the single ground of appeal must be rejected as unfounded.</conc>
+ <conc ID="B10" SUP="B1|B6|B9">Therefore, the second part of the single ground of appeal must be rejected as unfounded.</conc>
 
 The third and fourth parts of the single ground of appeal
 
@@ -532,12 +532,12 @@ Findings of the Court
 94
 
 
-<prem ID="C8" T="F">It was in the light of those considerations that the General Court, in paragraph 68 of the judgment under appeal, decided that it was necessary to examine whether, in those proceedings, the Commission was entitled to consider that the contested measure was selective.</prem>
+<prem ID="C8" T="F" SUP="C1|C2|C3|C4|C5|C6|C7">It was in the light of those considerations that the General Court, in paragraph 68 of the judgment under appeal, decided that it was necessary to examine whether, in those proceedings, the Commission was entitled to consider that the contested measure was selective.</prem>
 
 95
 
 
- <prem ID="C9" T="F">It follows from the foregoing that, as MOL contends, paragraphs 64 to 67 of the judgment under appeal do not, as such, concern the examination of the selectivity of the 2005 agreement, but are preliminary explanations aimed at introducing the relevant framework in relation to which the General Court examined whether the Commission was correct in finding that the measure at issue was selective. </prem>
+ <prem ID="C9" T="F" SUP="C8">It follows from the foregoing that, as MOL contends, paragraphs 64 to 67 of the judgment under appeal do not, as such, concern the examination of the selectivity of the 2005 agreement, but are preliminary explanations aimed at introducing the relevant framework in relation to which the General Court examined whether the Commission was correct in finding that the measure at issue was selective. </prem>
 
 96
 
@@ -557,17 +557,17 @@ Findings of the Court
 99
 
 
-<prem ID="C14" T="F">It follows that the General Court’s reasoning in paragraphs 64 to 67 and 82 of the judgment under appeal is not vitiated by any error of law.</prem>
+<prem ID="C14" T="F" SUP="C9|C10|C11|C12">It follows that the General Court’s reasoning in paragraphs 64 to 67 and 82 of the judgment under appeal is not vitiated by any error of law.</prem>
 
 100
 
 
- <prem ID="C15" T="F">In addition, it must be stated that the Commission’s assertion that what is relevant is that, after 8 January 2008, MOL was the only undertaking to enjoy preferential treatment cannot be accepted.</prem> <prem ID="C16" T="F">It is common ground in the present case, as is clear from paragraph 46 of the judgment under appeal, that the question whether the measure at issue is selective in nature was discussed by the parties solely in respect of the 2005 agreement, and not the 2008 amendment.</prem>
+ <prem ID="C15" T="F" SUP="C16">In addition, it must be stated that the Commission’s assertion that what is relevant is that, after 8 January 2008, MOL was the only undertaking to enjoy preferential treatment cannot be accepted.</prem> <prem ID="C16" T="F">It is common ground in the present case, as is clear from paragraph 46 of the judgment under appeal, that the question whether the measure at issue is selective in nature was discussed by the parties solely in respect of the 2005 agreement, and not the 2008 amendment.</prem>
 
 101
 
 
- <conc ID="C17">In the light of all of the foregoing, the third and fourth parts of the single ground of appeal must be rejected as unfounded.</conc>
+ <conc ID="C17" SUP="C14|C16">In the light of all of the foregoing, the third and fourth parts of the single ground of appeal must be rejected as unfounded.</conc>
 
 102
 

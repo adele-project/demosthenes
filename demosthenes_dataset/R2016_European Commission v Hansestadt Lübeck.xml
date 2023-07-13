@@ -173,12 +173,12 @@ Findings of the Court
 18
 
 
-<prem ID="A5" T="F">The General Court inferred therefrom, in paragraph 32 of the judgment under appeal, that FL was vested, in its capacity as the operator of Lübeck Airport, with a power of its own in respect of the setting of the airport charges applicable to that airport and was not acting solely as an extension of the State by exercising powers conferred solely upon the latter.</prem> <prem ID="A6" T="F">Thus, according to the General Court, the power to adopt the 2006 schedule lay with FL and not the State authorities, notwithstanding the requirement that the supervisory authority approve that schedule.</prem>
+<prem ID="A5" T="F">The General Court inferred therefrom, in paragraph 32 of the judgment under appeal, that FL was vested, in its capacity as the operator of Lübeck Airport, with a power of its own in respect of the setting of the airport charges applicable to that airport and was not acting solely as an extension of the State by exercising powers conferred solely upon the latter.</prem> <prem ID="A6" T="F" SUP="A5">Thus, according to the General Court, the power to adopt the 2006 schedule lay with FL and not the State authorities, notwithstanding the requirement that the supervisory authority approve that schedule.</prem>
 
 19
 
 
- <prem ID="A7" T="F">It is apparent that the General Court thus, in the light of the applicable national law, took the view that FL had — beyond the power to propose to the supervisory authority the schedule setting the airport charges applicable to Lübeck Airport — a power of its own to adopt that schedule.</prem>
+ <prem ID="A7" T="F" SUP="A1|A2|A3|A4|A6">It is apparent that the General Court thus, in the light of the applicable national law, took the view that FL had — beyond the power to propose to the supervisory authority the schedule setting the airport charges applicable to Lübeck Airport — a power of its own to adopt that schedule.</prem>
 
 20
 
@@ -193,7 +193,7 @@ Findings of the Court
 22
 
 
- <conc ID="A11">Therefore, the first ground of appeal must be dismissed as inadmissible.</conc>
+ <conc ID="A11" SUP="A7|A8" SFF="A9|A10">Therefore, the first ground of appeal must be dismissed as inadmissible.</conc>
 
  Second ground of appeal: the City of Lübeck did not have a current legal interest in bringing proceedings
 
@@ -219,12 +219,12 @@ Findings of the Court
 26
 
 
- <prem ID="B1" T="L" S="Prec">In accordance with the Court’s settled case-law, an applicant’s interest in bringing proceedings must, in the light of the purpose of the action, exist when the action is lodged, failing which the action will be inadmissible.</prem> <prem ID="B2" T="L" S="Prec">That purpose must, like the interest in bringing proceedings, continue to exist until the final decision, failing which there will be no need to adjudicate;</prem> <prem ID="B3" T="L" S="Prec">this presupposes that the action must be liable, if successful, to procure an advantage for the party bringing it (judgment of 28 May 2013, Abdulrahim v Council and Commission, C‑239/12 P, EU:C:2013:331, paragraph 61 and the case-law cited).</prem>
+ <prem ID="B1" T="L" S="Prec">In accordance with the Court’s settled case-law, an applicant’s interest in bringing proceedings must, in the light of the purpose of the action, exist when the action is lodged, failing which the action will be inadmissible.</prem> <prem ID="B2" T="L" S="Prec">That purpose must, like the interest in bringing proceedings, continue to exist until the final decision, failing which there will be no need to adjudicate;</prem> <prem ID="B3" T="L" SUP="B2" S="Prec">this presupposes that the action must be liable, if successful, to procure an advantage for the party bringing it (judgment of 28 May 2013, Abdulrahim v Council and Commission, C‑239/12 P, EU:C:2013:331, paragraph 61 and the case-law cited).</prem>
 
 27
 
 
-<prem ID="B4" T="F">In the present instance, in order to reject the Commission’s argument that the sale of Lübeck Airport to a private company on 1 January 2013 put an end to the aid scheme in question, so that the obligation to suspend that scheme no longer adversely affected the City of Lübeck and the latter therefore had no current interest in seeking the annulment of the decision at issue, the General Court held, as stated in paragraph 23 of the present judgment, that, since the formal investigation procedure was not closed, that decision still produced effects and that the City of Lübeck at the very least retained an interest in bringing proceedings in respect of the period before the airport was sold.</prem>
+<prem ID="B4" T="F" REPH="B4">In the present instance, in order to reject the Commission’s argument that the sale of Lübeck Airport to a private company on 1 January 2013 put an end to the aid scheme in question, so that the obligation to suspend that scheme no longer adversely affected the City of Lübeck and the latter therefore had no current interest in seeking the annulment of the decision at issue, the General Court held, as stated in paragraph 23 of the present judgment, that, since the formal investigation procedure was not closed, that decision still produced effects and that the City of Lübeck at the very least retained an interest in bringing proceedings in respect of the period before the airport was sold.</prem>
 
 28
 
@@ -239,17 +239,17 @@ Findings of the Court
 30
 
 
-<prem ID="B11" T="L|F" S="Prec|Itpr">Thus, it is clear from the case-law of the Court of Justice that, contrary to the Commission’s submissions, the obligation to suspend the implementation of the measure in question is not the only legal effect of a decision to initiate the formal investigation procedure.</prem>
+<prem ID="B11" T="L|F" SUP="B8|B9|B10" S="Prec|Itpr">Thus, it is clear from the case-law of the Court of Justice that, contrary to the Commission’s submissions, the obligation to suspend the implementation of the measure in question is not the only legal effect of a decision to initiate the formal investigation procedure.</prem>
 
 31
 
 
-<prem ID="B12" T="F">In the present instance, in the light of that case-law it is apparent that, as the General Court stated, after the privatisation of Lübeck Airport the City of Lübeck remained at least exposed to the risk that a national court might order the recovery of any aid granted when FL owned the airport.</prem> <prem ID="B13" T="F">The General Court was therefore correct in holding that, in the absence of a final decision of the Commission closing the formal investigation procedure, the effects of the decision at issue endured, so that the City of Lübeck retained an interest in bringing proceedings seeking the annulment of that decision.</prem>
+<prem ID="B12" T="F" REPH="B4">In the present instance, in the light of that case-law it is apparent that, as the General Court stated, after the privatisation of Lübeck Airport the City of Lübeck remained at least exposed to the risk that a national court might order the recovery of any aid granted when FL owned the airport.</prem> <prem ID="B13" T="F" SUP="B1|B3|B4|B5|B6|B7|B11|B12">The General Court was therefore correct in holding that, in the absence of a final decision of the Commission closing the formal investigation procedure, the effects of the decision at issue endured, so that the City of Lübeck retained an interest in bringing proceedings seeking the annulment of that decision.</prem>
 
 32
 
 
- <conc ID="B14">Consequently, the second ground of appeal must be dismissed as unfounded.</conc>
+ <conc ID="B14" SUP="B13">Consequently, the second ground of appeal must be dismissed as unfounded.</conc>
 
  Third ground of appeal: incorrect assessment of the selectivity of the 2006 schedule
 
@@ -326,7 +326,7 @@ Findings of the Court
 46
 
 
-<prem ID="C8" T="F">In the light of those considerations, the General Court held, in paragraphs 54 and 55 of the judgment under appeal, that the mere fact that the 2006 schedule applied only to airlines using Lübeck Airport was not relevant for the purpose of finding that that schedule was selective and that, since it was not disputed that all the airlines could benefit from the pricing provisions of that schedule, ‘the Commission was wrong, in the light of the statement of reasons contained in the [decision at issue], to have found that the 2006 schedule was selective’.</prem>
+<prem ID="C8" T="F" SUP="C1||C1bis|C1ter|C1quater|C1quinquies|C2|C3|C4|C5|C6|C7|C9">In the light of those considerations, the General Court held, in paragraphs 54 and 55 of the judgment under appeal, that the mere fact that the 2006 schedule applied only to airlines using Lübeck Airport was not relevant for the purpose of finding that that schedule was selective and that, since it was not disputed that all the airlines could benefit from the pricing provisions of that schedule, ‘the Commission was wrong, in the light of the statement of reasons contained in the [decision at issue], to have found that the 2006 schedule was selective’.</prem>
 
 47
 
@@ -341,17 +341,17 @@ Findings of the Court
 49
 
 
-<prem ID="C11" T="L" S="Itpr">Accordingly, whilst it cannot be ruled out that a measure by which a public undertaking lays down the conditions for the use of its goods or services is selective despite applying to all the undertakings using those goods or services, it is necessary, in order to determine whether that is the case, to have regard not to the nature of that measure but to its effects, by examining whether the advantage which it is supposed to procure in fact benefits only some of those undertakings as opposed to others, although, in the light of the objective pursued by the regime concerned, all of the undertakings are in a comparable factual and legal situation .</prem>
+<prem ID="C11" T="L" SUP="C10" S="Itpr">Accordingly, whilst it cannot be ruled out that a measure by which a public undertaking lays down the conditions for the use of its goods or services is selective despite applying to all the undertakings using those goods or services, it is necessary, in order to determine whether that is the case, to have regard not to the nature of that measure but to its effects, by examining whether the advantage which it is supposed to procure in fact benefits only some of those undertakings as opposed to others, although, in the light of the objective pursued by the regime concerned, all of the undertakings are in a comparable factual and legal situation .</prem>
 
 50
 
 
-<prem ID="C12" T="F">It follows that the Commission’s principal line of argument, set out in paragraph 34 of the present judgment, that a measure laying down the conditions on which a public undertaking offers its own goods or services always constitutes a selective measure, is unfounded.</prem>
+<prem ID="C12" T="F" SFF="C13">It follows that the Commission’s principal line of argument, set out in paragraph 34 of the present judgment, that a measure laying down the conditions on which a public undertaking offers its own goods or services always constitutes a selective measure, is unfounded.</prem>
 
 51
 
 
-<prem ID="C13" T="F">That assessment is not called into question by the Commission’s contention, referred to in paragraph 35 of the present judgment, that it does not matter, for the purpose of deciding whether there is aid, that such a measure applies in a non-discriminatory manner to all of the undertakings using or able to use those goods or services or by the argument that the General Court wrongly relied on the case-law relating to tax measures.</prem>
+<prem ID="C13" T="F" INH="C16|C19|C20">That assessment is not called into question by the Commission’s contention, referred to in paragraph 35 of the present judgment, that it does not matter, for the purpose of deciding whether there is aid, that such a measure applies in a non-discriminatory manner to all of the undertakings using or able to use those goods or services or by the argument that the General Court wrongly relied on the case-law relating to tax measures.</prem>
 
 52
 
@@ -361,17 +361,17 @@ Findings of the Court
 53
 
 
- <prem ID="C15" T="L" S="Prec">The examination of whether such a measure is selective is thus, in essence, coextensive with the examination of whether it applies to that set of economic operators in a non-discriminatory manner (see, to that effect, judgment of 14 January 2015, Eventech, C‑518/13, EU:C:2015:9, paragraph 53).</prem> <prem ID="C16" T="L" S="Itpr|Aut">The concept of selectivity, as the Advocate General states in point 75 of his Opinion, is thus linked to that of discrimination.</prem>
+ <prem ID="C15" T="L" S="Prec" SUP="C14">The examination of whether such a measure is selective is thus, in essence, coextensive with the examination of whether it applies to that set of economic operators in a non-discriminatory manner (see, to that effect, judgment of 14 January 2015, Eventech, C‑518/13, EU:C:2015:9, paragraph 53).</prem> <prem ID="C16" T="L" S="Itpr|Aut" SUP="C15">The concept of selectivity, as the Advocate General states in point 75 of his Opinion, is thus linked to that of discrimination.</prem>
 
 54
 
 
-<prem ID="C17" T="L" S="Prec">Secondly, as is also apparent from that case-law, that examination of selectivity must be carried out within the context of ‘a particular legal regime’.</prem> <prem ID="C18" T="L" S="Prec">In order to determine whether a measure is selective, it should therefore be examined whether, within the context of a specified legal regime, that measure constitutes an advantage for certain undertakings over others which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation (judgments of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56, and of 28 July 2011, Mediaset v Commission, C‑403/10 P, not published, EU:C:2011:533, paragraph 36).</prem>
+<prem ID="C17" T="L" S="Prec">Secondly, as is also apparent from that case-law, that examination of selectivity must be carried out within the context of ‘a particular legal regime’.</prem> <prem ID="C18" T="L" S="Prec" SUP="C17">In order to determine whether a measure is selective, it should therefore be examined whether, within the context of a specified legal regime, that measure constitutes an advantage for certain undertakings over others which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation (judgments of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56, and of 28 July 2011, Mediaset v Commission, C‑403/10 P, not published, EU:C:2011:533, paragraph 36).</prem>
 
 55
 
 
-<prem ID="C19" T="L" S="Itpr">That examination therefore in principle requires prior definition of the reference framework within which the measure concerned fits.</prem> <prem ID="C20" T="L" S="Aut|Prec">As the Advocate General argues in points 77 and 86 to 89 of his Opinion, this method is not limited solely to the examination of tax measures, the Court having merely observed that the determination of the reference framework is of particular importance in the case of tax measures since the very existence of an advantage may be established only when compared with ‘normal’ taxation (judgment of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56).</prem>
+<prem ID="C19" T="L" SUP="C16|C18" S="Itpr">That examination therefore in principle requires prior definition of the reference framework within which the measure concerned fits.</prem> <prem ID="C20" T="L" S="Aut|Prec">As the Advocate General argues in points 77 and 86 to 89 of his Opinion, this method is not limited solely to the examination of tax measures, the Court having merely observed that the determination of the reference framework is of particular importance in the case of tax measures since the very existence of an advantage may be established only when compared with ‘normal’ taxation (judgment of 6 September 2006, Portugal v Commission, C‑88/03, EU:C:2006:511, paragraph 56).</prem>
 
 56
 
@@ -386,17 +386,17 @@ Findings of the Court
 58
 
 
- <prem ID="C23" T="L" S="Itpr">In the second place, contrary to the Commission’s contentions, a measure which benefits only one economic sector or some of the undertakings in that sector is not necessarily selective.</prem> <prem ID="C24" T="L" S="Itpr">It is selective, as follows from the reasoning set out in paragraphs 41 and 47 to 55 of the present judgment, only if, within the context of a particular legal regime, it has the effect of conferring an advantage on certain undertakings over others, in a different sector or the same sector, which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation.</prem>
+ <prem ID="C23" T="L" S="Itpr">In the second place, contrary to the Commission’s contentions, a measure which benefits only one economic sector or some of the undertakings in that sector is not necessarily selective.</prem> <prem ID="C24" T="L" SUP="C2|C3|C9|C9bis|C19" S="Itpr">It is selective, as follows from the reasoning set out in paragraphs 41 and 47 to 55 of the present judgment, only if, within the context of a particular legal regime, it has the effect of conferring an advantage on certain undertakings over others, in a different sector or the same sector, which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation.</prem>
 
 59
 
 
-<prem ID="C25" T="F">Likewise,the fact that, in the present instance, Lübeck Airport is in direct competition with Hamburg Airport or other German airports and that only airlines using Lübeck Airport benefit from any advantages conferred by the 2006 schedule is not sufficient to establish that that schedule is selective.</prem> <prem ID="C26" T="F">In order for the 2006 schedule to be selective, it would have to be established that, within the context of a legal regime under which all those airports fall, that schedule confers an advantage on airlines using Lübeck Airport to the detriment of airlines using the other airports which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation.</prem>
+<prem ID="C25" T="F" SUP="C26|C23|C24">Likewise,the fact that, in the present instance, Lübeck Airport is in direct competition with Hamburg Airport or other German airports and that only airlines using Lübeck Airport benefit from any advantages conferred by the 2006 schedule is not sufficient to establish that that schedule is selective.</prem> <prem ID="C26" T="F">In order for the 2006 schedule to be selective, it would have to be established that, within the context of a legal regime under which all those airports fall, that schedule confers an advantage on airlines using Lübeck Airport to the detriment of airlines using the other airports which are, in the light of the objective pursued by that regime, in a comparable factual and legal situation.</prem>
 
 60
 
 
-<prem ID="C27" T="L" S="Itpr">In the third place, as follows from the reasoning set out in paragraphs 52 to 55 of the present judgment, determination of the set of undertakings which are in a comparable factual and legal situation depends on the prior definition of the legal regime in the light of whose objective it must, as the case may be, be examined whether the factual and legal situation of the undertakings favoured by the measure in question is comparable with that of those which are not.</prem>
+<prem ID="C27" T="L" SUP="C19" S="Itpr">In the third place, as follows from the reasoning set out in paragraphs 52 to 55 of the present judgment, determination of the set of undertakings which are in a comparable factual and legal situation depends on the prior definition of the legal regime in the light of whose objective it must, as the case may be, be examined whether the factual and legal situation of the undertakings favoured by the measure in question is comparable with that of those which are not.</prem>
 
 61
 
@@ -406,28 +406,28 @@ Findings of the Court
 62
 
 
-<prem ID="C29" T="F">It is clear from that finding that, in the present instance, it is not Paragraph 43a(1) of the LuftVZO or other legislation applicable to all airports — from which the 2006 schedule might have derogated in favour of airlines using Lübeck Airport — that lays down the airport charges applicable to an airport, but the schedule adopted for this purpose by the airport operator itself in the exercise of a power limited to that airport.</prem> <prem ID="C30" T="F" S="Aut">Accordingly, it is apparent that, as the Advocate General states in point 112 of his Opinion, the relevant reference framework for examining whether the 2006 schedule had the effect of favouring certain airlines over others which were in a comparable factual and legal situation was that of the regime applicable to Lübeck Airport alone.</prem>
+<prem ID="C29" T="F" SUP="C28">It is clear from that finding that, in the present instance, it is not Paragraph 43a(1) of the LuftVZO or other legislation applicable to all airports — from which the 2006 schedule might have derogated in favour of airlines using Lübeck Airport — that lays down the airport charges applicable to an airport, but the schedule adopted for this purpose by the airport operator itself in the exercise of a power limited to that airport.</prem> <prem ID="C30" T="F" SUP="C29" S="Aut">Accordingly, it is apparent that, as the Advocate General states in point 112 of his Opinion, the relevant reference framework for examining whether the 2006 schedule had the effect of favouring certain airlines over others which were in a comparable factual and legal situation was that of the regime applicable to Lübeck Airport alone.</prem>
 
 63
 
 
-<prem ID="C31" T="F">Accordingly, the General Court did not err in law when, after delimiting in this way the legal regime that was relevant in the present instance, it held that the airlines serving other German airports were not in a situation comparable to that of the airlines using Lübeck Airport.</prem>
+<prem ID="C31" T="F" SUP="C27|C30">Accordingly, the General Court did not err in law when, after delimiting in this way the legal regime that was relevant in the present instance, it held that the airlines serving other German airports were not in a situation comparable to that of the airlines using Lübeck Airport.</prem>
 
 64
 
 
-<prem ID="C32" T="F">Therefore, after pointing out that the 2006 schedule applied in a non-discriminatory manner to all airlines using or liable to use Lübeck Airport, the General Court was correct in holding, in the light of the statement of reasons for the decision at issue, that the Commission had wrongly found that the schedule was selective .</prem>
+<prem ID="C32" T="F" SUP="C31">Therefore, after pointing out that the 2006 schedule applied in a non-discriminatory manner to all airlines using or liable to use Lübeck Airport, the General Court was correct in holding, in the light of the statement of reasons for the decision at issue, that the Commission had wrongly found that the schedule was selective .</prem>
 
 65
 
 
-<prem ID="C33" T="F">Finally, the General Court cannot be criticised for having failed to examine whether the discounts provided for by the 2006 schedule were selective in that they are said to favour certain airlines using Lübeck Airport to the detriment of other airlines using it.</prem> <prem ID="C34" T="F">Whilst, as the Commission submits, the decision at issue contains a description of those discounts and a preliminary legal assessment, the fact remains that that assessment concerns only the existence of an advantage for the purposes of Article 107(1) TFEU and that the statement of reasons in the decision at issue concerning selectivity rests solely on the finding that the advantages in question benefitted only the airlines using Lübeck Airport.</prem> <prem ID="C35" T="F">Therefore, when examining the plea put forward by the City of Lübeck alleging that the Commission had infringed Article 107(1) TFEU in its assessment of the condition relating to selectivity, the General Court was correct in ruling on the legality of the decision at issue in the light solely of the grounds which formed the basis for that assessment.</prem>
+<prem ID="C33" T="F" INH="C34">Finally, the General Court cannot be criticised for having failed to examine whether the discounts provided for by the 2006 schedule were selective in that they are said to favour certain airlines using Lübeck Airport to the detriment of other airlines using it.</prem> <prem ID="C34" T="F">Whilst, as the Commission submits, the decision at issue contains a description of those discounts and a preliminary legal assessment, the fact remains that that assessment concerns only the existence of an advantage for the purposes of Article 107(1) TFEU and that the statement of reasons in the decision at issue concerning selectivity rests solely on the finding that the advantages in question benefitted only the airlines using Lübeck Airport.</prem> <prem ID="C35" T="F" SUP="C34">Therefore, when examining the plea put forward by the City of Lübeck alleging that the Commission had infringed Article 107(1) TFEU in its assessment of the condition relating to selectivity, the General Court was correct in ruling on the legality of the decision at issue in the light solely of the grounds which formed the basis for that assessment.</prem>
 
 
 66
 
 
- <conc ID="C36">It follows that the arguments advanced by the Commission in the alternative are unfounded.</conc>
+ <conc ID="C36" SUP="C12|C25|C32|C35" SFF="C13">It follows that the arguments advanced by the Commission in the alternative are unfounded.</conc>
 
 67
 
@@ -478,7 +478,7 @@ Findings of the Court
 75
 
 
- <conc ID="D6">The fourth ground of appeal must therefore be dismissed as unfounded.</conc>
+ <conc ID="D6" SUP="D1|D2|D3|D4" SFF="D5">The fourth ground of appeal must therefore be dismissed as unfounded.</conc>
 
  Fifth ground of appeal: disregard of the limits on judicial review of a decision to initiate the formal investigation procedure in relation to State aid
 
@@ -509,12 +509,12 @@ Findings of the Court
 80
 
 
-<prem ID="E3" T="F">The General Court was therefore correct in holding, in paragraph 59 of the judgment under appeal, that, in view of that reasoning, the decision at issue was vitiated by a manifest error of assessment and in annulling that decision in so far as it concerns the 2006 schedule.</prem>
+<prem ID="E3" T="F" SUP="E1|E2">The General Court was therefore correct in holding, in paragraph 59 of the judgment under appeal, that, in view of that reasoning, the decision at issue was vitiated by a manifest error of assessment and in annulling that decision in so far as it concerns the 2006 schedule.</prem>
 
 81
 
 
- <conc ID="E4">The fifth ground of appeal must consequently be dismissed as unfounded.</conc>
+ <conc ID="E4" SUP="E3">The fifth ground of appeal must consequently be dismissed as unfounded.</conc>
 
 82
 

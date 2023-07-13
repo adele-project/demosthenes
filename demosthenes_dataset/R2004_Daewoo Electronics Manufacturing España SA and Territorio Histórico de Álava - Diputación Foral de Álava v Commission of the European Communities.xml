@@ -294,10 +294,10 @@ Accordingly, the Court of First Instance was correct to find that there had been
 Findings of the Court
 
 44
- <prem ID="A1" T="L" S="Prec|Rule">It should be borne in mind, first, that in view of the mandatory nature of the review of State aid by the Commission under Article 93 of the Treaty, undertakings to which aid has been granted may not, in principle, entertain a legitimate expectation that the aid is lawful unless it has been granted in compliance with the procedure laid down in that article and, second, that a diligent businessman should normally be able to determine whether that procedure has been followed (Case C-5/89 Commission v Germany [1990] ECR I-3437, paragraph 14; Case C-169/95 Spain v Commission [1997] ECR I-135, paragraph 51; and Case C-24/95 Alcan Deutschland [1997] ECR I-1591, paragraph 25).</prem>
+ <prem ID="A1" T="L" S="Prec|Rule" INH="A4">It should be borne in mind, first, that in view of the mandatory nature of the review of State aid by the Commission under Article 93 of the Treaty, undertakings to which aid has been granted may not, in principle, entertain a legitimate expectation that the aid is lawful unless it has been granted in compliance with the procedure laid down in that article and, second, that a diligent businessman should normally be able to determine whether that procedure has been followed (Case C-5/89 Commission v Germany [1990] ECR I-3437, paragraph 14; Case C-169/95 Spain v Commission [1997] ECR I-135, paragraph 51; and Case C-24/95 Alcan Deutschland [1997] ECR I-1591, paragraph 25).</prem>
 
 45
-<prem ID="A2" T="L" S="Rule|Prec">In particular, where aid is paid without prior notification to the Commission, so that it is unlawful under Article 93(3) of the Treaty, the recipient of the aid cannot have at that time a legitimate expectation that its grant is lawful (see Alcan Deutschland, cited above, paragraphs 30 and 31).</prem>
+<prem ID="A2" T="L" S="Rule|Prec" INH="A4">In particular, where aid is paid without prior notification to the Commission, so that it is unlawful under Article 93(3) of the Treaty, the recipient of the aid cannot have at that time a legitimate expectation that its grant is lawful (see Alcan Deutschland, cited above, paragraphs 30 and 31).</prem>
 
 46
 
@@ -307,7 +307,7 @@ Findings of the Court
 <prem ID="A4" T="L|F" S="Prec|Itpr">At paragraph 236 of the judgment under appeal, the Court of First Instance correctly held, referring inter alia to Commission v Germany, cited above, that the argument based on the principle of the protection of legitimate interests could not be upheld.</prem>
 
 48
-<prem ID="A5" T="F">At the following paragraph of that judgment, the Court of First Instance correctly stated that the applicant’s argument was based on a misreading of Decision 93/337.</prem> <prem ID="A6" T="F">In that decision, as the Court of First Instance emphasised, the Commission had characterised the aid in question as incompatible with the common market not only because it was contrary to Article 52 of the Treaty but also, at Part V of that decision, in which the Commission examines the possibility of applying one of the derogations provided for in Article 92 of the Treaty, because it did not comply with the various rules relating to aid.</prem>
+<prem ID="A5" T="F" SUP="A11">At the following paragraph of that judgment, the Court of First Instance correctly stated that the applicant’s argument was based on a misreading of Decision 93/337.</prem> <prem ID="A6" T="F" SUP="A7|A8|A9">In that decision, as the Court of First Instance emphasised, the Commission had characterised the aid in question as incompatible with the common market not only because it was contrary to Article 52 of the Treaty but also, at Part V of that decision, in which the Commission examines the possibility of applying one of the derogations provided for in Article 92 of the Treaty, because it did not comply with the various rules relating to aid.</prem>
 
 49
 <prem ID="A7" T="F">More specifically, in Decision 93/337 the Commission:
@@ -322,16 +322,16 @@ Findings of the Court
  <prem ID="A9" T="F">had ordered the Spanish authorities to ensure that the aid was granted, inter alia, in accordance with the conditions laid down in the Community guidelines on State aid for small and medium-sized enterprises (Article 1(4)).</prem>
 
 50
-<prem ID="A10" T="F">It is thus apparent that Demesa could not infer from Decision 93/337 that a tax credit of 45% granted to an undertaking of a size allowing it to make a minimum investment of ESP 2 500 million required by the Sixth Additional Provision of Norma Foral 22/1994 could not be categorised as aid for the purposes of Article 92 of the Treaty.</prem>
+<prem ID="A10" T="F" SUP="A6">It is thus apparent that Demesa could not infer from Decision 93/337 that a tax credit of 45% granted to an undertaking of a size allowing it to make a minimum investment of ESP 2 500 million required by the Sixth Additional Provision of Norma Foral 22/1994 could not be categorised as aid for the purposes of Article 92 of the Treaty.</prem>
 
 51
-<prem ID="A11" T="F">&gt;In the light of the terms of Decision 93/337, the appellant cannot therefore claim the possibility, which cannot be excluded (see Commission v Germany, cited above, paragraph 16), for the recipient of unlawful aid to rely on exceptional circumstances on the basis of which it legitimately assumed the aid to be lawful.</prem>
+<prem ID="A11" T="F" SUP="A10">&gt;In the light of the terms of Decision 93/337, the appellant cannot therefore claim the possibility, which cannot be excluded (see Commission v Germany, cited above, paragraph 16), for the recipient of unlawful aid to rely on exceptional circumstances on the basis of which it legitimately assumed the aid to be lawful.</prem>
 
 52
 <prem ID="A12" T="F">As regards the Commission’s alleged failure to act, the Commission rightly claims that any apparent failure to act is irrelevant when an aid scheme has not been notified to it.</prem> 
 
 53
- <conc ID="A13">It follows that the ground of appeal which Demesa bases on the principle of protection of legitimate expectations must be rejected.</conc>
+ <conc ID="A13" SUP="A3|A4|A5|A11|A12">It follows that the ground of appeal which Demesa bases on the principle of protection of legitimate expectations must be rejected.</conc>
 
 The grounds of appeal whereby the Territorio Histórico de Álava alleges, first, incorrect categorisation of the impugned tax measure as State aid incompatible with the common market and, second, failure to state the grounds of the judgment under appeal on that point
 
@@ -356,7 +356,7 @@ In the same pleadings, the Territorio Histórico de Álava further states that i
 Findings of the Court
 
 59
- <prem ID="B1" T="L" S="Itpr">It must be borne in mind that to allow a party to put forward for the first time before the Court of Justice a plea in law which it has not raised before the Court of First Instance would be to allow it to bring before the Court, whose jurisdiction in appeals is limited, a case of wider ambit than that which came before the Court of First Instance.</prem> <prem ID="B2" T="L" S="Prec">In an appeal the Court’s jurisdiction is thus confined to review of the findings of law on the pleas argued before the Court of First Instance (see, in particular, Case C-136/92 P Commission v Brazzelli Lualdi and Others [1994] ECR I-1981, paragraph 59; Case C-7/95 P Deere v Commission [1998] ECR I‑3111, paragraph 62; and Case C-217/01 P Hendrickx v Cedefop [2003] ECR I‑3701, paragraph 37).</prem>
+ <prem ID="B1" T="L" S="Itpr">It must be borne in mind that to allow a party to put forward for the first time before the Court of Justice a plea in law which it has not raised before the Court of First Instance would be to allow it to bring before the Court, whose jurisdiction in appeals is limited, a case of wider ambit than that which came before the Court of First Instance.</prem> <prem ID="B2" T="L" S="Prec" SUP="B1">In an appeal the Court’s jurisdiction is thus confined to review of the findings of law on the pleas argued before the Court of First Instance (see, in particular, Case C-136/92 P Commission v Brazzelli Lualdi and Others [1994] ECR I-1981, paragraph 59; Case C-7/95 P Deere v Commission [1998] ECR I‑3111, paragraph 62; and Case C-217/01 P Hendrickx v Cedefop [2003] ECR I‑3701, paragraph 37).</prem>
 
 60
 <prem ID="B3" T="F">In the present case, the Territorio Histórico de Álava did not contend at first instance that:
@@ -374,10 +374,10 @@ Findings of the Court
 <prem ID="B6" T="F">The Court of First Instance examined the corresponding arguments at paragraphs 167 and 168 of the judgment under appeal.</prem>
 
 63
-<prem ID="B7" T="F">The argument submitted to the Court in the present appeal, namely that, in substance, the impugned tax measure was excluded from the outset, at a stage preceding the legal reasoning, from the scope of Article 92 of the Treaty and, subsequently, from actual review by the Commission, therefore constitutes a plea raised for the first time in the appeal.</prem> 
+<prem ID="B7" T="F" SUP="B3|B4|B5|B6">The argument submitted to the Court in the present appeal, namely that, in substance, the impugned tax measure was excluded from the outset, at a stage preceding the legal reasoning, from the scope of Article 92 of the Treaty and, subsequently, from actual review by the Commission, therefore constitutes a plea raised for the first time in the appeal.</prem> 
 
 64
- <conc ID="B8">This new plea must be declared inadmissible, as must the ground of appeal alleging failure to state the grounds in the judgment under appeal on the point of law raised, as the latter cannot be dissociated from the former.</conc>
+ <conc ID="B8" SUP="B2|B7">This new plea must be declared inadmissible, as must the ground of appeal alleging failure to state the grounds in the judgment under appeal on the point of law raised, as the latter cannot be dissociated from the former.</conc>
 
 The grounds of appeal whereby the Territorio Histórico de Álava alleges, first, an error of law on the part of the Court of First Instance in so far as it did not find that there had been a misuse of power and, second, failure to state the grounds of the judgment under appeal on that point
 
@@ -410,7 +410,7 @@ Findings of the Court
 <prem ID="C2" T="F">For the reasons stated at paragraph 59 of this judgment, this ground of appeal must be declared inadmissible, as a new plea, as must the ground of appeal alleging failure to state the grounds of the judgment under appeal on that point, as the latter cannot be dissociated from the former.</prem>
 
 71
- <conc ID="C3">It follows from all of the foregoing that the appeals must be dismissed.</conc>
+ <conc ID="C3" SUP="C1|C2">It follows from all of the foregoing that the appeals must be dismissed.</conc>
 
 
 Costs

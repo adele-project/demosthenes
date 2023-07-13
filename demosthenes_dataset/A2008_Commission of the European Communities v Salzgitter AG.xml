@@ -158,23 +158,23 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 31 <prem ID="A1" T="L" S="Rule">It must be held, first, that while Article 4(c) CS prohibits the granting of State aid to steel and coal undertakings, without drawing a distinction between individual aid or aid disbursed under a State aid scheme, Article 67 CS refers expressly to State aid only in respect of protective measures that the Commission may authorise, pursuant to the first indent of paragraph 2 of that article, in favour of coal or steel undertakings where they suffer competitive disadvantages because of general economic policy measures.</prem>
 
-32 <prem ID="A2" T="L" S="Rule|Prec|Itpr">Also, it is clear from consistent case-law that Articles 4 CS and 67 CS concern two distinct areas, the first abolishing and prohibiting certain actions by Member States in the field which the ECSC Treaty places under Community jurisdiction, the second intended to prevent the distortion of competition which exercise of the residual powers of the Member States inevitably entails (see Banks, paragraph 88, and the case-law cited there).</prem> <prem ID="A3" T="L" S="Rule|Prec">The Court deduces from this that Article 67 CS covers general measures which Member States may adopt in the context of their economic and social policy and measures taken by Member States which apply to industries other than coal and steel but which are capable of having significant repercussions on the conditions of competition in those industries (see Banks, paragraph 88).</prem>
+32 <prem ID="A2" T="L" S="Rule|Prec|Itpr">Also, it is clear from consistent case-law that Articles 4 CS and 67 CS concern two distinct areas, the first abolishing and prohibiting certain actions by Member States in the field which the ECSC Treaty places under Community jurisdiction, the second intended to prevent the distortion of competition which exercise of the residual powers of the Member States inevitably entails (see Banks, paragraph 88, and the case-law cited there).</prem> <prem ID="A3" T="L" S="Rule|Prec" SUP="A2">The Court deduces from this that Article 67 CS covers general measures which Member States may adopt in the context of their economic and social policy and measures taken by Member States which apply to industries other than coal and steel but which are capable of having significant repercussions on the conditions of competition in those industries (see Banks, paragraph 88).</prem>
 
 33 <prem ID="A4" T="L" S="Rule|Prec">The Court has also held that action taken under Article 67 CS cannot be what, in any other form whatsoever, Article 4 CS declares to be incompatible with the common market for coal and steel and abolished and prohibited (De Gezamenlijke Steenkolenmijnen in Limburg v High Authority, p. 22).</prem> <prem ID="A5" T="L" S="Prec|Rule|Itpr">The Court has held, in particular, that it is inconceivable that the authors of the ECSC Treaty decided in Article 4(c) CS that subsidies and aids granted by Member States in any form whatsoever should be abolished and prohibited and then declared in Article 67 CS that, without even having been authorised by the Commission, that aid could be allowed subject to the measures recommended by the Commission to mitigate or remedy its effects (De Gezamenlijke Steenkolenmijnen in Limburg v High Authority, p. 21).</prem>
 
-34 <prem ID="A6" T="L" S="Rule|Prec">The Court has also held that the first indent of Article 67(2) CS, which, by derogation from Article 4 CS, allows the granting of State aid in respect of protective measures to undertakings referred to in Article 80 CS, does not distinguish between aid specific to the coal and steel industry and aid which applies to it as the result of a general measure (Commission v France, paragraph 43).</prem> <prem ID="A7" T="L" S="Rule|Prec">The Court accordingly held that a preferential rediscount rate for exports constitutes aid which, in the case in point, had to be authorised by the Commission under Article 67(2) CS in so far as it concerned the industry covered by the ECSC Treaty (see Commission v France, paragraph 44). </prem>
+34 <prem ID="A6" T="L" S="Rule|Prec">The Court has also held that the first indent of Article 67(2) CS, which, by derogation from Article 4 CS, allows the granting of State aid in respect of protective measures to undertakings referred to in Article 80 CS, does not distinguish between aid specific to the coal and steel industry and aid which applies to it as the result of a general measure (Commission v France, paragraph 43).</prem> <prem ID="A7" T="L" SUP="A6" S="Rule|Prec">The Court accordingly held that a preferential rediscount rate for exports constitutes aid which, in the case in point, had to be authorised by the Commission under Article 67(2) CS in so far as it concerned the industry covered by the ECSC Treaty (see Commission v France, paragraph 44). </prem>
 
 35 <prem ID="A8" T="L" S="Itpr">Finally, State aid granted to an undertaking falling within the scope of the ECSC Treaty has identical anti-competitive effects, regardless of whether it constitutes individual aid or aid granted under a State aid scheme that is not specific to the coal and steel sector.</prem>
 
-36 <prem ID="A9" T="L" S="Rule|Itpr">In the light of the foregoing, it must consequently be held that Article 4(c) CS applies to State aid paid to coal and steel undertakings under a State aid scheme that is not specific to the coal and steel sector.</prem>
+36 <prem ID="A9" T="L" SUP="A1|A3|A4|A5|A7|A8" S="Rule|Itpr">In the light of the foregoing, it must consequently be held that Article 4(c) CS applies to State aid paid to coal and steel undertakings under a State aid scheme that is not specific to the coal and steel sector.</prem>
 
-37 <prem ID="A10" T="L|F" S="Rule|Itpr">Contrary to what the German Government claims, that interpretation does not undermine the effectiveness of Article 67 CS.</prem> <prem ID="A11" T="L" S="Itpr|Rule">General policy measures are liable to have appreciable repercussions on conditions of competition in the coal or steel industry within the meaning of Article 67(1) CS, without constituting State aid. </prem>
+37 <prem ID="A10" T="L|F" S="Rule|Itpr" SUP="A11">Contrary to what the German Government claims, that interpretation does not undermine the effectiveness of Article 67 CS.</prem> <prem ID="A11" T="L" S="Itpr|Rule">General policy measures are liable to have appreciable repercussions on conditions of competition in the coal or steel industry within the meaning of Article 67(1) CS, without constituting State aid. </prem>
 
 38 <prem ID="A12" T="F">In the present case, it is not contested that Salzgitter is an undertaking that falls within the scope of the ECSC Treaty and that the aid covered by the contested decision does not constitute protective measures falling within the scope of the first indent of Article 67(2) CS.</prem>
 
-39 <prem ID="A13" T="F">It follows that the Court of First Instance did not commit an error of law in finding that the Commission was entitled to hold that Article 4(c) CS, and not Article 67 CS, applied to the aid covered by the contested decision.</prem> 
+39 <prem ID="A13" T="F" SUP="A9|A10|A12">It follows that the Court of First Instance did not commit an error of law in finding that the Commission was entitled to hold that Article 4(c) CS, and not Article 67 CS, applied to the aid covered by the contested decision.</prem> 
 
-40 <conc ID="A14">Accordingly the first limb of the first plea cannot succeed and must be rejected.</conc>
+40 <conc ID="A14" SUP="A13">Accordingly the first limb of the first plea cannot succeed and must be rejected.</conc>
 
  The second limb of the first plea
 
@@ -188,7 +188,7 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 – Findings of the Court
 
-44 <prem ID="B1" T="F"> In light of the response to the first limb of the first plea, it must be held that the second limb of that plea is unfounded, on the same grounds as those set out in relation to that first limb, </prem> <conc ID="B2"> and that the second limb must therefore be rejected. </conc> 
+44 <prem ID="B1" T="F"> In light of the response to the first limb of the first plea, it must be held that the second limb of that plea is unfounded, on the same grounds as those set out in relation to that first limb, </prem> <conc ID="B2" SUP="B1"> and that the second limb must therefore be rejected. </conc> 
 
  The third limb of the first plea
 
@@ -202,7 +202,7 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 47 <prem ID="C1" T="L" S="Itpr|Rule">It must be held that the analysis of the Commission’s decision-making practice with regard to aid granted to undertakings that fall under the ECSC Treaty cannot affect the interpretation by the Court of First Instance of Articles 4(c) CS and 67 CS.</prem> 
 
-48 <conc ID="C2">Consequently, the third limb of the first plea in law must be rejected as ineffective.</conc> 
+48 <conc ID="C2" SUP="C1">Consequently, the third limb of the first plea in law must be rejected as ineffective.</conc> 
 
 49 The first plea must therefore be rejected in its entirety.
 
@@ -220,7 +220,7 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 – Findings of the Court
 
-54 <prem ID="D1" T="F">Salzgitter submits that the Court of First Instance committed an error of law in finding that the plea alleging a failure to state reasons in the contested decision was unfounded and had to be dismissed.</prem>
+54 <prem ID="D1" T="F" ATT="D8">Salzgitter submits that the Court of First Instance committed an error of law in finding that the plea alleging a failure to state reasons in the contested decision was unfounded and had to be dismissed.</prem>
 
 55 <prem ID="D2" T="L" S="Prec">That is a question of law subject to review by the Court of Justice on an appeal (C‑166/95 P Commission v Daffix [1997] ECR I‑983).</prem>
 
@@ -230,9 +230,9 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 58 <prem ID="D6" T="F">The Commission’s analysis justifying the application of Article 4(c) CS to the aid at issue is set out clearly and unambiguously in paragraph 66 of the contested decision.</prem> <prem ID="D7" T="F">In paragraphs 67 to 76 and 126 to 133 of that decision, the Commission provides, inter alia, a detailed account of the specific rules laid down by the Steel Aid Codes in force since 1986.</prem>
 
-59 <prem ID="D8" T="F">Consequently, the Court of First Instance did not commit an error of law in finding that the contested decision complied with the obligation to state reasons.</prem> 
+59 <prem ID="D8" T="F" SUP="D2|D3|D4|D5|D6|D7">Consequently, the Court of First Instance did not commit an error of law in finding that the contested decision complied with the obligation to state reasons.</prem> 
 
-60 <conc ID="D9">Therefore, the second plea of the cross-appeal, alleging a failure to state the reasons on which the contested decision was based, is unfounded and must be rejected.</conc>
+60 <conc ID="D9" SUP="D8">Therefore, the second plea of the cross-appeal, alleging a failure to state the reasons on which the contested decision was based, is unfounded and must be rejected.</conc>
 
 61 Accordingly, the cross-appeal must be dismissed.
 
@@ -256,9 +256,9 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 67 <prem ID="E1" T="F">In the present case, it is apparent from the documents before the Court, and, more specifically, the answers submitted in response to the written questions formulated by the Court of First Instance in its letter of 28 July 2003, that the Commission had the opportunity to describe the development of the rules applying to aid paid to steel undertakings under a general aid scheme in the light of the successive adoption of the first three Steel Aid Codes and to express a view on the legal effect under the ECSC Treaty of an authorising decision adopted pursuant to Article 88 EC.</prem> <prem ID="E2" T="F">In this context, the Commission also stated that Article 6 of the Third Steel Aid Code laid down an obligation to notify aid paid to Salzgitter under the ZRFG.</prem>
 
-68 <prem ID="E3" T="F">In those circumstances, the Commission’s claim that the Court of First Instance did not give it an opportunity to discuss this question must be dismissed.</prem>
+68 <prem ID="E3" T="F" SUP="E1|E2">In those circumstances, the Commission’s claim that the Court of First Instance did not give it an opportunity to discuss this question must be dismissed.</prem>
 
-69 <conc ID="E4">Therefore, the Commission’s second plea must be rejected as unfounded. </conc>
+69 <conc ID="E4" SUP="E3">Therefore, the Commission’s second plea must be rejected as unfounded. </conc>
 
  The first plea
 
@@ -301,13 +301,13 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 85 <prem ID="F1" T="F">As a preliminary point, it must be recalled – as held earlier in paragraph 39 of the present judgment – that the Court of First Instance did not commit an error of law in finding that the aid covered by the contested decision fell within the scope of the prohibition laid down in Article 4(c) CS.</prem>
 
-86 <prem ID="F2" T="F">Consequently, the Federal Republic of Germany cannot rely on an implicit authorisation of the aid allegedly granted by the Commission on the basis of Article 67 CS.</prem>
+86 <prem ID="F2" T="F" SUP="F1">Consequently, the Federal Republic of Germany cannot rely on an implicit authorisation of the aid allegedly granted by the Commission on the basis of Article 67 CS.</prem>
 
 87 <prem ID="F3" T="L|F" S="Rule">As regards the reasoning of the Court of First Instance that the adoption of the Second and the Third Steel Aid Code constituted a partial withdrawal by the Commission of the 1971 decision not to object to the application of the ZRFG which led to uncertainty as to the legal regime concerning the ZRFG, it must be held that Article 305(1) EC states that ‘the provisions of the … [EC] Treaty shall not affect the provisions of the [ECSC] Treaty, in particular as regards the rights and obligations of Member States, the powers of the institutions of that Community and the rules laid down by that Treaty for the functioning of the common market in coal and steel.’</prem>
 
-88 <prem ID="F4" T="L" S="Prec|Rule">It follows from this that the EC Treaty and the ECSC Treaty are independent treaties and that, consequently, the EC Treaty and the secondary legislation enacted on the basis of it cannot produce effects in areas that fall within the scope of the ECSC Treaty (see, to that effect, Joined Cases 188/80 to 190/80 France and Others v Commission [1982] ECR 2545, paragraph 31).</prem> <prem ID="F5" T="L" S="Prec|Rule">The provisions of the EC Treaty only apply in the alternative, in situations in which there is no specific rule under the ECSC Treaty (see, in particular, Case 328/85 Deutsche Babcock [1987] ECR 5119, paragraphs 6 to 14).</prem>
+88 <prem ID="F4" T="L" SUP="F3" S="Prec|Rule">It follows from this that the EC Treaty and the ECSC Treaty are independent treaties and that, consequently, the EC Treaty and the secondary legislation enacted on the basis of it cannot produce effects in areas that fall within the scope of the ECSC Treaty (see, to that effect, Joined Cases 188/80 to 190/80 France and Others v Commission [1982] ECR 2545, paragraph 31).</prem> <prem ID="F5" T="L" S="Prec|Rule" SUP="F3">The provisions of the EC Treaty only apply in the alternative, in situations in which there is no specific rule under the ECSC Treaty (see, in particular, Case 328/85 Deutsche Babcock [1987] ECR 5119, paragraphs 6 to 14).</prem>
 
-89 <prem ID="F6" T="L|F" S="Rule">Consequently, given that Article 1 of the Third Steel Aid Code prohibited both aid that was and aid that was not specific to the steel sector, the Commission could not implicitly withdraw the 1971 Decision.</prem>
+89 <prem ID="F6" T="L|F" SUP="F4|F5" S="Rule">Consequently, given that Article 1 of the Third Steel Aid Code prohibited both aid that was and aid that was not specific to the steel sector, the Commission could not implicitly withdraw the 1971 Decision.</prem>
 
 90 <prem ID="F7" T="L|F" S="Rule">As regards the Court of First Instance’s finding that the adoption of the Second and the Third Steel Aid Code led to ambiguity as to whether subsequent application of the ZRFG had to be notified as a ‘plan’ within the meaning of Article 6 of that third code, it must, first, be held that that article expressly provides that there is an obligation to inform the Commission of plans to grant aid to the steel industry under schemes on which it has already taken a decision under the EC Treaty.</prem>
 
@@ -315,9 +315,9 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 92 <prem ID="F9" T="L" S="Prec">The Court has also held that the compatibility of aid with the common market can be assessed, in the context of the Steel Aid Codes, only in the light of the rules in force on the date on which it is actually paid (Falck and Acciaierie di Bolzano v Commission, paragraph 117).</prem>
 
-93 <prem ID="F10" T="F">It follows, as the Commission submits, that Article 6 of the Third Steel Aid Code provided clearly and unequivocally that there was an obligation to notify to the Commission aid that might be granted to Salzgitter under the ZRFG as soon as that code came into force.</prem>
+93 <prem ID="F10" T="F" SUP="F7|F8|F8bis|F9">It follows, as the Commission submits, that Article 6 of the Third Steel Aid Code provided clearly and unequivocally that there was an obligation to notify to the Commission aid that might be granted to Salzgitter under the ZRFG as soon as that code came into force.</prem>
 
-94 <conc ID="F11">Consequently, the Court of First Instance committed an error of law in holding, first, that the adoption of the Third Steel Aid Code led, implicitly, to a partial withdrawal of the authorisation of the ZRFG granted by the 1971 Decision and, second, that Article 6 of that code did not make it possible to determine clearly whether application of the ZRFG after adoption of that code was covered by the obligation to notify ‘plans’ laid down in that article.</conc>
+94 <conc ID="F11" SUP="F2|F6|F10">Consequently, the Court of First Instance committed an error of law in holding, first, that the adoption of the Third Steel Aid Code led, implicitly, to a partial withdrawal of the authorisation of the ZRFG granted by the 1971 Decision and, second, that Article 6 of that code did not make it possible to determine clearly whether application of the ZRFG after adoption of that code was covered by the obligation to notify ‘plans’ laid down in that article.</conc>
 
  The Commission’s late reaction
 
@@ -332,7 +332,7 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 – Findings of the Court
 
-98 <prem ID="G1" T="F">In annulling the part of the contested decision relating to the Federal Republic of Germany’s obligation to recover the aid received by Salzgitter, the Court of First Instance again held that the Commission had known of that aid since the end of 1988 and that, given that it did not react until 1998, it had, in taking that decision, breached the principle of legal certainty.</prem>
+98 <prem ID="G1" T="F" ATT="G2">In annulling the part of the contested decision relating to the Federal Republic of Germany’s obligation to recover the aid received by Salzgitter, the Court of First Instance again held that the Commission had known of that aid since the end of 1988 and that, given that it did not react until 1998, it had, in taking that decision, breached the principle of legal certainty.</prem>
 99 <prem ID="G2" T="F">It must be held that the reasoning followed by the judgment under appeal as regards breaching the principle of legal certainty is incorrect, and there is no need to rule on whether the Court of First Instance was entitled to hold that the Commission had knowledge of the aid in issue since the end of 1988, which the latter disputes.</prem>
 
 100 <prem ID="G3" T="L" S="Prec">Admittedly, the Court has held that, even if the Community legislature has not laid down any period of limitation, the fundamental requirement of legal certainty has the effect of preventing the Commission from indefinitely delaying the exercise of its powers (see, to that effect, 52/69 Geigy v Commission [1972] ECR 787, paragraph 21, and, as regards State aid falling within the scope of the ECSC Treaty, Falck and Acciaierie di Bolzano v Commission, paragraphs 140 and 141).</prem>
@@ -341,17 +341,17 @@ Any decision so taken or recommendation so made shall determine what penalties, 
 
 102 <prem ID="G5" T="L" S="Rule">Moreover, Article 15 of Regulation No 659/1999 provides that recovery of illegal aid is subject to a limitation period of 10 years, beginning on the day it is granted.</prem> <prem ID="G6" T="L" S="Rule">As stated in recital 14 of the preamble to that regulation, this limitation period has been established for reasons of legal certainty.</prem>
 
-103 <prem ID="G7" T="L" S="Itpr|Rule">Even though it is true that, for the purposes of the ECSC Treaty, those rules do not apply as such, they were based, in the domain of State aid, on the fundamental requirement of legal certainty.</prem> <prem ID="G8" T="L" S="Itpr">It follows that, even in a situation in which the Community legislature has not expressly laid down any period of limitation, the Commission cannot indefinitely delay the exercise of its power.</prem>
+103 <prem ID="G7" T="L" S="Itpr|Rule">Even though it is true that, for the purposes of the ECSC Treaty, those rules do not apply as such, they were based, in the domain of State aid, on the fundamental requirement of legal certainty.</prem> <prem ID="G8" T="L" SUP="G3|G4|G5|G6|G7" S="Itpr">It follows that, even in a situation in which the Community legislature has not expressly laid down any period of limitation, the Commission cannot indefinitely delay the exercise of its power.</prem>
 
 104 <prem ID="G9" T="L" S="Prec">However, it must not be forgotten that the notification of State aid is a central element of Community rules for supervising that aid and that undertakings to which such aid has been granted may not entertain a legitimate expectation that the aid is lawful if it has not been granted in compliance with that procedure (Alcan Deutschland, paragraph 25).</prem>
 
 105 <prem ID="G10" T="L" S="Prec|Rule">It must also be taken into consideration that the particularly strict nature of the State aid regime under the ECSC Treaty sets it apart from the State aid regime under the EC Treaty (see, in this respect, Falck and Acciaierie di Bolzano v Commission, paragraphs 101 and 102).</prem>
 
-106 <prem ID="G11" T="L" S="Itpr|Rule">It follows from the above that, where aid was granted under the ECSC Treaty without having been notified, a delay by the Commission in exercising its supervisory powers and ordering recovery of the aid does not render that recovery decision unlawful, except in exceptional cases which show that the Commission manifestly failed to act and clearly breached its duty of diligence.</prem>
+106 <prem ID="G11" T="L" SUP="G8|G9|G10" S="Itpr|Rule">It follows from the above that, where aid was granted under the ECSC Treaty without having been notified, a delay by the Commission in exercising its supervisory powers and ordering recovery of the aid does not render that recovery decision unlawful, except in exceptional cases which show that the Commission manifestly failed to act and clearly breached its duty of diligence.</prem>
 
-107 <prem ID="G12" T="F">Consequently, even though the Court of First Instance was entitled to hold that a beneficiary of State aid can rely on the principle of legal certainty to support an action for annulment of a decision ordering recovery of that aid, it wrongly applied this principle in the case before it when it failed to examine whether the Commission had manifestly failed to act and clearly breached its duty of diligence in the exercise of its supervisory powers, the sole grounds which, in exceptional cases, can render illegal a Commission decision ordering recovery, under the ECSC Treaty, of non-notified aid.</prem> 
+107 <prem ID="G12" T="F" SUP="G11">Consequently, even though the Court of First Instance was entitled to hold that a beneficiary of State aid can rely on the principle of legal certainty to support an action for annulment of a decision ordering recovery of that aid, it wrongly applied this principle in the case before it when it failed to examine whether the Commission had manifestly failed to act and clearly breached its duty of diligence in the exercise of its supervisory powers, the sole grounds which, in exceptional cases, can render illegal a Commission decision ordering recovery, under the ECSC Treaty, of non-notified aid.</prem> 
 
-108 <conc ID="G13">It follows from the above that the main appeal must be upheld and that the judgment under appeal must be set aside to the extent that it annuls Articles 2 and 3 of the contested decision.</conc>
+108 <conc ID="G13" SUP="G2|G12">It follows from the above that the main appeal must be upheld and that the judgment under appeal must be set aside to the extent that it annuls Articles 2 and 3 of the contested decision.</conc>
 
  Referral of the case to the Court of First Instance
 

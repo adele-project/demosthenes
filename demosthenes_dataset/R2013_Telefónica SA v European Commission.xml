@@ -213,7 +213,7 @@ Findings of the Court
 30
 
 
-<prem ID="A8" T="L" S="Aut|Rule|Itpr"> Second, as the Advocate General has observed in point 48 of her Opinion, the question whether a regulatory act entails implementing measures should be assessed by reference to the position of the person pleading the right to bring proceedings under the final limb of the fourth paragraph of Article 263 TFEU. </prem> <prem ID="A9" T="L" S="Itpr"> It is therefore irrelevant whether the act in question entails implementing measures with regard to other persons. </prem>
+<prem ID="A8" T="L" S="Aut|Rule|Itpr"> Second, as the Advocate General has observed in point 48 of her Opinion, the question whether a regulatory act entails implementing measures should be assessed by reference to the position of the person pleading the right to bring proceedings under the final limb of the fourth paragraph of Article 263 TFEU. </prem> <prem ID="A9" T="L" S="Itpr" SUP="A8"> It is therefore irrelevant whether the act in question entails implementing measures with regard to other persons. </prem>
 
 31
 
@@ -228,7 +228,7 @@ Findings of the Court
 33
 
 
-<prem ID="A12" T="F" S="Aut"> As the Advocate General has observed in point 33 of her Opinion, Telefónica’s action was concerned solely with challenging the declaration in Article 1(1) of the contested decision that the scheme at issue is partially incompatible with the common market, and did not criticise the recovery of the aid, ordered in Article 4(1) of that decision, or the other directions issued to the Kingdom of Spain in Article 6(2) thereof. </prem>
+<prem ID="A12" T="F" S="Aut" ATT="A18"> As the Advocate General has observed in point 33 of her Opinion, Telefónica’s action was concerned solely with challenging the declaration in Article 1(1) of the contested decision that the scheme at issue is partially incompatible with the common market, and did not criticise the recovery of the aid, ordered in Article 4(1) of that decision, or the other directions issued to the Kingdom of Spain in Article 6(2) thereof. </prem>
 
 34
 
@@ -243,7 +243,7 @@ Findings of the Court
 36
 
 
-<prem ID="A17" T="F"> Consequently, the General Court was correct in holding, in paragraph 44 of the order under appeal, that the measures for giving effect to the decision as to incompatibility – including in particular the measure consisting of rejection of an application for grant of the tax advantage at issue, a rejection which Telefónica will also be able to contest before the national courts – are implementing measures in respect of the contested decision. </prem>
+<prem ID="A17" T="F" SUP="A1|A2|A3|A4|A5|A6|A7|A9|A10|A11|A13|A14|A15|A16"> Consequently, the General Court was correct in holding, in paragraph 44 of the order under appeal, that the measures for giving effect to the decision as to incompatibility – including in particular the measure consisting of rejection of an application for grant of the tax advantage at issue, a rejection which Telefónica will also be able to contest before the national courts – are implementing measures in respect of the contested decision. </prem>
 
 37
 
@@ -253,12 +253,12 @@ Findings of the Court
 38
 
 
-<prem ID="A19" T="F"> The General Court was therefore correct in holding, in paragraph 45 of the order under appeal, that, irrespective of whether the contested decision is a regulatory act, the conditions governing admissibility laid down in the final limb of the fourth paragraph of Article 263 TFEU are not met in the case in point. </prem>
+<prem ID="A19" T="F" SUP="A17|A18"> The General Court was therefore correct in holding, in paragraph 45 of the order under appeal, that, irrespective of whether the contested decision is a regulatory act, the conditions governing admissibility laid down in the final limb of the fourth paragraph of Article 263 TFEU are not met in the case in point. </prem>
 
 39
 
 
-<conc ID="A20"> In the light of all these considerations, the third plea relied upon by Telefónica in support of its appeal should be dismissed. </conc>
+<conc ID="A20" SUP="A19"> In the light of all these considerations, the third plea relied upon by Telefónica in support of its appeal should be dismissed. </conc>
 
 The second plea
 
@@ -309,7 +309,7 @@ Findings of the Court
 48
 
 
-<prem ID="B5" T="F"> This is so in the case of Article 1(1) of the contested decision, whose annulment Telefónica seeks and in the light of which Telefónica’s standing to bring proceedings must therefore be examined. </prem> <prem ID="B6" T="F"> Article 1(1) applies to objectively determined situations and produces legal effects with respect to categories of persons viewed generally and in the abstract. </prem> <prem ID="B6bis" T="F"> Telefónica therefore cannot claim to be individually distinguished by that provision . </prem>
+<prem ID="B5" T="F"> This is so in the case of Article 1(1) of the contested decision, whose annulment Telefónica seeks and in the light of which Telefónica’s standing to bring proceedings must therefore be examined. </prem> <prem ID="B6" T="F"> Article 1(1) applies to objectively determined situations and produces legal effects with respect to categories of persons viewed generally and in the abstract. </prem> <prem ID="B6bis" T="F" SUP="B1|B2|B3|B4|B5|B6"> Telefónica therefore cannot claim to be individually distinguished by that provision . </prem>
 
 49
 
@@ -319,12 +319,12 @@ Findings of the Court
 50
 
 
-<prem ID="B9" T="F"> Accordingly, the General Court was correct in holding, in paragraph 41 of the judgment under appeal, that Telefónica is not individually concerned, within the meaning of the fourth paragraph of Article 263 TFEU, by Article 1(1) of the contested decision. </prem>
+<prem ID="B9" T="F" SUP="B6|B7|B8"> Accordingly, the General Court was correct in holding, in paragraph 41 of the judgment under appeal, that Telefónica is not individually concerned, within the meaning of the fourth paragraph of Article 263 TFEU, by Article 1(1) of the contested decision. </prem>
 
 51
 
 
-<conc ID="B10"> It follows from the foregoing that the second plea relied upon by Telefónica in support of its appeal must also be dismissed. </conc>
+<conc ID="B10" SUP="B9"> It follows from the foregoing that the second plea relied upon by Telefónica in support of its appeal must also be dismissed. </conc>
 
 The first plea
 
@@ -372,12 +372,12 @@ Findings of the Court
 59
 
 
-<prem ID="C5" T="F"> Consequently, even though Telefónica cannot, because of the conditions governing admissibility laid down in the fourth paragraph of Article 263 TFEU, challenge the contested decision directly before the European Union judicature, it can contend that it is invalid before the national courts and cause the latter to refer questions to the Court of Justice for a preliminary ruling, pursuant to Article 267 TFEU, in particular by bringing before the national courts the administrative act which refuses it amortisation under the regime at issue. </prem>
+<prem ID="C5" T="F" SUP="C1|C2|C3|C4"> Consequently, even though Telefónica cannot, because of the conditions governing admissibility laid down in the fourth paragraph of Article 263 TFEU, challenge the contested decision directly before the European Union judicature, it can contend that it is invalid before the national courts and cause the latter to refer questions to the Court of Justice for a preliminary ruling, pursuant to Article 267 TFEU, in particular by bringing before the national courts the administrative act which refuses it amortisation under the regime at issue. </prem>
 
 60
 
 
-<conc ID="C6"> It follows that the first plea relied upon by Telefónica in support of its appeal must be dismissed.</conc>
+<conc ID="C6" SUP="C5"> It follows that the first plea relied upon by Telefónica in support of its appeal must be dismissed.</conc>
 
 61
 

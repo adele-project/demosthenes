@@ -228,7 +228,7 @@ Findings of the Court
 29
 
 
-<prem ID="A3" T="L" S="Rule|Itpr">Consequently, a plea based on an infringement of Article 87(1) EC because of the non‑attributability of the measure in question to the State cannot be raised by a court of its own motion.</prem>
+<prem ID="A3" T="L" SUP="A1|A2" S="Rule|Itpr">Consequently, a plea based on an infringement of Article 87(1) EC because of the non‑attributability of the measure in question to the State cannot be raised by a court of its own motion.</prem>
 
 30
 
@@ -243,7 +243,7 @@ Findings of the Court
 32
 
 
-<prem ID="A7" T="F">Consequently, in paragraph 110 and in the operative part of the judgment under appeal, the General Court annulled the contested decision ‘in so far as it finds, or is based on the finding, that the exemptions [at issue] constituted State aid, within the meaning of Article 87(1) EC’ and in so far as it orders the recovery of those exemptions from their beneficiaries.</prem>
+<prem ID="A7" T="F" SUP="A4|A5|A6">Consequently, in paragraph 110 and in the operative part of the judgment under appeal, the General Court annulled the contested decision ‘in so far as it finds, or is based on the finding, that the exemptions [at issue] constituted State aid, within the meaning of Article 87(1) EC’ and in so far as it orders the recovery of those exemptions from their beneficiaries.</prem>
 
 33
 
@@ -253,22 +253,22 @@ Findings of the Court
 34
 
 
-<prem ID="A9" T="F" S="Aut">Yet, as submitted by the Commission and as stated by the Advocate General in points 57 to 63 of his Opinion, none of the applicants before the General Court relied on such a plea.</prem> <prem ID="A10" T="F">It is clear from the General Court’s file that the question of attributability of the exemptions at issue, merely alluded to by the Commission in its defence in Case T‑56/06, and by Eurallumina in its reply in Case T‑62/06, where however it stated that ‘[h]owever … it is not necessary to address this issue’, was introduced into the debate by the General Court by sending a written question to the parties, and, it may be added, it is also clear from paragraph 98 of the judgment under appeal.</prem>
+<prem ID="A9" T="F" S="Aut" SUP="A10">Yet, as submitted by the Commission and as stated by the Advocate General in points 57 to 63 of his Opinion, none of the applicants before the General Court relied on such a plea.</prem> <prem ID="A10" T="F">It is clear from the General Court’s file that the question of attributability of the exemptions at issue, merely alluded to by the Commission in its defence in Case T‑56/06, and by Eurallumina in its reply in Case T‑62/06, where however it stated that ‘[h]owever … it is not necessary to address this issue’, was introduced into the debate by the General Court by sending a written question to the parties, and, it may be added, it is also clear from paragraph 98 of the judgment under appeal.</prem>
 
 35
 
 
-<prem ID="A11" T="F">Contrary to what is maintained by the French Republic, Eurallumina and AAL, it cannot be held that the General Court engaged in an amplification of the pleas raised by the parties.</prem> <prem ID="A12" T="F">Although the General Court may have linked the question of the attributability of the exemptions at issue with the pleas relied on by the parties, alleging infringement of the principles of the presumption of legality attaching to European Union measures and legal certainty, it remains the case, first, that that question derives from a plea in law which is distinct and different in kind, its subject being not an infringement of general principles of European Union law but an infringement of the EC Treaty and, secondly, that the parties, as is clear from, in particular, the account of the parties’ pleas set out in paragraphs 53 to 56 of the judgment under appeal, did not plead those principles with a view to the court finding that the exemptions at issue did not constitute State aid.</prem>
+<prem ID="A11" T="F" SUP="A12">Contrary to what is maintained by the French Republic, Eurallumina and AAL, it cannot be held that the General Court engaged in an amplification of the pleas raised by the parties.</prem> <prem ID="A12" T="F">Although the General Court may have linked the question of the attributability of the exemptions at issue with the pleas relied on by the parties, alleging infringement of the principles of the presumption of legality attaching to European Union measures and legal certainty, it remains the case, first, that that question derives from a plea in law which is distinct and different in kind, its subject being not an infringement of general principles of European Union law but an infringement of the EC Treaty and, secondly, that the parties, as is clear from, in particular, the account of the parties’ pleas set out in paragraphs 53 to 56 of the judgment under appeal, did not plead those principles with a view to the court finding that the exemptions at issue did not constitute State aid.</prem>
 
 36
 
 
-<prem ID="A13" T="F">It follows that, by raising of its own motion the plea that the exemptions at issue were attributable not to the Member States but to the European Union, and, for that reason, did not constitute State aid within the meaning of Article 87(1) EC, the General Court caused the judgment under appeal to be vitiated by an error in law.</prem>
+<prem ID="A13" T="F" SUP="A3|A7|A8|A9|A11">It follows that, by raising of its own motion the plea that the exemptions at issue were attributable not to the Member States but to the European Union, and, for that reason, did not constitute State aid within the meaning of Article 87(1) EC, the General Court caused the judgment under appeal to be vitiated by an error in law.</prem>
 
 37
 
 
-<prem ID="A14" T="F">However, the reasoning relating to the attributability of the exemptions at issue, dealt with only in paragraphs 73, 74, 98, 99 and 104 of the judgment under appeal, constitutes only one element of the grounds stated in that judgment.</prem> <prem ID="A15" T="F">It is therefore necessary to examine whether that judgment remains well founded on the basis of the other grounds stated.</prem>
+<prem ID="A14" T="F">However, the reasoning relating to the attributability of the exemptions at issue, dealt with only in paragraphs 73, 74, 98, 99 and 104 of the judgment under appeal, constitutes only one element of the grounds stated in that judgment.</prem> <prem ID="A15" T="F" SUP="A14">It is therefore necessary to examine whether that judgment remains well founded on the basis of the other grounds stated.</prem>
 
 38
 
@@ -298,7 +298,7 @@ Findings of the Court
 43
 
 
-<prem ID="A24" T="F">Last, after finding, in paragraphs 100 to 103 of the judgment under appeal, that the Commission had never used the powers available to it, under Article 8(5) of Directive 92/81 or Articles 230 EC and 241 EC, in order to secure the abolition or alteration of the authorisation decisions, an annulment of those decisions or a declaration that Directive 92/81 was invalid, the General Court stated, in paragraphs 104 and 105 of the judgment under appeal, that, when the contested decision was adopted, Decision 2001/224 remained valid and that that decision, the decisions which had preceded it and Directive 92/81 were entitled to the presumption of legality attaching to European Union measures and produced all their legal effects.</prem> <prem ID="A25" T="F">The General Court held that, consequently, Ireland, the French Republic and the Italian Republic were entitled to rely on those decisions in order to continue to apply the exemptions at issue.</prem> <prem ID="A25bis" T="F">The General Court concluded that, in the particular circumstances of the case, the contested decision directly called into question the validity of the exemptions at issue and also, indirectly, but necessarily, the validity of the authorisation decisions and the effects arising from those decisions, thereby infringing the principles of legal certainty and the presumption of legality attaching to European Union measures.</prem>
+<prem ID="A24" T="F">Last, after finding, in paragraphs 100 to 103 of the judgment under appeal, that the Commission had never used the powers available to it, under Article 8(5) of Directive 92/81 or Articles 230 EC and 241 EC, in order to secure the abolition or alteration of the authorisation decisions, an annulment of those decisions or a declaration that Directive 92/81 was invalid, the General Court stated, in paragraphs 104 and 105 of the judgment under appeal, that, when the contested decision was adopted, Decision 2001/224 remained valid and that that decision, the decisions which had preceded it and Directive 92/81 were entitled to the presumption of legality attaching to European Union measures and produced all their legal effects.</prem> <prem ID="A25" T="F" SUP="A15|A16|A17|A18|A19|A20|A21|A22|A23|A24">The General Court held that, consequently, Ireland, the French Republic and the Italian Republic were entitled to rely on those decisions in order to continue to apply the exemptions at issue.</prem> <prem ID="A25bis" T="F">The General Court concluded that, in the particular circumstances of the case, the contested decision directly called into question the validity of the exemptions at issue and also, indirectly, but necessarily, the validity of the authorisation decisions and the effects arising from those decisions, thereby infringing the principles of legal certainty and the presumption of legality attaching to European Union measures.</prem>
 
 44
 
@@ -308,7 +308,7 @@ Findings of the Court
 45
 
 
-<prem ID="A27" T="L">In so ruling, the General Court disregarded, however, the respective powers of the Council and the Commission in the area of the harmonisation of legislation relating to excise duties, on the one hand, and in the area of State aid, on the other.</prem>
+<prem ID="A27" T="L" SUP="A28|A29|A30|A34|A35">In so ruling, the General Court disregarded, however, the respective powers of the Council and the Commission in the area of the harmonisation of legislation relating to excise duties, on the one hand, and in the area of State aid, on the other.</prem>
 
 46
 
@@ -323,12 +323,12 @@ Findings of the Court
 48
 
 
-<prem ID="A31" T="L" S="Prec|Itpr|Rule">As the Court held in paragraphs 29 to 31 of Case C-110/02 Commission v Council [2004] ECR I-6333, the intention of the EC Treaty, in providing through Article 88 EC for aid to be kept under constant review and monitored by the Commission, is that the finding that aid may be incompatible with the common market is to be arrived at, subject to review by the General Court and the Court of Justice, by means of an appropriate procedure which it is the Commission’s responsibility to set in motion.</prem> <prem ID="A32" T="L" S="Itpr">Articles 87 EC and 88 EC thus reserve a central role for the Commission in determining whether aid is incompatible.</prem> <prem ID="A33" T="L" S="Rule|Prec">The power conferred upon the Council in the area of State aid by the third subparagraph of Article 88(2) EC is exceptional in character, which means that it must necessarily be interpreted strictly (see also, to that effect, the judgment of 4 December 2013 in Case C‑111/10 Commission v Council [2013] ECR, paragraph 39).</prem>
+<prem ID="A31" T="L" S="Prec|Itpr|Rule">As the Court held in paragraphs 29 to 31 of Case C-110/02 Commission v Council [2004] ECR I-6333, the intention of the EC Treaty, in providing through Article 88 EC for aid to be kept under constant review and monitored by the Commission, is that the finding that aid may be incompatible with the common market is to be arrived at, subject to review by the General Court and the Court of Justice, by means of an appropriate procedure which it is the Commission’s responsibility to set in motion.</prem> <prem ID="A32" T="L" SUP="A31" S="Itpr">Articles 87 EC and 88 EC thus reserve a central role for the Commission in determining whether aid is incompatible.</prem> <prem ID="A33" T="L" S="Rule|Prec">The power conferred upon the Council in the area of State aid by the third subparagraph of Article 88(2) EC is exceptional in character, which means that it must necessarily be interpreted strictly (see also, to that effect, the judgment of 4 December 2013 in Case C‑111/10 Commission v Council [2013] ECR, paragraph 39).</prem>
 
 49
 
 
-<prem ID="A34" T="L" S="Itpr|Rule">Consequently, a Council decision authorising a Member State, in accordance with Article 8(4) of Directive 92/81, to introduce an exemption of excise duties could not have the effect of preventing the Commission from exercising the powers conferred on it by the Treaty and, consequently, setting in motion the procedure laid down in Article 88 EC in order to review whether that exemption constituted State aid and on the conclusion of that procedure, if appropriate, to adopt a decision such as the contested decision.</prem>
+<prem ID="A34" T="L" SUP="A32|A33" S="Itpr|Rule">Consequently, a Council decision authorising a Member State, in accordance with Article 8(4) of Directive 92/81, to introduce an exemption of excise duties could not have the effect of preventing the Commission from exercising the powers conferred on it by the Treaty and, consequently, setting in motion the procedure laid down in Article 88 EC in order to review whether that exemption constituted State aid and on the conclusion of that procedure, if appropriate, to adopt a decision such as the contested decision.</prem>
 
 50
 
@@ -348,17 +348,17 @@ Findings of the Court
 53
 
 
-<prem ID="A39" T="L|F" S="Prec">However, as claimed by the Commission, the concept of State aid corresponds to an objective situation and cannot depend on the conduct or statements of the institutions (Commission v Ireland and Others, paragraph 72).</prem> <prem ID="A40" T="F">Consequently, the fact that the authorisation decisions were adopted on a proposal from the Commission could not preclude those exemptions being classified as State aid, within the meaning of Article 87(1) EC, if the conditions governing the existence of State aid were met.</prem> <prem ID="A41" T="L|F" S="Princ|Rule">That fact however had to be taken into consideration in relation to the obligation to recover the incompatible aid, in the light of the principles of protection of legitimate expectations and legal certainty, as was done by the Commission in the contested decision when it declined to order the recovery of aid granted before the date of publication in the Official Journal of the European Communities of the decisions to initiate the procedure laid down in Article 88(2) EC.</prem>
+<prem ID="A39" T="L|F" S="Prec">However, as claimed by the Commission, the concept of State aid corresponds to an objective situation and cannot depend on the conduct or statements of the institutions (Commission v Ireland and Others, paragraph 72).</prem> <prem ID="A40" T="F" SUP="A39">Consequently, the fact that the authorisation decisions were adopted on a proposal from the Commission could not preclude those exemptions being classified as State aid, within the meaning of Article 87(1) EC, if the conditions governing the existence of State aid were met.</prem> <prem ID="A41" T="L|F" S="Princ|Rule">That fact however had to be taken into consideration in relation to the obligation to recover the incompatible aid, in the light of the principles of protection of legitimate expectations and legal certainty, as was done by the Commission in the contested decision when it declined to order the recovery of aid granted before the date of publication in the Official Journal of the European Communities of the decisions to initiate the procedure laid down in Article 88(2) EC.</prem>
 
 54
 
 
-<prem ID="A42" T="F">It follows that the grounds of the judgment under appeal set out in paragraphs 39 to 44 of this judgment cannot provide a legal basis for the General Court’s conclusion that the contested decision calls into question the validity of the Council’s authorisation decisions and thereby is in breach of the principles of legal certainty and the presumption of legality attaching to European Union measures.</prem> <prem ID="A43" T="F">The same is true of the conclusion, based on the same grounds, that, in Case T‑62/06 RENV, the Commission infringed the principle of sound administration.</prem>
+<prem ID="A42" T="F" SUP="A27|A36|A37|A38|A40|A41" SFF="A25|A25bis">It follows that the grounds of the judgment under appeal set out in paragraphs 39 to 44 of this judgment cannot provide a legal basis for the General Court’s conclusion that the contested decision calls into question the validity of the Council’s authorisation decisions and thereby is in breach of the principles of legal certainty and the presumption of legality attaching to European Union measures.</prem> <prem ID="A43" T="F" SUP="A27|A36|A37|A38|A40|A41" SFF="A26">The same is true of the conclusion, based on the same grounds, that, in Case T‑62/06 RENV, the Commission infringed the principle of sound administration.</prem>
 
 55
 
 
- <conc ID="A44">In the light of the foregoing, the judgment under appeal must be set aside in its entirety, there being no need to examine the parties’ other arguments and pleas.</conc>
+ <conc ID="A44" SUP="A13|A42|A43">In the light of the foregoing, the judgment under appeal must be set aside in its entirety, there being no need to examine the parties’ other arguments and pleas.</conc>
 
 Whether the cases should be referred back to the General Court
 

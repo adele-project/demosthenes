@@ -198,7 +198,7 @@ Findings of the Court
 
 48 
 
-<prem ID="A11" T="L" S="Rule|Itpr"> Accordingly, the specific status of ‘interested party’ within the meaning of Article 1(h) of Regulation No 659/1999, in conjunction with the specific subject-matter of the action, is sufficient to distinguish individually, for the purposes of the fourth paragraph of Article 230 EC, the applicant contesting a decision not to raise objections.</prem>
+<prem ID="A11" T="L" S="Rule|Itpr" SUP="A1|A2|A3|A3bis|A4|A5|A6|A7|A8|A9|A10"> Accordingly, the specific status of ‘interested party’ within the meaning of Article 1(h) of Regulation No 659/1999, in conjunction with the specific subject-matter of the action, is sufficient to distinguish individually, for the purposes of the fourth paragraph of Article 230 EC, the applicant contesting a decision not to raise objections.</prem>
 
 49 
 
@@ -226,7 +226,7 @@ Findings of the Court
 
 55 
 
-<prem ID="A19" T="L|F" S="Rule|Prec|Itpr"> With regard to the first and third pleas, the General Court thus rightly pointed out in paragraph 81 of the judgment under appeal that, according to settled case-law, it was not for it, the General Court, to interpret an action challenging exclusively the merits of an aid assessment decision as such as seeking, in reality, to ensure the respect of the procedural rights available to the applicant under Article 88(2) EC, where the applicant has not expressly raised a plea to that effect.</prem> <prem ID="A20" T="L" S="Prec"> In such circumstances, the interpretation of the plea would be tantamount to re-defining the subject-matter of the action (see, to that effect, the judgment of 29 November 2007 in Case C‑176/06 P Stadtwerke Schwäbisch Hall and Others v Commission, paragraph 25).</prem>
+<prem ID="A19" T="L|F" S="Rule|Prec|Itpr" SUP="A18"> With regard to the first and third pleas, the General Court thus rightly pointed out in paragraph 81 of the judgment under appeal that, according to settled case-law, it was not for it, the General Court, to interpret an action challenging exclusively the merits of an aid assessment decision as such as seeking, in reality, to ensure the respect of the procedural rights available to the applicant under Article 88(2) EC, where the applicant has not expressly raised a plea to that effect.</prem> <prem ID="A20" T="L" S="Prec" SUP="A18"> In such circumstances, the interpretation of the plea would be tantamount to re-defining the subject-matter of the action (see, to that effect, the judgment of 29 November 2007 in Case C‑176/06 P Stadtwerke Schwäbisch Hall and Others v Commission, paragraph 25).</prem>
 
 56 
 
@@ -234,11 +234,11 @@ Findings of the Court
 
 57 
 
-<prem ID="A22" T="F"> Consequently, the General Court held in paragraph 83 of the judgment under appeal that it was entitled to examine the first and third pleas, in order to ascertain whether the arguments put forward in the context of those pleas could be linked to the plea alleging disregard for procedural guarantees.</prem> <prem ID="A23" T="F"> In that context, the General Court held in paragraph 86 of that judgment that the arguments relied upon in support of the first plea, in so far as they were intended to challenge the Commission’s decision not to initiate the formal investigation procedure, had to be examined at the same time as the arguments put forward in support of the second plea.</prem>
+<prem ID="A22" T="F" SUP="A15|A16|A17|A19|A20|A21"> Consequently, the General Court held in paragraph 83 of the judgment under appeal that it was entitled to examine the first and third pleas, in order to ascertain whether the arguments put forward in the context of those pleas could be linked to the plea alleging disregard for procedural guarantees.</prem> <prem ID="A23" T="F" SUP="A15|A16|A17|A19|A20|A21"> In that context, the General Court held in paragraph 86 of that judgment that the arguments relied upon in support of the first plea, in so far as they were intended to challenge the Commission’s decision not to initiate the formal investigation procedure, had to be examined at the same time as the arguments put forward in support of the second plea.</prem>
 
 58 
 
-<prem ID="A24" T="F"> In so doing, however, the General Court did not err in law.</prem>
+<prem ID="A24" T="F" SUP="A25|A26|A27|A28"> In so doing, however, the General Court did not err in law.</prem>
 
 59 
 
@@ -246,7 +246,7 @@ Findings of the Court
 
 60 
 
-<conc ID="A29"> In those circumstances, the first and second grounds of appeal must be rejected in their entirety.</conc>
+<conc ID="A29" SUP="A11|A12|A13|A22|A23|A24"> In those circumstances, the first and second grounds of appeal must be rejected in their entirety.</conc>
 
  The third ground of appeal
 
@@ -264,7 +264,7 @@ Findings of the Court
 
 64 
 
-<prem ID="B3" T="L|F" S="Itpr"> As a consequence, that provision does not rule out the possibility that an undertaking which is not a direct competitor of the beneficiary of the aid, but which requires the same raw material for its production process, can be categorised as an interested party, provided that that undertaking demonstrates that its interests could be adversely affected by the grant of the aid.</prem>
+<prem ID="B3" T="L|F" S="Itpr" SUP="B1|B2"> As a consequence, that provision does not rule out the possibility that an undertaking which is not a direct competitor of the beneficiary of the aid, but which requires the same raw material for its production process, can be categorised as an interested party, provided that that undertaking demonstrates that its interests could be adversely affected by the grant of the aid.</prem>
 
 65 
 
@@ -284,19 +284,19 @@ Findings of the Court
 
 69 
 
-<prem ID="B8" T="F"> On that basis, the General Court held in paragraph 77 of that judgment that Kronoply and Kronotex had ‘established to the requisite legal standard the existence of a relationship of rivalry, as well as the potential adverse effects on their market position, attributable to the grant of the aid at issue’.</prem>
+<prem ID="B8" T="F" SUP="B5|B6|B7"> On that basis, the General Court held in paragraph 77 of that judgment that Kronoply and Kronotex had ‘established to the requisite legal standard the existence of a relationship of rivalry, as well as the potential adverse effects on their market position, attributable to the grant of the aid at issue’.</prem>
 
 70 
 
-<prem ID="B9" T="F"> In those circumstances, an error of law cannot be imputed to the General Court for holding, in essence, that undertakings which are not competitors of the aid recipient on the market for the goods which they manufacture can be covered by the notion of ‘interested parties’ within the meaning of Article 1(h) of Regulation No 659/1999.</prem>
+<prem ID="B9" T="F" SUP="B3|B4|B8"> In those circumstances, an error of law cannot be imputed to the General Court for holding, in essence, that undertakings which are not competitors of the aid recipient on the market for the goods which they manufacture can be covered by the notion of ‘interested parties’ within the meaning of Article 1(h) of Regulation No 659/1999.</prem>
 
 71 
 
-<prem ID="B10" T="F"> It follows from those considerations that the General Court was correct in holding that Kronoply and Kronotex were interested parties within the meaning of that provision.</prem>
+<prem ID="B10" T="F" SUP="B3|B4|B8"> It follows from those considerations that the General Court was correct in holding that Kronoply and Kronotex were interested parties within the meaning of that provision.</prem>
 
 72 
 
-<conc ID="B11"> Consequently, the third ground of appeal must be rejected.</conc>
+<conc ID="B11" SUP="B9|B10"> Consequently, the third ground of appeal must be rejected.</conc>
 
 73 It follows from all of the foregoing considerations that the appeal must be dismissed in its entirety.
 

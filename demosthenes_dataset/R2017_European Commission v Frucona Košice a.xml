@@ -350,7 +350,7 @@ Findings of the Court
 19
 
 
-<prem ID="A1" T="L" S="Prec|Rule|Class"> According to the settled case-law of the Court, classification as ‘State aid’ within the meaning of Article 107(1) TFEU requires that all the conditions set out in that provision are fulilled.</prem> <prem ID="A2" T="L" S="Class"> Thus, first, there must be intervention by the State or through State resources;</prem> <prem ID="A2bis" T="L" S="Class">second, the intervention must be liable to affect trade between Member States;</prem> <prem ID="A2ter" T="L" S="Class">third, it must confer a selective advantage on the recipient;</prem> <prem ID="A2quater" T="L" S="Prec|Class">fourth, it must distort or threaten to distort competition (judgments of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 40, and of 21 December 2016, Commission v World Duty Free Group and Others, C‑20/15 P and C‑21/15 P, EU:C:2016:981, paragraph 53).</prem>
+<prem ID="A1" T="L" S="Prec|Rule|Class"> According to the settled case-law of the Court, classification as ‘State aid’ within the meaning of Article 107(1) TFEU requires that all the conditions set out in that provision are fulilled.</prem> <prem ID="A2" T="L" S="Class" SUP="A1"> Thus, first, there must be intervention by the State or through State resources;</prem> <prem ID="A2bis" T="L" S="Class">second, the intervention must be liable to affect trade between Member States;</prem> <prem ID="A2ter" T="L" S="Class">third, it must confer a selective advantage on the recipient;</prem> <prem ID="A2quater" T="L" S="Prec|Class">fourth, it must distort or threaten to distort competition (judgments of 21 December 2016, Commission v Hansestadt Lübeck, C‑524/14 P, EU:C:2016:971, paragraph 40, and of 21 December 2016, Commission v World Duty Free Group and Others, C‑20/15 P and C‑21/15 P, EU:C:2016:981, paragraph 53).</prem>
 
 20
 
@@ -369,22 +369,22 @@ Findings of the Court
 23
 
 
-<prem ID="A6" T="L" S="Rule|Itpr"> Accordingly, the private creditor test is not an exception which applies only if a Member State so requests, when all the constituent elements of State aid incompatible with the common market, as laid down in Article 107(1) TFEU, exist.</prem> <prem ID="A7" T="L" S="Prec"> In fact, that test, where applicable, is among the factors which the Commission is required to take into account for the purposes of establishing whether such aid exists (see, to that effect, judgments of 5 June 2012, Commission v EDF, C‑124/10 P, EU:C:2012:318, paragraph 103, and of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 32).</prem>
+<prem ID="A6" T="L" S="Rule|Itpr" SUP="A7"> Accordingly, the private creditor test is not an exception which applies only if a Member State so requests, when all the constituent elements of State aid incompatible with the common market, as laid down in Article 107(1) TFEU, exist.</prem> <prem ID="A7" T="L" S="Prec"> In fact, that test, where applicable, is among the factors which the Commission is required to take into account for the purposes of establishing whether such aid exists (see, to that effect, judgments of 5 June 2012, Commission v EDF, C‑124/10 P, EU:C:2012:318, paragraph 103, and of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 32).</prem>
 
 24
 
 
-<prem ID="A8" T="L" S="Prec"> As a result, where it appears that the private creditor test might be applicable, it is for the Commission to ask the Member State concerned to provide it with all the relevant information enabling it to determine whether the conditions for applying that test are satisfied (judgment of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 33).</prem>
+<prem ID="A8" T="L" S="Prec" SUP="A1|A2|A3|A4|A5|A6"> As a result, where it appears that the private creditor test might be applicable, it is for the Commission to ask the Member State concerned to provide it with all the relevant information enabling it to determine whether the conditions for applying that test are satisfied (judgment of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 33).</prem>
 
 25
 
 
-<prem ID="A9" T="L" S="Prec"> In the first place, it is clear from that case-law of the Court that, when it appears that the private creditor test might be applicable, it is for the Commission to examine that possibility, irrespective of any request to that effect.</prem>
+<prem ID="A9" T="L" S="Prec" SUP="A8"> In the first place, it is clear from that case-law of the Court that, when it appears that the private creditor test might be applicable, it is for the Commission to examine that possibility, irrespective of any request to that effect.</prem>
 
 26
 
 
-<prem ID="A10" T="L" S="Aut"> Accordingly, as the Advocate General noted in points 72 and 76 of his Opinion, nothing prevents the recipient of the aid from invoking the applicability of that test and, if the recipient does invoke that test, it falls to the Commission to assess whether the test needs to be applied and, if so, to assess its application.</prem> 
+<prem ID="A10" T="L" S="Aut" SUP="A9"> Accordingly, as the Advocate General noted in points 72 and 76 of his Opinion, nothing prevents the recipient of the aid from invoking the applicability of that test and, if the recipient does invoke that test, it falls to the Commission to assess whether the test needs to be applied and, if so, to assess its application.</prem> 
 
 27
 
@@ -409,7 +409,7 @@ Findings of the Court
 31
 
 
-<conc ID="A15"> Accordingly, the second and fourth grounds of appeal must be rejected as unfounded.</conc>
+<conc ID="A15" SUP="A10|A13|A14"> Accordingly, the second and fourth grounds of appeal must be rejected as unfounded.</conc>
 
 The first ground of appeal, alleging misinterpretation of the decision at issue
 
@@ -435,7 +435,7 @@ Findings of the Court
 35
 
 
-<prem ID="B1" T="F"> First, it must be stated that the decision at issue does not expressly specify that the private creditor test is inapplicable in the present case.</prem> <prem ID="B2" T="F"> On the contrary, it applies that test and its conclusion, stated in recitals 139 and 140, that the measure at issue does constitute State aid, is explicitly based on its application.</prem>
+<prem ID="B1" T="F"> First, it must be stated that the decision at issue does not expressly specify that the private creditor test is inapplicable in the present case.</prem> <prem ID="B2" T="F" SUP="B1"> On the contrary, it applies that test and its conclusion, stated in recitals 139 and 140, that the measure at issue does constitute State aid, is explicitly based on its application.</prem>
 
 36
 
@@ -450,7 +450,7 @@ Findings of the Court
 38
 
 
-<conc ID="B6"> In those circumstances, the first ground of appeal must be rejected as unfounded.</conc>
+<conc ID="B6" SUP="B2|B3|B4|B5"> In those circumstances, the first ground of appeal must be rejected as unfounded.</conc>
 
 The third ground of appeal, concerning the principles res judicata and ne ultra petita
 
@@ -471,7 +471,7 @@ Findings of the Court
 41
 
 
-<prem ID="C1" T="F"> As the third ground of appeal relates to reasoning that was included for the sake of completeness in support of the General Court’s decision that the private creditor test was applicable to the facts of the present case, and since the first, second and fourth grounds of appeal, which criticise the same decision of the General Court, have been rejected as unfounded,</prem> <conc ID="C2"> the third ground of appeal must be rejected as ineffective.</conc> 
+<prem ID="C1" T="F"> As the third ground of appeal relates to reasoning that was included for the sake of completeness in support of the General Court’s decision that the private creditor test was applicable to the facts of the present case, and since the first, second and fourth grounds of appeal, which criticise the same decision of the General Court, have been rejected as unfounded,</prem> <conc ID="C2" SUP="C1"> the third ground of appeal must be rejected as ineffective.</conc> 
 
 The fifth and sixth grounds of appeal, concerning the application of the private creditor test and the Commission’s obligation to carry out a diligent and impartial investigation
 
@@ -573,7 +573,7 @@ Findings of the Court
 60
 
 
-<prem ID="D3" T="L" S="Prec">In that regard, all information liable to have a significant influence on the decision-making process of a normally prudent and diligent private creditor, who is in a situation as close as possible to that of the public creditor and is seeking to recover sums due to it by a debtor experiencing difficulty in making the payments, must be regarded as being relevant (judgments of 24 January 2013, Frucona Košice v Commission, C‑73/11 P, EU:C:2013:32, paragraph 78, and of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 54).</prem>
+<prem ID="D3" T="L" S="Prec" SUP="D2">In that regard, all information liable to have a significant influence on the decision-making process of a normally prudent and diligent private creditor, who is in a situation as close as possible to that of the public creditor and is seeking to recover sums due to it by a debtor experiencing difficulty in making the payments, must be regarded as being relevant (judgments of 24 January 2013, Frucona Košice v Commission, C‑73/11 P, EU:C:2013:32, paragraph 78, and of 21 March 2013, Commission v Buczek Automotive, C‑405/11 P, not published, EU:C:2013:186, paragraph 54).</prem>
 
 61
 
@@ -608,7 +608,7 @@ Findings of the Court
 67
 
 
-<prem ID="D10" T="F"> Second, in so far as the Commission criticises the General Court for having created, inter alia by failing to limit the Commission’s verification obligation to the evidence available to it, a new requirement imposing on it the excessive burden of having to seek all ‘imaginable’ evidence and information, it is clear that the Commission’s argument is based on an incorrect reading of the judgment under appeal.</prem>
+<prem ID="D10" T="F" REPH="D16" SUP="D11|D12|D13|D14|D15"> Second, in so far as the Commission criticises the General Court for having created, inter alia by failing to limit the Commission’s verification obligation to the evidence available to it, a new requirement imposing on it the excessive burden of having to seek all ‘imaginable’ evidence and information, it is clear that the Commission’s argument is based on an incorrect reading of the judgment under appeal.</prem>
 
 68
 
@@ -638,32 +638,32 @@ Findings of the Court
 73
 
 
-<prem ID="D16" T="F" S="Itpr"> Paragraphs 180 to 213 and 235 of the judgment under appeal, against which the Commission’s objections referred to in paragraph 64 of the present judgment are directed, when read in the legal context referred to by the General Court, do not imply new requirements that are incompatible with the case-law of the Court of Justice.</prem>
+<prem ID="D16" T="F" S="Itpr" REPH="D10" SUP="D11|D12|D13|D14|D15"> Paragraphs 180 to 213 and 235 of the judgment under appeal, against which the Commission’s objections referred to in paragraph 64 of the present judgment are directed, when read in the legal context referred to by the General Court, do not imply new requirements that are incompatible with the case-law of the Court of Justice.</prem>
 
 74
 
 
-<prem ID="D17" T="F"> Thus, the factual findings made in paragraph 185 of the judgment under appeal — that the Commission had determined the liquidation factors by way of inference from the evidence in the administrative file, had not carried out any methodological or economic analysis and had not requested additional information intended to verify and substantiate the conclusions which it had drawn from that evidence — cannot be read as containing a requirement that goes beyond those demanded by the principles noted by the General Court in paragraphs 138 to 143 of the judgment under appeal or that would be incompatible with those set out in paragraphs 59 and 60 of the present judgment.</prem>
+<prem ID="D17" T="F" SUP="D10|D16"> Thus, the factual findings made in paragraph 185 of the judgment under appeal — that the Commission had determined the liquidation factors by way of inference from the evidence in the administrative file, had not carried out any methodological or economic analysis and had not requested additional information intended to verify and substantiate the conclusions which it had drawn from that evidence — cannot be read as containing a requirement that goes beyond those demanded by the principles noted by the General Court in paragraphs 138 to 143 of the judgment under appeal or that would be incompatible with those set out in paragraphs 59 and 60 of the present judgment.</prem>
 
 75
 
 
-<prem ID="D18" T="F"> Concerning the General Court’s findings of fact in paragraphs 186, 196, 200 and 201 of the judgment under appeal — that the evidence on the administrative file did not substantiate to the requisite legal standard the Commission’s assessment of the liquidation factors and that, accordingly, it should have sought to obtain additional information in order to substantiate its conclusions — these assessments in no way exceed the limits of judicial review of a manifest error of assessment which is to be carried out by the General Court in accordance with the case-law noted in paragraph 64 of the present judgment, and cannot be considered to introduce a requirement that would be incompatible with the principles set out in paragraphs 59 and 60 of the present judgment.</prem>
+<prem ID="D18" T="F" SUP="D10|D16"> Concerning the General Court’s findings of fact in paragraphs 186, 196, 200 and 201 of the judgment under appeal — that the evidence on the administrative file did not substantiate to the requisite legal standard the Commission’s assessment of the liquidation factors and that, accordingly, it should have sought to obtain additional information in order to substantiate its conclusions — these assessments in no way exceed the limits of judicial review of a manifest error of assessment which is to be carried out by the General Court in accordance with the case-law noted in paragraph 64 of the present judgment, and cannot be considered to introduce a requirement that would be incompatible with the principles set out in paragraphs 59 and 60 of the present judgment.</prem>
 
 76
 
 
-<prem ID="D19" T="F"> To the extent that the General Court held, in paragraph 186 of the judgment under appeal, that the evidence on the administrative file must substantiate the conclusions drawn by the Commission not only to the requisite legal standard but also unequivocally, it suffices to note that it is clear from paragraphs 187 to 201 of the judgment under appeal that, in any case, the General Court did not carry out its assessment by reference to such a requirement and did not allude to it in the context of its considerations in paragraphs 196, 200, 201 and 235 of the judgment under appeal.</prem>
+<prem ID="D19" T="F" SUP="D10|D16"> To the extent that the General Court held, in paragraph 186 of the judgment under appeal, that the evidence on the administrative file must substantiate the conclusions drawn by the Commission not only to the requisite legal standard but also unequivocally, it suffices to note that it is clear from paragraphs 187 to 201 of the judgment under appeal that, in any case, the General Court did not carry out its assessment by reference to such a requirement and did not allude to it in the context of its considerations in paragraphs 196, 200, 201 and 235 of the judgment under appeal.</prem>
 
 77
 
 
-<prem ID="D20" T="F" S="Aut"> As the Advocate General noted in paragraphs 125 and 131 of his Opinion, the General Court merely noted, in paragraphs 191 to 195, 198 and 199 of the judgment under appeal, the internal contradictions of the decision at issue and made findings of fact according to which none of the evidence on the administrative file was able to substantiate the liquidation factors used by the Commission.</prem>
+<prem ID="D20" T="F" S="Aut" SUP="D10|D16"> As the Advocate General noted in paragraphs 125 and 131 of his Opinion, the General Court merely noted, in paragraphs 191 to 195, 198 and 199 of the judgment under appeal, the internal contradictions of the decision at issue and made findings of fact according to which none of the evidence on the administrative file was able to substantiate the liquidation factors used by the Commission.</prem>
 
 78
 
 
-<prem ID="D21" T="F"> Accordingly, contrary to the Commission’s submissions, the General Court did not apply an incorrect legal test.</prem> <prem ID="D22" T="F"> It follows that the Commission’s claims must be rejected as, in part, ineffective and, in part, unfounded.</prem>
+<prem ID="D21" T="F" SUP="D17|D18|D19|D20"> Accordingly, contrary to the Commission’s submissions, the General Court did not apply an incorrect legal test.</prem> <prem ID="D22" T="F" SUP="D22"> It follows that the Commission’s claims must be rejected as, in part, ineffective and, in part, unfounded.</prem>
 
 79
 
@@ -678,7 +678,7 @@ Findings of the Court
 81
 
 
-<prem ID="D25" T="L|F" S="Prec"> Such considerations, in so far as they concern the information that a normally prudent and diligent private creditor in a situation as close as possible to that of the local tax office could not a priori ignore, are capable, in themselves, of justifying the General Court’s decision that the Commission failed to take into consideration all the relevant information (see, to that effect, judgment of 24 January 2013, Frucona Košice v Commission, C‑73/11 P, EU:C:2013:32, paragraphs 77, 78 and 81).</prem>
+<prem ID="D25" T="L|F" S="Prec" SUP="D24"> Such considerations, in so far as they concern the information that a normally prudent and diligent private creditor in a situation as close as possible to that of the local tax office could not a priori ignore, are capable, in themselves, of justifying the General Court’s decision that the Commission failed to take into consideration all the relevant information (see, to that effect, judgment of 24 January 2013, Frucona Košice v Commission, C‑73/11 P, EU:C:2013:32, paragraphs 77, 78 and 81).</prem>
 
 82
 
@@ -688,7 +688,7 @@ Findings of the Court
 83
 
 
-<conc ID="D27"> Accordingly, the fifth and sixth grounds of appeal must be rejected as unfounded.</conc>
+<conc ID="D27" SUP="D1|D3|D4|D5|D6|D7|D8|D9|D22|D23|D25|D26"> Accordingly, the fifth and sixth grounds of appeal must be rejected as unfounded.</conc>
 
 84
 

@@ -288,7 +288,7 @@ Findings of the Court
 
 31
 
-<prem ID="A2" T="L" S="Prec"> Therefore, the appraisal of the facts by the General Court does not constitute, save where the clear sense of the evidence produced before it is distorted, a question of law which is subject, as such, to review by the Court of Justice (judgments in Archer Daniels Midland and Archer Daniels Midland Ingredients v Commission, C‑397/03 P, EU:C:2006:328, paragraph 85, and ThyssenKrupp Nirosta v Commission, C‑352/09 P, EU:C:2011:191, paragraph 180).</prem>
+<prem ID="A2" T="L" S="Prec" SUP="A1"> Therefore, the appraisal of the facts by the General Court does not constitute, save where the clear sense of the evidence produced before it is distorted, a question of law which is subject, as such, to review by the Court of Justice (judgments in Archer Daniels Midland and Archer Daniels Midland Ingredients v Commission, C‑397/03 P, EU:C:2006:328, paragraph 85, and ThyssenKrupp Nirosta v Commission, C‑352/09 P, EU:C:2011:191, paragraph 180).</prem>
 
 32
 
@@ -306,16 +306,16 @@ Findings of the Court
 
 <prem ID="A7" T="F"> The Commission found that:
 
-“... under Article 5(a) of Law … 1790/1988 ... and other provisions of Greek legislation in force, ELGA’s income from the special contribution was collected by the tax authorities, entered in the State budget as State revenue and paid to ELGA from the budget of the Ministry of Agriculture (now the Ministry of Rural Development and Food).</prem> <prem ID="A8" T="F"> Consequently, the fact that the contributions in question are entered into the accounts as State revenue is sufficient to consider that the payments made by ELGA were financed by State resources” (recital 58).</prem>
+“... under Article 5(a) of Law … 1790/1988 ... and other provisions of Greek legislation in force, ELGA’s income from the special contribution was collected by the tax authorities, entered in the State budget as State revenue and paid to ELGA from the budget of the Ministry of Agriculture (now the Ministry of Rural Development and Food).</prem> <prem ID="A8" T="F" SUP="A7"> Consequently, the fact that the contributions in question are entered into the accounts as State revenue is sufficient to consider that the payments made by ELGA were financed by State resources” (recital 58).</prem>
 
 124
 
-<prem ID="A9" T="F"> Those findings, which are not disputed by the Hellenic Republic, suffice to conclude that the compensation payments that correspond to the contributions by farmers are State resources and are imputable to the State.</prem>
+<prem ID="A9" T="F" SUP="A6|A8"> Those findings, which are not disputed by the Hellenic Republic, suffice to conclude that the compensation payments that correspond to the contributions by farmers are State resources and are imputable to the State.</prem>
 
 125
 
 
-<prem ID="A10" T="F"> Therefore, contrary to what the Hellenic Republic claims, the part of the payments corresponding to the contributions by farmers may not be regarded as being private funds.</prem> <prem ID="A11" T="F"> Accordingly, the fact that a part of the payments made in 2008 was financed by contributions by farmers does not preclude these being State aid financed by resources imputable to the State.</prem>
+<prem ID="A10" T="F" SUP="A9"> Therefore, contrary to what the Hellenic Republic claims, the part of the payments corresponding to the contributions by farmers may not be regarded as being private funds.</prem> <prem ID="A11" T="F" SUP="A10"> Accordingly, the fact that a part of the payments made in 2008 was financed by contributions by farmers does not preclude these being State aid financed by resources imputable to the State.</prem>
 
 126
 
@@ -323,11 +323,11 @@ Findings of the Court
 
 127
 
-<prem ID="A14" T="F"> Furthermore, the Hellenic Republic concedes that the contributions paid by farmers are not proportionate to risk and that it is possible that certain farmers pay a contribution without receiving compensation payments from ELGA.</prem> <prem ID="A15" T="F"> The payments made in 2008 were therefore independent of the contributions paid by the farmers and constituted an advantage that the beneficiary undertaking could not have obtained under normal market conditions.</prem>
+<prem ID="A14" T="F"> Furthermore, the Hellenic Republic concedes that the contributions paid by farmers are not proportionate to risk and that it is possible that certain farmers pay a contribution without receiving compensation payments from ELGA.</prem> <prem ID="A15" T="F" SUP="A14"> The payments made in 2008 were therefore independent of the contributions paid by the farmers and constituted an advantage that the beneficiary undertaking could not have obtained under normal market conditions.</prem>
 
 128
 
-<prem ID="A16" T="F"> It follows from the foregoing that the Commission was fully entitled to find that the payments made by ELGA in 2008 were advantages financed by State resources, even if they were financed in part by contributions by farmers.</prem> <prem ID="A17" T="F"> The Hellenic Republic has not shown that the Commission erred in classifying those payments as State aid.</prem>
+<prem ID="A16" T="F" SUP="A11|A12|A13|A15" SFF="A17"> It follows from the foregoing that the Commission was fully entitled to find that the payments made by ELGA in 2008 were advantages financed by State resources, even if they were financed in part by contributions by farmers.</prem> <prem ID="A17" T="F"> The Hellenic Republic has not shown that the Commission erred in classifying those payments as State aid.</prem>
 
 ...
 
@@ -338,23 +338,23 @@ Findings of the Court
 131
 
 
-<prem ID="A20" T="F"> It follows that the Commission was correct in finding that the compensation payments made in 2009 were not financed by the contributions paid under the ELGA compulsory insurance scheme ... .</prem>
+<prem ID="A20" T="F" REPH="A21" SUP="A18|A19"> It follows that the Commission was correct in finding that the compensation payments made in 2009 were not financed by the contributions paid under the ELGA compulsory insurance scheme ... .</prem>
 
 132
 
-<prem ID="A21" T="F"> Therefore, contrary to what the Hellenic Republic claims, the contributions paid by farmers in 2009 under the compulsory insurance scheme may not be regarded as financing part of the aid paid in 2009.’</prem>
+<prem ID="A21" T="F" REPH="A20" SUP="A18|A19"> Therefore, contrary to what the Hellenic Republic claims, the contributions paid by farmers in 2009 under the compulsory insurance scheme may not be regarded as financing part of the aid paid in 2009.’</prem>
 
 34
 
-<prem ID="A22" T="F"> In the light of the General Court’s findings set out above, the argument alleging distortion of the facts must be rejected at the outset, since, by its line of argument, the Hellenic Republic has not shown that the General Court distorted the facts in a manner obvious from the documents in the file.</prem>
+<prem ID="A22" T="F" SUP="A2|A3|A4|A5|A16|A20|A21"> In the light of the General Court’s findings set out above, the argument alleging distortion of the facts must be rejected at the outset, since, by its line of argument, the Hellenic Republic has not shown that the General Court distorted the facts in a manner obvious from the documents in the file.</prem>
 
 35
 
-<prem ID="A23" T="F"> In the second place, with regard to the argument that the General Court described the facts incorrectly, it should be stated that, having first of all pointed out, in paragraph 126 of the judgment under appeal, that the classification as State aid did not apply to the special insurance contribution paid by farmers but to the payment of compensation aid by ELGA;</prem> <prem ID="A24" T="F"> having then found, in paragraph 127 of that judgment, that the payments made in 2008 were independent of those contributions;</prem> <prem ID="A25" T="F"> and, lastly, having pointed out, in paragraphs 130 to 132 of that judgment, that the payments made in 2009 were financed not by the contributions but by means of a loan, guaranteed by the State, taken out to that end with a bank,</prem> <prem ID="A26" T="F"> the General Court was entitled to conclude, without erring in law, that those payments were advantages financed by State resources.</prem>
+<prem ID="A23" T="F"> In the second place, with regard to the argument that the General Court described the facts incorrectly, it should be stated that, having first of all pointed out, in paragraph 126 of the judgment under appeal, that the classification as State aid did not apply to the special insurance contribution paid by farmers but to the payment of compensation aid by ELGA;</prem> <prem ID="A24" T="F"> having then found, in paragraph 127 of that judgment, that the payments made in 2008 were independent of those contributions;</prem> <prem ID="A25" T="F"> and, lastly, having pointed out, in paragraphs 130 to 132 of that judgment, that the payments made in 2009 were financed not by the contributions but by means of a loan, guaranteed by the State, taken out to that end with a bank,</prem> <prem ID="A26" T="F" SUP="A2|A3|A4|A23|A24|A25|A28"> the General Court was entitled to conclude, without erring in law, that those payments were advantages financed by State resources.</prem>
 
 36
 
-<prem ID="A27" T="L|F" S="Prec|Rule"> Nor did the General Court err in law, in the third place, in relying, in paragraph 122 of the judgment under appeal, on paragraph 81 of the judgment in Freskot (C‑355/00, EU:C:2003:298), since the Court held in that paragraph, with regard to a previous version of Article 5a of Law 1790/1988 but a version in essence identical to that applicable to the present dispute, that that legislation ‘clearly establishe[d] that the benefits provided by ELGA [were] granted through State resources and [were] imputable to the State within the meaning of the Court’s case-law’.</prem>
+<prem ID="A27" T="L|F" S="Prec|Rule" SUP="A2|A3|A4"> Nor did the General Court err in law, in the third place, in relying, in paragraph 122 of the judgment under appeal, on paragraph 81 of the judgment in Freskot (C‑355/00, EU:C:2003:298), since the Court held in that paragraph, with regard to a previous version of Article 5a of Law 1790/1988 but a version in essence identical to that applicable to the present dispute, that that legislation ‘clearly establishe[d] that the benefits provided by ELGA [were] granted through State resources and [were] imputable to the State within the meaning of the Court’s case-law’.</prem>
 
 37
 
@@ -362,7 +362,7 @@ Findings of the Court
 
 38
 
-<prem ID="A29" T="L" S="Rule|Prec"> As regards the second part of the first ground of appeal, it must be recalled that, according to the settled case-law of the Court, the duty incumbent upon the General Court under Article 36 and the first paragraph of Article 53 of the Statute of the Court of Justice of the European Union to state reasons for its judgments does not require the General Court to provide an account that follows exhaustively and one by one all the arguments articulated by the parties to the case.</prem> <prem ID="A30" T="L" S="Prec"> The reasoning may therefore be implicit, on condition that it enables the persons concerned to understand the grounds of the General Court’s judgment and provides the Court of Justice with sufficient information to exercise its powers of review on appeal (see, inter alia, judgment in A2A v Commission, C‑320/09 P, EU:C:2011:858, paragraph 97).</prem>
+<prem ID="A29" T="L" S="Rule|Prec"> As regards the second part of the first ground of appeal, it must be recalled that, according to the settled case-law of the Court, the duty incumbent upon the General Court under Article 36 and the first paragraph of Article 53 of the Statute of the Court of Justice of the European Union to state reasons for its judgments does not require the General Court to provide an account that follows exhaustively and one by one all the arguments articulated by the parties to the case.</prem> <prem ID="A30" T="L" S="Prec" SUP="A29"> The reasoning may therefore be implicit, on condition that it enables the persons concerned to understand the grounds of the General Court’s judgment and provides the Court of Justice with sufficient information to exercise its powers of review on appeal (see, inter alia, judgment in A2A v Commission, C‑320/09 P, EU:C:2011:858, paragraph 97).</prem>
 
 39
 
@@ -374,19 +374,19 @@ Findings of the Court
 
 41
 
-<prem ID="A34" T="F"> In those circumstances, it must be held that the statement of reasons in the judgment under appeal meets the requirements referred to in paragraph 38 of this judgment.</prem>
+<prem ID="A34" T="F" SUP="A2|A3|A4|A30|A31|A32|A33"> In those circumstances, it must be held that the statement of reasons in the judgment under appeal meets the requirements referred to in paragraph 38 of this judgment.</prem>
 
 42
 
-<prem ID="A35" T="F"> Moreover, having found that the payments of compensation aid made in 2008 and 2009 were independent of the contributions paid by the farmers, the General Court was entitled to conclude, without erring in law, that those payments constituted an advantage that the beneficiary undertaking could not have obtained under normal market conditions, and therefore affected competition.</prem>
+<prem ID="A35" T="F" SUP="A2|A3|A4"> Moreover, having found that the payments of compensation aid made in 2008 and 2009 were independent of the contributions paid by the farmers, the General Court was entitled to conclude, without erring in law, that those payments constituted an advantage that the beneficiary undertaking could not have obtained under normal market conditions, and therefore affected competition.</prem>
 
 43
 
-<prem ID="A36" T="F"> In view of the independence of the contributions paid by the farmers in relation to the compensation aid received by them, those contributions cannot be regarded as specific charges imposed on the advantage consisting, in the present case, of the payment of that aid;</prem> <prem ID="A36bis" T="F">nor can those contributions be regarded as connected with the introduction of that advantage.</prem> <prem ID="A37" T="F">Accordingly, the General Court was fully entitled to conclude that, in the present case, the Commission was justified, under Article 107(1) TFEU, in refusing to offset the advantage and those same contributions (see, to that effect, judgment in France Télécom v Commission, C‑81/10 P, EU:C:2011:811, paragraphs 43 and 48).</prem> 
+<prem ID="A36" T="F"> In view of the independence of the contributions paid by the farmers in relation to the compensation aid received by them, those contributions cannot be regarded as specific charges imposed on the advantage consisting, in the present case, of the payment of that aid;</prem> <prem ID="A36bis" T="F">nor can those contributions be regarded as connected with the introduction of that advantage.</prem> <prem ID="A37" T="F" SUP="A2|A3|A4|A36|A36bis">Accordingly, the General Court was fully entitled to conclude that, in the present case, the Commission was justified, under Article 107(1) TFEU, in refusing to offset the advantage and those same contributions (see, to that effect, judgment in France Télécom v Commission, C‑81/10 P, EU:C:2011:811, paragraphs 43 and 48).</prem> 
 
 44
 
-<conc ID="A38"> It follows that the first ground of appeal must be rejected as, in part, inadmissible and, in part, unfounded.</conc> 
+<conc ID="A38" SUP="A22|A26|A27|A34|A35|A37"> It follows that the first ground of appeal must be rejected as, in part, inadmissible and, in part, unfounded.</conc> 
 
 
 Second ground of appeal, relating to the concept of State aid and the obligation to state reasons
@@ -434,15 +434,15 @@ Findings of the Court
 
 54
 
-<prem ID="B4" T="F"> Therefore, the argument that the General Court infringed Article 107(1) TFEU by failing to find — in the context of the serious crisis affecting the Greek economy in 2009 — that the payment of compensation aid neither conferred any competitive advantage on the farmers concerned nor affected trade between Member States, is new in character.</prem>
+<prem ID="B4" T="F" SUP="B1|B2|B3"> Therefore, the argument that the General Court infringed Article 107(1) TFEU by failing to find — in the context of the serious crisis affecting the Greek economy in 2009 — that the payment of compensation aid neither conferred any competitive advantage on the farmers concerned nor affected trade between Member States, is new in character.</prem>
 
 55
 
-<prem ID="B5" T="F"> Consequently, that argument must be rejected as inadmissible.</prem> <prem ID="B6" T="L" S="Prec">According to the settled case-law of the Court of Justice, to allow a party to put forward for the first time before the Court of Justice a plea in law which it has not raised before the General Court, would in effect allow that party to bring before the Court of Justice a wider case than that heard by the General Court (see, to that effect, judgments in Alliance One International and Standard Commercial Tobacco v Commission and Commission v Alliance One International and Others, C‑628/10 P and C‑14/11 P, EU:C:2012:479, paragraph 111, and Groupe Gascogne v Commission, C‑58/12 P, EU:C:2013:770, paragraph 35).</prem>
+<prem ID="B5" T="F" SUP="B4|B6"> Consequently, that argument must be rejected as inadmissible.</prem> <prem ID="B6" T="L" S="Prec">According to the settled case-law of the Court of Justice, to allow a party to put forward for the first time before the Court of Justice a plea in law which it has not raised before the General Court, would in effect allow that party to bring before the Court of Justice a wider case than that heard by the General Court (see, to that effect, judgments in Alliance One International and Standard Commercial Tobacco v Commission and Commission v Alliance One International and Others, C‑628/10 P and C‑14/11 P, EU:C:2012:479, paragraph 111, and Groupe Gascogne v Commission, C‑58/12 P, EU:C:2013:770, paragraph 35).</prem>
 
 56
 
-<prem ID="B7" T="F"> It follows that the second ground of appeal is admissible only in so far as, by that ground, the Hellenic Republic in essence complains that the General Court did not respond to the complaint that the decision at issue was inadequately reasoned.</prem>
+<prem ID="B7" T="F" SUP="B5"> It follows that the second ground of appeal is admissible only in so far as, by that ground, the Hellenic Republic in essence complains that the General Court did not respond to the complaint that the decision at issue was inadequately reasoned.</prem>
 
 57
 
@@ -458,7 +458,7 @@ Findings of the Court
 
 60
 
-<conc ID="B12"> It follows that the second ground of appeal must be rejected as, in part, inadmissible and, in part, unfounded.</conc> 
+<conc ID="B12" SUP="B7|B8|B9|B10|B11"> It follows that the second ground of appeal must be rejected as, in part, inadmissible and, in part, unfounded.</conc> 
 
 
 Third ground of appeal, relating to misinterpretation and misapplication of Article 107(3)(b) TFEU and the obligation to state reasons
@@ -489,7 +489,7 @@ The Commission contends that the Hellenic Republic has put forward out of time t
 
 65
 
-<prem ID="C2" T="F" S="Aut"> Consequently, as the Advocate General observed in points 32 and 34 of her Opinion, even if it is apparent from paragraphs 185 to 188 of the judgment under appeal that, in its response to the fourth plea in law in the action for annulment, the General Court did not rule on the existence in 2009 of a very serious disturbance in the Greek economy, the Hellenic Republic is entitled to claim before the Court that the General Court erred in law in rejecting its argument that such a disturbance justified the application of Article 107(3)(b) TFEU to the facts of the present case.</prem>
+<prem ID="C2" T="F" S="Aut" SUP="C1"> Consequently, as the Advocate General observed in points 32 and 34 of her Opinion, even if it is apparent from paragraphs 185 to 188 of the judgment under appeal that, in its response to the fourth plea in law in the action for annulment, the General Court did not rule on the existence in 2009 of a very serious disturbance in the Greek economy, the Hellenic Republic is entitled to claim before the Court that the General Court erred in law in rejecting its argument that such a disturbance justified the application of Article 107(3)(b) TFEU to the facts of the present case.</prem>
 
 66
 
@@ -497,7 +497,7 @@ The Commission contends that the Hellenic Republic has put forward out of time t
 
 ‘185
 
-<prem ID="C4" T="F"> With regard to the arguments raised in the fourth plea, it is clear that, contrary to what the Hellenic Republic claims, the Commission had to base its decision on the [TCF] and not directly apply Article 107(3)(b) TFEU in order to assess the compatibility of the payments made by ELGA in 2009 on account of the economic crisis experienced in Greece.</prem>
+<prem ID="C4" T="F" SUP="C6" REPH="C7"> With regard to the arguments raised in the fourth plea, it is clear that, contrary to what the Hellenic Republic claims, the Commission had to base its decision on the [TCF] and not directly apply Article 107(3)(b) TFEU in order to assess the compatibility of the payments made by ELGA in 2009 on account of the economic crisis experienced in Greece.</prem>
 
 186
 
@@ -505,11 +505,11 @@ The Commission contends that the Hellenic Republic has put forward out of time t
 
 187
 
-<prem ID="C6" T="F"> Accordingly, in the specific area of State aid, the Commission is bound by the guidelines and notices that it issues, to the extent that they do not depart from the rules in the Treaty (see judgment in Holland Malt v Commission, [C‑464/09 P, EU:C:2010:733], paragraph 47 and the case-law cited).</prem>
+<prem ID="C6" T="F" SUP="C5"> Accordingly, in the specific area of State aid, the Commission is bound by the guidelines and notices that it issues, to the extent that they do not depart from the rules in the Treaty (see judgment in Holland Malt v Commission, [C‑464/09 P, EU:C:2010:733], paragraph 47 and the case-law cited).</prem>
 
 188
 
-<prem ID="C7" T="F"> Therefore, it is necessary to reject the arguments of the Hellenic Republic to the effect that, on account of the serious disturbance in the Greek economy due to the economic crisis experienced in Greece since the end of 2008 and in 2009, the Commission should have declared the payments made by ELGA in 2009 compatible directly on the basis of Article 107(3)(b) TFEU.’</prem>
+<prem ID="C7" T="F" SUP="C6" REPH="C4"> Therefore, it is necessary to reject the arguments of the Hellenic Republic to the effect that, on account of the serious disturbance in the Greek economy due to the economic crisis experienced in Greece since the end of 2008 and in 2009, the Commission should have declared the payments made by ELGA in 2009 compatible directly on the basis of Article 107(3)(b) TFEU.’</prem>
 
 67
 
@@ -529,11 +529,11 @@ The Commission contends that the Hellenic Republic has put forward out of time t
 
 71
 
-<prem ID="C12" T="L" S="Rule|Itpr"> Consequently, first, the Commission may not fail to have regard to Article 107(3) TFEU by adopting guidelines vitiated by an error of law or a manifest error of assessment, nor may it waive, by the adoption of guidelines, the exercise of the discretion that that provision confers on it.</prem> <prem ID="C13" T="L">Further, when, in the exercise of that discretion, it adopts guidelines of that nature, these must be kept under continuous review for the purposes of anticipating any major developments not covered by those measures.</prem>
+<prem ID="C12" T="L" S="Rule|Itpr" SUP="C8|C9|C10|C11"> Consequently, first, the Commission may not fail to have regard to Article 107(3) TFEU by adopting guidelines vitiated by an error of law or a manifest error of assessment, nor may it waive, by the adoption of guidelines, the exercise of the discretion that that provision confers on it.</prem> <prem ID="C13" T="L" SUP="C8|C9|C10|C11">Further, when, in the exercise of that discretion, it adopts guidelines of that nature, these must be kept under continuous review for the purposes of anticipating any major developments not covered by those measures.</prem>
 
 72
 
-<prem ID="C14" T="L" S="Rule|Itpr"> Secondly, the adoption of such guidelines does not relieve the Commission of its obligation to examine the specific exceptional circumstances relied on by a Member State, in a particular case, for the purpose of requesting the direct application of Article 107(3)(b) TFEU, and to provide reasons for its refusal to grant such a request, should the case arise.</prem>
+<prem ID="C14" T="L" S="Rule|Itpr" SUP="C8|C9|C10|C11" INH="C16|C17"> Secondly, the adoption of such guidelines does not relieve the Commission of its obligation to examine the specific exceptional circumstances relied on by a Member State, in a particular case, for the purpose of requesting the direct application of Article 107(3)(b) TFEU, and to provide reasons for its refusal to grant such a request, should the case arise.</prem>
 
 73
 
@@ -549,7 +549,7 @@ The Commission contends that the Hellenic Republic has put forward out of time t
 
 76
 
-<conc ID="C18"> Consequently, the first part of the third ground of appeal must be rejected as unfounded.</conc> 
+<conc ID="C18" SUP="C2|C3|C4|C7|C12|C13|C14|C15" SFF="C16|C17"> Consequently, the first part of the third ground of appeal must be rejected as unfounded.</conc> 
 
 
 The second part of the third ground of appeal, relating to the obligation to state reasons
@@ -580,7 +580,7 @@ Specifically, the General Court did not examine to what extent the decision at i
 
 82
 
-<conc ID="D3"> In those circumstances, the second part of this ground of appeal must be rejected as, in part, unfounded and, in part, inadmissible.</conc>
+<conc ID="D3" SUP="D1" SFF="D2"> In those circumstances, the second part of this ground of appeal must be rejected as, in part, unfounded and, in part, inadmissible.</conc>
 
 83
 
