@@ -8,9 +8,29 @@ The corpus is annotated at three hierarchical levels: the argumentative elements
 
 If you use this repository, dataset, or code, please cite our work as:
 
+*Piera Santin, Giulia Grundler, Andrea Galassi, Federico Galli, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, Paolo Torroni. 2023. Argumentation Structure Prediction in CJEU Decisions on Fiscal State Aid. In Proceedings of 19th International Conference on Artificial Intelligence and Law (ICAIL), to be published, Braga, Portugal.*
+
 *Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. URL: [https://aclanthology.org/2022.argmining-1.14.](https://aclanthology.org/2022.argmining-1.14)*
 
 ```
+@inproceedings{santin-etal-2023-argumentation,
+    title = "Argumentation Structure Prediction in CJEU Decisions on Fiscal State Aid",
+    author = "Santin, Piera and
+      Grundler, Giulia  and
+      Galassi, Andrea  and
+      Galli, Federico  and
+      Lagioia, Francesca  and
+      Palmieri, Elena  and
+      Ruggeri, Federico  and
+      Sartor, Giovanni  and
+      Torroni, Paolo",
+    booktitle = "ICAIL '23: 19th International Conference on Artificial Intelligence and Law",
+    year = "2023",
+    address = "Braga, Portugal",
+    publisher    = "ACM",
+}
+
+
 @inproceedings{grundler-etal-2022-detecting,
     title = "Detecting Arguments in {CJEU} Decisions on Fiscal State Aid",
     author = "Grundler, Giulia  and
